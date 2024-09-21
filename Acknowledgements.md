@@ -1,682 +1,1296 @@
 
 # Open Source Software used by us
 
-The below table is generated got `pnpm licenses ls --long` command
-
-┌────────────────────────────────────────┬──────────────┬────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ Package                                │ License      │ Details                                                                                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ tslib                                  │ 0BSD         │ Microsoft Corp.                                                                                │
-│                                        │              │ Runtime library for TypeScript helper functions                                                │
-│                                        │              │ https://www.typescriptlang.org/                                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @discordjs/builders                    │ Apache-2.0   │ A set of builders that you can use when creating your bot                                      │
-│                                        │              │ https://discord.js.org                                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @discordjs/collection                  │ Apache-2.0   │ Utility data structure used in discord.js                                                      │
-│                                        │              │ https://discord.js.org                                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @discordjs/formatters                  │ Apache-2.0   │ A set of functions to format strings for Discord.                                              │
-│                                        │              │ https://discord.js.org                                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @discordjs/rest                        │ Apache-2.0   │ The REST API for discord.js                                                                    │
-│                                        │              │ https://discord.js.org                                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @discordjs/util                        │ Apache-2.0   │ Utilities shared across Discord.js packages                                                    │
-│                                        │              │ https://discord.js.org                                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @discordjs/ws                          │ Apache-2.0   │ Wrapper around Discord's gateway                                                               │
-│                                        │              │ https://discord.js.org                                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ denque                                 │ Apache-2.0   │ Invertase                                                                                      │
-│                                        │              │ The fastest javascript implementation of a double-ended queue. Used by the official Redis,     │
-│                                        │              │ MongoDB, MariaDB & MySQL libraries for Node.js and many other libraries. Maintains             │
-│                                        │              │ compatability with deque.                                                                      │
-│                                        │              │ https://docs.page/invertase/denque                                                             │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ discord.js                             │ Apache-2.0   │ A powerful library for interacting with the Discord API                                        │
-│                                        │              │ https://discord.js.org                                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ ejs                                    │ Apache-2.0   │ Matthew Eernisse                                                                               │
-│                                        │              │ Embedded JavaScript templates                                                                  │
-│                                        │              │ https://github.com/mde/ejs                                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ filelist                               │ Apache-2.0   │ Matthew Eernisse                                                                               │
-│                                        │              │ Lazy-evaluating list of files, based on globs or regex patterns                                │
-│                                        │              │ https://github.com/mde/filelist                                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ jake                                   │ Apache-2.0   │ Matthew Eernisse                                                                               │
-│                                        │              │ JavaScript build tool, similar to Make or Rake                                                 │
-│                                        │              │ https://github.com/jakejs/jake#readme                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ long                                   │ Apache-2.0   │ Daniel Wirtz                                                                                   │
-│                                        │              │ A Long class for representing a 64-bit two's-complement integer value.                         │
-│                                        │              │ https://github.com/dcodeIO/long.js#readme                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ simple-oauth2                          │ Apache-2.0   │ Andrea Reginato                                                                                │
-│                                        │              │ Node.js client for OAuth2                                                                      │
-│                                        │              │ https://github.com/lelylan/simple-oauth2                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ dotenv                                 │ BSD-2-Clause │ Loads environment variables from .env file                                                     │
-│                                        │              │ https://github.com/motdotla/dotenv#readme                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @hapi/boom                             │ BSD-3-Clause │ HTTP-friendly error objects                                                                    │
-│                                        │              │ https://github.com/hapijs/boom#readme                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @hapi/bourne                           │ BSD-3-Clause │ JSON parse with prototype poisoning protection                                                 │
-│                                        │              │ https://github.com/hapijs/bourne#readme                                                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @hapi/hoek                             │ BSD-3-Clause │ General purpose node utilities                                                                 │
-│                                        │              │ https://github.com/hapijs/hoek#readme                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @hapi/topo                             │ BSD-3-Clause │ Topological sorting with grouping support                                                      │
-│                                        │              │ https://github.com/hapijs/topo#readme                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @hapi/wreck                            │ BSD-3-Clause │ HTTP Client Utilities                                                                          │
-│                                        │              │ https://github.com/hapijs/wreck#readme                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @sideway/address                       │ BSD-3-Clause │ Email address and domain validation                                                            │
-│                                        │              │ https://github.com/sideway/address#readme                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @sideway/formula                       │ BSD-3-Clause │ Math and string formula parser.                                                                │
-│                                        │              │ https://github.com/sideway/formula#readme                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @sideway/pinpoint                      │ BSD-3-Clause │ Return the filename and line number of the calling function                                    │
-│                                        │              │ https://github.com/sideway/pinpoint#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ joi                                    │ BSD-3-Clause │ Object schema validation                                                                       │
-│                                        │              │ https://github.com/hapijs/joi#readme                                                           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ qs                                     │ BSD-3-Clause │ A querystring parser that supports nesting and arrays, with a depth limit                      │
-│                                        │              │ https://github.com/ljharb/qs                                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ inherits                               │ ISC          │ Browser-friendly inheritance fully compatible with standard node.js inherits()                 │
-│                                        │              │ https://github.com/isaacs/inherits#readme                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ lru-cache                              │ ISC          │ Isaac Z. Schlueter                                                                             │
-│                                        │              │ A cache object that deletes the least-recently-used items.                                     │
-│                                        │              │ https://github.com/isaacs/node-lru-cache#readme                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ minimatch                              │ ISC          │ Isaac Z. Schlueter                                                                             │
-│                                        │              │ a glob matcher in javascript                                                                   │
-│                                        │              │ https://github.com/isaacs/minimatch#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ passport-discord                       │ ISC          │ Nicholas Tay                                                                                   │
-│                                        │              │ Passport strategy for authentication with Discord (discordapp.com)                             │
-│                                        │              │ https://github.com/nicholastay/passport-discord#readme                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ pseudomap                              │ ISC          │ Isaac Z. Schlueter                                                                             │
-│                                        │              │ A thing that is a lot like ES6 `Map`, but without iterators, for use in environments where     │
-│                                        │              │ `for..of` syntax and `Map` are not available.                                                  │
-│                                        │              │ https://github.com/isaacs/pseudomap#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ setprototypeof                         │ ISC          │ Wes Todd                                                                                       │
-│                                        │              │ A small polyfill for Object.setprototypeof                                                     │
-│                                        │              │ https://github.com/wesleytodd/setprototypeof                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ yallist                                │ ISC          │ Isaac Z. Schlueter                                                                             │
-│                                        │              │ Yet Another Linked List                                                                        │
-│                                        │              │ https://github.com/isaacs/yallist#readme                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @sapphire/async-queue                  │ MIT          │ @sapphire                                                                                      │
-│                                        │              │ Sequential asynchronous lock-based queue for promises                                          │
-│                                        │              │ https://github.com/sapphiredev/utilities/tree/main/packages/async-queue                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @sapphire/shapeshift                   │ MIT          │ @sapphire                                                                                      │
-│                                        │              │ Blazing fast input validation and transformation ⚡                                            │
-│                                        │              │ ttps://www.sapphirejs.dev                                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @sapphire/snowflake                    │ MIT          │ @sapphire                                                                                      │
-│                                        │              │ Deconstructs and generates snowflake IDs using BigInts                                         │
-│                                        │              │ https://github.com/sapphiredev/utilities/tree/main/packages/snowflake                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/body-parser (dev)               │ MIT          │ TypeScript definitions for body-parser                                                         │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/body-parser               │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/connect (dev)                   │ MIT          │ TypeScript definitions for connect                                                             │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/connect                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/cookie-parser (dev)             │ MIT          │ TypeScript definitions for cookie-parser                                                       │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cookie-parser             │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/cors (dev)                      │ MIT          │ TypeScript definitions for cors                                                                │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cors                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/express (dev)                   │ MIT          │ TypeScript definitions for express                                                             │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/express                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/express-serve-static-core (dev) │ MIT          │ TypeScript definitions for express-serve-static-core                                           │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/express-serve-static-core │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/express-session (dev)           │ MIT          │ TypeScript definitions for express-session                                                     │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/express-session           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/http-errors (dev)               │ MIT          │ TypeScript definitions for http-errors                                                         │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/http-errors               │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/luxon                           │ MIT          │ TypeScript definitions for luxon                                                               │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/luxon                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/mime (dev)                      │ MIT          │ TypeScript definitions for mime                                                                │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/mime                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/morgan (dev)                    │ MIT          │ TypeScript definitions for morgan                                                              │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/morgan                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/node                            │ MIT          │ TypeScript definitions for node                                                                │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/qs (dev)                        │ MIT          │ TypeScript definitions for qs                                                                  │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/qs                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/range-parser (dev)              │ MIT          │ TypeScript definitions for range-parser                                                        │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/range-parser              │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/send (dev)                      │ MIT          │ TypeScript definitions for send                                                                │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/send                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/serve-static (dev)              │ MIT          │ TypeScript definitions for serve-static                                                        │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/serve-static              │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/simple-oauth2 (dev)             │ MIT          │ TypeScript definitions for simple-oauth2                                                       │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/simple-oauth2             │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @types/ws                              │ MIT          │ TypeScript definitions for ws                                                                  │
-│                                        │              │ https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ws                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ @vladfrangu/async_event_emitter        │ MIT          │ Vlad Frangu                                                                                    │
-│                                        │              │ An event emitter implementation with async support in mind                                     │
-│                                        │              │ https://github.com/vladfrangu/async_event_emitter#readme                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ accepts                                │ MIT          │ Higher-level content negotiation                                                               │
-│                                        │              │ https://github.com/jshttp/accepts#readme                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ align-text                             │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Align the text in a string.                                                                    │
-│                                        │              │ https://github.com/jonschlinkert/align-text                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ ansi-styles                            │ MIT          │ Sindre Sorhus                                                                                  │
-│                                        │              │ ANSI escape codes for styling strings in the terminal                                          │
-│                                        │              │ https://github.com/chalk/ansi-styles#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ array-flatten                          │ MIT          │ Blake Embrey                                                                                   │
-│                                        │              │ Flatten an array of nested arrays into a single flat array                                     │
-│                                        │              │ https://github.com/blakeembrey/array-flatten                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ async                                  │ MIT          │ Caolan McMahon                                                                                 │
-│                                        │              │ Higher-order functions and common patterns for asynchronous code                               │
-│                                        │              │ https://caolan.github.io/async/                                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ aws-ssl-profiles                       │ MIT          │ https://github.com/wellwelwel                                                                  │
-│                                        │              │ AWS RDS SSL certificates bundles.                                                              │
-│                                        │              │ https://github.com/mysqljs/aws-ssl-profiles#readme                                             │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ balanced-match                         │ MIT          │ Julian Gruber                                                                                  │
-│                                        │              │ Match balanced character pairs, like "{" and "}"                                               │
-│                                        │              │ https://github.com/juliangruber/balanced-match                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ base64url                              │ MIT          │ Brian J Brennan                                                                                │
-│                                        │              │ For encoding to/from base64urls                                                                │
-│                                        │              │ https://github.com/brianloveswords/base64url#readme                                            │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ basic-auth                             │ MIT          │ node.js basic auth parser                                                                      │
-│                                        │              │ https://github.com/jshttp/basic-auth#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ body-parser                            │ MIT          │ Node.js body parsing middleware                                                                │
-│                                        │              │ https://github.com/expressjs/body-parser#readme                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ brace-expansion                        │ MIT          │ Julian Gruber                                                                                  │
-│                                        │              │ Brace expansion as known from sh/bash                                                          │
-│                                        │              │ https://github.com/juliangruber/brace-expansion                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ bufferutil                             │ MIT          │ Einar Otto Stangvik                                                                            │
-│                                        │              │ WebSocket buffer utils                                                                         │
-│                                        │              │ https://github.com/websockets/bufferutil                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ bytes                                  │ MIT          │ TJ Holowaychuk                                                                                 │
-│                                        │              │ Utility to parse a string bytes to bytes and vice-versa                                        │
-│                                        │              │ https://github.com/visionmedia/bytes.js#readme                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ call-bind                              │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ Robustly `.call.bind()` a function                                                             │
-│                                        │              │ https://github.com/ljharb/call-bind#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ center-align                           │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Center-align the text in a string.                                                             │
-│                                        │              │ https://github.com/jonschlinkert/center-align                                                  │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ chalk                                  │ MIT          │ Terminal string styling done right                                                             │
-│                                        │              │ https://github.com/chalk/chalk#readme                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ color-convert                          │ MIT          │ Heather Arthur                                                                                 │
-│                                        │              │ Plain color conversion functions                                                               │
-│                                        │              │ https://github.com/Qix-/color-convert#readme                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ color-name                             │ MIT          │ DY                                                                                             │
-│                                        │              │ A list of color names and its values                                                           │
-│                                        │              │ https://github.com/colorjs/color-name                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ concat-map                             │ MIT          │ James Halliday                                                                                 │
-│                                        │              │ concatenative mapdashery                                                                       │
-│                                        │              │ https://github.com/substack/node-concat-map#readme                                             │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ content-disposition                    │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Create and parse Content-Disposition header                                                    │
-│                                        │              │ https://github.com/jshttp/content-disposition#readme                                           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ content-type                           │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Create and parse HTTP Content-Type header                                                      │
-│                                        │              │ https://github.com/jshttp/content-type#readme                                                  │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ cookie                                 │ MIT          │ Roman Shtylman                                                                                 │
-│                                        │              │ HTTP server cookie parsing and serialization                                                   │
-│                                        │              │ https://github.com/jshttp/cookie#readme                                                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ cookie-parser                          │ MIT          │ TJ Holowaychuk                                                                                 │
-│                                        │              │ Parse HTTP request cookies                                                                     │
-│                                        │              │ https://github.com/expressjs/cookie-parser#readme                                              │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ cookie-signature                       │ MIT          │ TJ Holowaychuk                                                                                 │
-│                                        │              │ Sign and unsign cookies                                                                        │
-│                                        │              │ https://github.com/visionmedia/node-cookie-signature#readme                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ cors                                   │ MIT          │ Troy Goode                                                                                     │
-│                                        │              │ Node.js CORS middleware                                                                        │
-│                                        │              │ https://github.com/expressjs/cors#readme                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ cron                                   │ MIT          │ Nick Campbell                                                                                  │
-│                                        │              │ Cron jobs for your node                                                                        │
-│                                        │              │ https://github.com/kelektiv/node-cron#readme                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ debug                                  │ MIT          │ Josh Junon                                                                                     │
-│                                        │              │ Lightweight debugging utility for Node.js and the browser                                      │
-│                                        │              │ https://github.com/debug-js/debug#readme                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ define-data-property                   │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ Define a data property on an object. Will fall back to assignment in an engine without         │
-│                                        │              │ descriptors.                                                                                   │
-│                                        │              │ https://github.com/ljharb/define-data-property#readme                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ define-property                        │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Define a non-enumerable property on an object.                                                 │
-│                                        │              │ https://github.com/jonschlinkert/define-property                                               │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ depd                                   │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Deprecate all the things                                                                       │
-│                                        │              │ https://github.com/dougwilson/nodejs-depd#readme                                               │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ destroy                                │ MIT          │ Jonathan Ong                                                                                   │
-│                                        │              │ destroy a stream if possible                                                                   │
-│                                        │              │ https://github.com/stream-utils/destroy#readme                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ discord-api-types                      │ MIT          │ Vlad Frangu                                                                                    │
-│                                        │              │ Discord API typings that are kept up to date for use in bot library creation.                  │
-│                                        │              │ https://discord-api-types.dev                                                                  │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ ee-first                               │ MIT          │ Jonathan Ong                                                                                   │
-│                                        │              │ return the first event in a set of ee/event pairs                                              │
-│                                        │              │ https://github.com/jonathanong/ee-first#readme                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ encodeurl                              │ MIT          │ Encode a URL to a percent-encoded form, excluding already-encoded sequences                    │
-│                                        │              │ https://github.com/pillarjs/encodeurl#readme                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ es-define-property                     │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ `Object.defineProperty`, but not IE 8's broken one.                                            │
-│                                        │              │ https://github.com/ljharb/es-define-property#readme                                            │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ es-errors                              │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ A simple cache for a few of the JS Error constructors.                                         │
-│                                        │              │ https://github.com/ljharb/es-errors#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ escape-html                            │ MIT          │ Escape string for use in HTML                                                                  │
-│                                        │              │ https://github.com/component/escape-html#readme                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ etag                                   │ MIT          │ Create simple HTTP ETags                                                                       │
-│                                        │              │ https://github.com/jshttp/etag#readme                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ express                                │ MIT          │ TJ Holowaychuk                                                                                 │
-│                                        │              │ Fast, unopinionated, minimalist web framework                                                  │
-│                                        │              │ http://expressjs.com/                                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ express-rate-limit                     │ MIT          │ Nathan Friedly                                                                                 │
-│                                        │              │ Basic IP rate-limiting middleware for Express. Use to limit repeated requests to public APIs   │
-│                                        │              │ and/or endpoints such as password reset.                                                       │
-│                                        │              │ https://github.com/express-rate-limit/express-rate-limit                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ express-session                        │ MIT          │ TJ Holowaychuk                                                                                 │
-│                                        │              │ Simple session middleware for Express                                                          │
-│                                        │              │ https://github.com/expressjs/session#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ fast-deep-equal                        │ MIT          │ Evgeny Poberezkin                                                                              │
-│                                        │              │ Fast deep equal                                                                                │
-│                                        │              │ https://github.com/epoberezkin/fast-deep-equal#readme                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ fdir                                   │ MIT          │ thecodrr                                                                                       │
-│                                        │              │ The fastest directory crawler & globbing alternative to glob, fast-glob, & tiny-glob. Crawls   │
-│                                        │              │ 1m files in < 1s                                                                               │
-│                                        │              │ https://github.com/thecodrr/fdir#readme                                                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ finalhandler                           │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Node.js final http responder                                                                   │
-│                                        │              │ https://github.com/pillarjs/finalhandler#readme                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ forwarded                              │ MIT          │ Parse HTTP X-Forwarded-For header                                                              │
-│                                        │              │ https://github.com/jshttp/forwarded#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ fresh                                  │ MIT          │ TJ Holowaychuk                                                                                 │
-│                                        │              │ HTTP response freshness testing                                                                │
-│                                        │              │ https://github.com/jshttp/fresh#readme                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ function-bind                          │ MIT          │ Raynos                                                                                         │
-│                                        │              │ Implementation of Function.prototype.bind                                                      │
-│                                        │              │ https://github.com/Raynos/function-bind                                                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ fuzzysort                              │ MIT          │ farzher                                                                                        │
-│                                        │              │ Fast SublimeText-like fuzzy search for JavaScript                                              │
-│                                        │              │ https://github.com/farzher/fuzzysort#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ generate-function                      │ MIT          │ Mathias Buus                                                                                   │
-│                                        │              │ Module that helps you write generated functions in Node                                        │
-│                                        │              │ https://github.com/mafintosh/generate-function                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ get-intrinsic                          │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ Get and robustly cache all JS language-level intrinsics at first require time                  │
-│                                        │              │ https://github.com/ljharb/get-intrinsic#readme                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ gopd                                   │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ `Object.getOwnPropertyDescriptor`, but accounts for IE's broken implementation.                │
-│                                        │              │ https://github.com/ljharb/gopd#readme                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ has-flag                               │ MIT          │ Sindre Sorhus                                                                                  │
-│                                        │              │ Check if argv has a specific flag                                                              │
-│                                        │              │ https://github.com/sindresorhus/has-flag#readme                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ has-property-descriptors               │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ Does the environment have full property descriptor support? Handles IE 8's broken              │
-│                                        │              │ defineProperty/gOPD.                                                                           │
-│                                        │              │ https://github.com/inspect-js/has-property-descriptors#readme                                  │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ has-proto                              │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ Does this environment have the ability to get the [[Prototype]] of an object on creation with  │
-│                                        │              │ `__proto__`?                                                                                   │
-│                                        │              │ https://github.com/inspect-js/has-proto#readme                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ has-symbols                            │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ Determine if the JS environment has Symbol support. Supports spec, or shams.                   │
-│                                        │              │ https://github.com/ljharb/has-symbols#readme                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ hasown                                 │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ A robust, ES3 compatible, "has own property" predicate.                                        │
-│                                        │              │ https://github.com/inspect-js/hasOwn#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ helmet                                 │ MIT          │ Adam Baldwin                                                                                   │
-│                                        │              │ help secure Express/Connect apps with various HTTP headers                                     │
-│                                        │              │ https://helmetjs.github.io/                                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ http-errors                            │ MIT          │ Jonathan Ong                                                                                   │
-│                                        │              │ Create HTTP error objects                                                                      │
-│                                        │              │ https://github.com/jshttp/http-errors#readme                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ iconv-lite                             │ MIT          │ Alexander Shtuchkin                                                                            │
-│                                        │              │ Convert character encodings in pure javascript.                                                │
-│                                        │              │ https://github.com/ashtuchkin/iconv-lite                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ ipaddr.js                              │ MIT          │ whitequark                                                                                     │
-│                                        │              │ A library for manipulating IPv4 and IPv6 addresses in JavaScript.                              │
-│                                        │              │ https://github.com/whitequark/ipaddr.js#readme                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ is-accessor-descriptor                 │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Returns true if a value has the characteristics of a valid JavaScript accessor descriptor.     │
-│                                        │              │ https://github.com/inspect-js/is-accessor-descriptor                                           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ is-buffer                              │ MIT          │ Feross Aboukhadijeh                                                                            │
-│                                        │              │ Determine if an object is a Buffer                                                             │
-│                                        │              │ https://github.com/feross/is-buffer#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ is-data-descriptor                     │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Returns true if a value has the characteristics of a valid JavaScript data descriptor.         │
-│                                        │              │ https://github.com/inspect-js/is-data-descriptor                                               │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ is-descriptor                          │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Returns true if a value has the characteristics of a valid JavaScript descriptor. Works for    │
-│                                        │              │ data descriptors and accessor descriptors.                                                     │
-│                                        │              │ https://github.com/inspect-js/is-descriptor                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ is-number                              │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Returns true if the value is a number. comprehensive tests.                                    │
-│                                        │              │ https://github.com/jonschlinkert/is-number                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ is-property                            │ MIT          │ Mikola Lysenko                                                                                 │
-│                                        │              │ Tests if a JSON property can be accessed using . syntax                                        │
-│                                        │              │ https://github.com/mikolalysenko/is-property#readme                                            │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ kind-of                                │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Get the native type of a value.                                                                │
-│                                        │              │ https://github.com/jonschlinkert/kind-of                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ lodash                                 │ MIT          │ John-David Dalton                                                                              │
-│                                        │              │ Lodash modular utilities.                                                                      │
-│                                        │              │ https://lodash.com/                                                                            │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ lodash.snakecase                       │ MIT          │ John-David Dalton                                                                              │
-│                                        │              │ The lodash method `_.snakeCase` exported as a module.                                          │
-│                                        │              │ https://lodash.com/                                                                            │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ longest                                │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Get the longest item in an array.                                                              │
-│                                        │              │ https://github.com/jonschlinkert/longest                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ lru.min                                │ MIT          │ https://github.com/wellwelwel                                                                  │
-│                                        │              │ 🔥 An extremely fast and efficient LRU cache for JavaScript (Browser compatible) — 6.7KB.
-      │
-│                                        │              │ ttps://github.com/wellwelwel/lru.min#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ luxon                                  │ MIT          │ Isaac Cambron                                                                                  │
-│                                        │              │ Immutable date wrapper                                                                         │
-│                                        │              │ https://github.com/moment/luxon#readme                                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ magic-bytes.js                         │ MIT          │ Lars Kölpin                                                                                    │
-│                                        │              │ Detect Filetype by bytes                                                                       │
-│                                        │              │ https://github.com/LarsKoelpin/magic-bytes#readme                                              │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ media-typer                            │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Simple RFC 6838 media type parser and formatter                                                │
-│                                        │              │ https://github.com/jshttp/media-typer#readme                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ memorystore                            │ MIT          │ Rocco Musolino                                                                                 │
-│                                        │              │ express-session full featured MemoryStore layer without leaks!                                 │
-│                                        │              │ https://github.com/roccomuso/memorystore#readme                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ merge-descriptors                      │ MIT          │ Jonathan Ong                                                                                   │
-│                                        │              │ Merge objects using descriptors                                                                │
-│                                        │              │ https://github.com/sindresorhus/merge-descriptors#readme                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ methods                                │ MIT          │ HTTP methods that node supports                                                                │
-│                                        │              │ https://github.com/jshttp/methods#readme                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ mime                                   │ MIT          │ Robert Kieffer                                                                                 │
-│                                        │              │ A comprehensive library for mime-type mapping                                                  │
-│                                        │              │ https://github.com/broofa/node-mime#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ mime-db                                │ MIT          │ Media Type Database                                                                            │
-│                                        │              │ https://github.com/jshttp/mime-db#readme                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ mime-types                             │ MIT          │ The ultimate javascript content-type utility.                                                  │
-│                                        │              │ https://github.com/jshttp/mime-types#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ morgan                                 │ MIT          │ HTTP request logger middleware for node.js                                                     │
-│                                        │              │ https://github.com/expressjs/morgan#readme                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ ms                                     │ MIT          │ Tiny millisecond conversion utility                                                            │
-│                                        │              │ https://github.com/vercel/ms#readme                                                            │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ mysql2                                 │ MIT          │ Andrey Sidorov                                                                                 │
-│                                        │              │ fast mysql driver. Implements core protocol, prepared statements, ssl and compression in       │
-│                                        │              │ native JS                                                                                      │
-│                                        │              │ https://sidorares.github.io/node-mysql2/docs                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ named-placeholders                     │ MIT          │ Andrey Sidorov                                                                                 │
-│                                        │              │ sql named placeholders to unnamed compiler                                                     │
-│                                        │              │ https://github.com/sidorares/named-placeholders#readme                                         │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ negotiator                             │ MIT          │ HTTP content negotiation                                                                       │
-│                                        │              │ https://github.com/jshttp/negotiator#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ node-gyp-build                         │ MIT          │ Mathias Buus                                                                                   │
-│                                        │              │ Build tool and bindings loader for node-gyp that supports prebuilds                            │
-│                                        │              │ https://github.com/prebuild/node-gyp-build                                                     │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ oauth                                  │ MIT          │ Ciaran Jessup                                                                                  │
-│                                        │              │ Library for interacting with OAuth 1.0, 1.0A, 2 and Echo.  Provides simplified client access   │
-│                                        │              │ and allows for construction of more complex apis and OAuth providers.                          │
-│                                        │              │ https://github.com/ciaranj/node-oauth#readme                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ object-assign                          │ MIT          │ Sindre Sorhus                                                                                  │
-│                                        │              │ ES2015 `Object.assign()` ponyfill                                                              │
-│                                        │              │ https://github.com/sindresorhus/object-assign#readme                                           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ object-inspect                         │ MIT          │ James Halliday                                                                                 │
-│                                        │              │ string representations of objects in node and the browser                                      │
-│                                        │              │ https://github.com/inspect-js/object-inspect                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ on-finished                            │ MIT          │ Execute a callback when a request closes, finishes, or errors                                  │
-│                                        │              │ https://github.com/jshttp/on-finished#readme                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ on-headers                             │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Execute a listener when a response is about to write headers                                   │
-│                                        │              │ https://github.com/jshttp/on-headers#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ parseurl                               │ MIT          │ parse a url with memoization                                                                   │
-│                                        │              │ https://github.com/pillarjs/parseurl#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ passport                               │ MIT          │ Jared Hanson                                                                                   │
-│                                        │              │ Simple, unobtrusive authentication for Node.js.                                                │
-│                                        │              │ https://www.passportjs.org/                                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ passport-local                         │ MIT          │ Jared Hanson                                                                                   │
-│                                        │              │ Local username and password authentication strategy for Passport.                              │
-│                                        │              │ https://github.com/jaredhanson/passport-local#readme                                           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ passport-oauth2                        │ MIT          │ Jared Hanson                                                                                   │
-│                                        │              │ OAuth 2.0 authentication strategy for Passport.                                                │
-│                                        │              │ https://github.com/jaredhanson/passport-oauth2#readme                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ passport-strategy                      │ MIT          │ Jared Hanson                                                                                   │
-│                                        │              │ An abstract class implementing Passport's strategy API.                                        │
-│                                        │              │ https://github.com/jaredhanson/passport-strategy#readme                                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ path-to-regexp                         │ MIT          │ Express style path to RegExp utility                                                           │
-│                                        │              │ https://github.com/pillarjs/path-to-regexp#readme                                              │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ proxy-addr                             │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Determine address of proxied request                                                           │
-│                                        │              │ https://github.com/jshttp/proxy-addr#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ random-bytes                           │ MIT          │ URL and cookie safe UIDs                                                                       │
-│                                        │              │ https://github.com/crypto-utils/random-bytes#readme                                            │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ range-parser                           │ MIT          │ TJ Holowaychuk                                                                                 │
-│                                        │              │ Range header field string parser                                                               │
-│                                        │              │ https://github.com/jshttp/range-parser#readme                                                  │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ raw-body                               │ MIT          │ Jonathan Ong                                                                                   │
-│                                        │              │ Get and validate the raw body of a readable stream.                                            │
-│                                        │              │ https://github.com/stream-utils/raw-body#readme                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ repeat-string                          │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Repeat the given string n times. Fastest implementation for repeating a string.                │
-│                                        │              │ https://github.com/jonschlinkert/repeat-string                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ safe-buffer                            │ MIT          │ Feross Aboukhadijeh                                                                            │
-│                                        │              │ Safer Node.js Buffer API                                                                       │
-│                                        │              │ https://github.com/feross/safe-buffer                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ safer-buffer                           │ MIT          │ Nikita Skovoroda                                                                               │
-│                                        │              │ Modern Buffer API polyfill without footguns                                                    │
-│                                        │              │ https://github.com/ChALkeR/safer-buffer#readme                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ send                                   │ MIT          │ TJ Holowaychuk                                                                                 │
-│                                        │              │ Better streaming static file server with Range and conditional-GET support                     │
-│                                        │              │ https://github.com/pillarjs/send#readme                                                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ seq-queue                              │ MIT          │ changchang                                                                                     │
-│                                        │              │ A simple tool to keep requests to be executed in order.                                        │
-│                                        │              │ https://github.com/changchang/seq-queue                                                        │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ serve-static                           │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Serve static files                                                                             │
-│                                        │              │ https://github.com/expressjs/serve-static#readme                                               │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ set-function-length                    │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ Set a function's length property                                                               │
-│                                        │              │ https://github.com/ljharb/set-function-length#readme                                           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ side-channel                           │ MIT          │ Jordan Harband                                                                                 │
-│                                        │              │ Store information about any JS value in a side channel. Uses WeakMap if available.             │
-│                                        │              │ https://github.com/ljharb/side-channel#readme                                                  │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ sqlstring                              │ MIT          │ Simple SQL escape and format for MySQL                                                         │
-│                                        │              │ https://github.com/mysqljs/sqlstring#readme                                                    │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ statuses                               │ MIT          │ HTTP status utility                                                                            │
-│                                        │              │ https://github.com/jshttp/statuses#readme                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ supports-color                         │ MIT          │ Sindre Sorhus                                                                                  │
-│                                        │              │ Detect whether a terminal supports color                                                       │
-│                                        │              │ https://github.com/chalk/supports-color#readme                                                 │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ tiny-csrf                              │ MIT          │ Vincent A. Saulys                                                                              │
-│                                        │              │ Tiny CSRF library for use with ExpressJS                                                       │
-│                                        │              │ https://github.com/valexandersaulys/tiny-csrf#readme                                           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ toidentifier                           │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Convert a string of words to a JavaScript identifier                                           │
-│                                        │              │ https://github.com/component/toidentifier#readme                                               │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ ts-mixer                               │ MIT          │ Tanner Nielsen                                                                                 │
-│                                        │              │ A very small TypeScript library that provides tolerable Mixin functionality.                   │
-│                                        │              │ https://github.com/tannerntannern/ts-mixer#readme                                              │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ type-is                                │ MIT          │ Infer the content-type of a request.                                                           │
-│                                        │              │ https://github.com/jshttp/type-is#readme                                                       │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ uid-safe                               │ MIT          │ URL and cookie safe UIDs                                                                       │
-│                                        │              │ https://github.com/crypto-utils/uid-safe#readme                                                │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ uid2                                   │ MIT          │ strong uid                                                                                     │
-│                                        │              │ https://github.com/coreh/uid2#readme                                                           │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ undici                                 │ MIT          │ An HTTP/1.1 client, written from scratch for Node.js                                           │
-│                                        │              │ https://undici.nodejs.org                                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ undici-types                           │ MIT          │ A stand-alone types package for Undici                                                         │
-│                                        │              │ https://undici.nodejs.org                                                                      │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ unpipe                                 │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Unpipe a stream from all destinations                                                          │
-│                                        │              │ https://github.com/stream-utils/unpipe#readme                                                  │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ utf-8-validate                         │ MIT          │ Einar Otto Stangvik                                                                            │
-│                                        │              │ Check if a buffer contains valid UTF-8                                                         │
-│                                        │              │ https://github.com/websockets/utf-8-validate                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ utils-merge                            │ MIT          │ Jared Hanson                                                                                   │
-│                                        │              │ merge() utility function                                                                       │
-│                                        │              │ https://github.com/jaredhanson/utils-merge#readme                                              │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ vary                                   │ MIT          │ Douglas Christopher Wilson                                                                     │
-│                                        │              │ Manipulate the HTTP Vary header                                                                │
-│                                        │              │ https://github.com/jshttp/vary#readme                                                          │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ window-size                            │ MIT          │ Jon Schlinkert                                                                                 │
-│                                        │              │ Reliable way to get the height and width of terminal/console, since it's not calculated or     │
-│                                        │              │ updated the same way on all platforms, environments and node.js versions.                      │
-│                                        │              │ https://github.com/jonschlinkert/window-size                                                   │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ ws                                     │ MIT          │ Einar Otto Stangvik                                                                            │
-│                                        │              │ Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js      │
-│                                        │              │ https://github.com/websockets/ws                                                               │
-├────────────────────────────────────────┼──────────────┼────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ pause                                  │ Unknown      │ TJ Holowaychuk                                                                                 │
-│                                        │              │ Pause streams...                                                                               │
-└────────────────────────────────────────┴──────────────┴────────────────────────────────────────────────────────────────────────────────────────────────┘
+The below table is generated got `pnpm licenses ls --json` command
+<table>
+<tr>
+<th>name</th>
+<th>versions</th>
+<th>license</th>
+<th>homepage</th>
+<th>description</th>
+</tr>
+<tr>
+<td>@discordjs/builders</td>
+<td>1.9.0</td>
+<td>Apache-2.0</td>
+<td>https://discord.js.org</td>
+<td>A set of builders that you can use when creating your bot</td>
+</tr>
+<tr>
+<td>@discordjs/collection</td>
+<td>1.5.3
+2.1.1</td>
+<td>Apache-2.0</td>
+<td>https://discord.js.org</td>
+<td>Utility data structure used in discord.js</td>
+</tr>
+<tr>
+<td>@discordjs/formatters</td>
+<td>0.5.0</td>
+<td>Apache-2.0</td>
+<td>https://discord.js.org</td>
+<td>A set of functions to format strings for Discord.</td>
+</tr>
+<tr>
+<td>@discordjs/rest</td>
+<td>2.4.0</td>
+<td>Apache-2.0</td>
+<td>https://discord.js.org</td>
+<td>The REST API for discord.js</td>
+</tr>
+<tr>
+<td>@discordjs/util</td>
+<td>1.1.1</td>
+<td>Apache-2.0</td>
+<td>https://discord.js.org</td>
+<td>Utilities shared across Discord.js packages</td>
+</tr>
+<tr>
+<td>@discordjs/ws</td>
+<td>1.1.1</td>
+<td>Apache-2.0</td>
+<td>https://discord.js.org</td>
+<td>Wrapper around Discord's gateway</td>
+</tr>
+<tr>
+<td>denque</td>
+<td>2.1.0</td>
+<td>Apache-2.0</td>
+<td>https://docs.page/invertase/denque</td>
+<td>The fastest javascript implementation of a double-ended queue. Used by the official Redis, MongoDB, MariaDB & MySQL libraries for Node.js and many other libraries. Maintains compatability with deque.</td>
+</tr>
+<tr>
+<td>discord.js</td>
+<td>14.16.2</td>
+<td>Apache-2.0</td>
+<td>https://discord.js.org</td>
+<td>A powerful library for interacting with the Discord API</td>
+</tr>
+<tr>
+<td>ejs</td>
+<td>3.1.10</td>
+<td>Apache-2.0</td>
+<td>https://github.com/mde/ejs</td>
+<td>Embedded JavaScript templates</td>
+</tr>
+<tr>
+<td>filelist</td>
+<td>1.0.4</td>
+<td>Apache-2.0</td>
+<td>https://github.com/mde/filelist</td>
+<td>Lazy-evaluating list of files, based on globs or regex patterns</td>
+</tr>
+<tr>
+<td>jake</td>
+<td>10.9.2</td>
+<td>Apache-2.0</td>
+<td>https://github.com/jakejs/jake#readme</td>
+<td>JavaScript build tool, similar to Make or Rake</td>
+</tr>
+<tr>
+<td>long</td>
+<td>5.2.3</td>
+<td>Apache-2.0</td>
+<td>https://github.com/dcodeIO/long.js#readme</td>
+<td>A Long class for representing a 64-bit two's-complement integer value.</td>
+</tr>
+<tr>
+<td>simple-oauth2</td>
+<td>5.1.0</td>
+<td>Apache-2.0</td>
+<td>https://github.com/lelylan/simple-oauth2</td>
+<td>Node.js client for OAuth2</td>
+</tr>
+<tr>
+<td>@hapi/boom</td>
+<td>10.0.1</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/hapijs/boom#readme</td>
+<td>HTTP-friendly error objects</td>
+</tr>
+<tr>
+<td>@hapi/bourne</td>
+<td>3.0.0</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/hapijs/bourne#readme</td>
+<td>JSON parse with prototype poisoning protection</td>
+</tr>
+<tr>
+<td>@hapi/hoek</td>
+<td>9.3.0
+11.0.4</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/hapijs/hoek#readme</td>
+<td>General purpose node utilities</td>
+</tr>
+<tr>
+<td>@hapi/topo</td>
+<td>5.1.0</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/hapijs/topo#readme</td>
+<td>Topological sorting with grouping support</td>
+</tr>
+<tr>
+<td>@hapi/wreck</td>
+<td>18.1.0</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/hapijs/wreck#readme</td>
+<td>HTTP Client Utilities</td>
+</tr>
+<tr>
+<td>@sideway/address</td>
+<td>4.1.5</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/sideway/address#readme</td>
+<td>Email address and domain validation</td>
+</tr>
+<tr>
+<td>@sideway/formula</td>
+<td>3.0.1</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/sideway/formula#readme</td>
+<td>Math and string formula parser.</td>
+</tr>
+<tr>
+<td>@sideway/pinpoint</td>
+<td>2.0.0</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/sideway/pinpoint#readme</td>
+<td>Return the filename and line number of the calling function</td>
+</tr>
+<tr>
+<td>joi</td>
+<td>17.13.3</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/hapijs/joi#readme</td>
+<td>Object schema validation</td>
+</tr>
+<tr>
+<td>qs</td>
+<td>6.13.0</td>
+<td>BSD-3-Clause</td>
+<td>https://github.com/ljharb/qs</td>
+<td>A querystring parser that supports nesting and arrays, with a depth limit</td>
+</tr>
+<tr>
+<td>@sapphire/async-queue</td>
+<td>1.5.3</td>
+<td>MIT</td>
+<td>https://github.com/sapphiredev/utilities/tree/main/packages/async-queue</td>
+<td>Sequential asynchronous lock-based queue for promises</td>
+</tr>
+<tr>
+<td>@sapphire/shapeshift</td>
+<td>4.0.0</td>
+<td>MIT</td>
+<td>https://www.sapphirejs.dev</td>
+<td>Blazing fast input validation and transformation ⚡</td>
+</tr>
+<tr>
+<td>@sapphire/snowflake</td>
+<td>3.5.3</td>
+<td>MIT</td>
+<td>https://github.com/sapphiredev/utilities/tree/main/packages/snowflake</td>
+<td>Deconstructs and generates snowflake IDs using BigInts</td>
+</tr>
+<tr>
+<td>@types/body-parser</td>
+<td>1.19.5</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/body-parser</td>
+<td>TypeScript definitions for body-parser</td>
+</tr>
+<tr>
+<td>@types/connect</td>
+<td>3.4.38</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/connect</td>
+<td>TypeScript definitions for connect</td>
+</tr>
+<tr>
+<td>@types/cookie-parser</td>
+<td>1.4.7</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cookie-parser</td>
+<td>TypeScript definitions for cookie-parser</td>
+</tr>
+<tr>
+<td>@types/cors</td>
+<td>2.8.17</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/cors</td>
+<td>TypeScript definitions for cors</td>
+</tr>
+<tr>
+<td>@types/express</td>
+<td>4.17.21</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/express</td>
+<td>TypeScript definitions for express</td>
+</tr>
+<tr>
+<td>@types/express-serve-static-core</td>
+<td>4.19.5</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/express-serve-static-core</td>
+<td>TypeScript definitions for express-serve-static-core</td>
+</tr>
+<tr>
+<td>@types/express-session</td>
+<td>1.18.0</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/express-session</td>
+<td>TypeScript definitions for express-session</td>
+</tr>
+<tr>
+<td>@types/http-errors</td>
+<td>2.0.4</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/http-errors</td>
+<td>TypeScript definitions for http-errors</td>
+</tr>
+<tr>
+<td>@types/luxon</td>
+<td>3.4.2</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/luxon</td>
+<td>TypeScript definitions for luxon</td>
+</tr>
+<tr>
+<td>@types/mime</td>
+<td>1.3.5</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/mime</td>
+<td>TypeScript definitions for mime</td>
+</tr>
+<tr>
+<td>@types/morgan</td>
+<td>1.9.9</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/morgan</td>
+<td>TypeScript definitions for morgan</td>
+</tr>
+<tr>
+<td>@types/node</td>
+<td>22.5.5</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node</td>
+<td>TypeScript definitions for node</td>
+</tr>
+<tr>
+<td>@types/qs</td>
+<td>6.9.16</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/qs</td>
+<td>TypeScript definitions for qs</td>
+</tr>
+<tr>
+<td>@types/range-parser</td>
+<td>1.2.7</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/range-parser</td>
+<td>TypeScript definitions for range-parser</td>
+</tr>
+<tr>
+<td>@types/send</td>
+<td>0.17.4</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/send</td>
+<td>TypeScript definitions for send</td>
+</tr>
+<tr>
+<td>@types/serve-static</td>
+<td>1.15.7</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/serve-static</td>
+<td>TypeScript definitions for serve-static</td>
+</tr>
+<tr>
+<td>@types/simple-oauth2</td>
+<td>5.0.7</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/simple-oauth2</td>
+<td>TypeScript definitions for simple-oauth2</td>
+</tr>
+<tr>
+<td>@types/ws</td>
+<td>8.5.12</td>
+<td>MIT</td>
+<td>https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ws</td>
+<td>TypeScript definitions for ws</td>
+</tr>
+<tr>
+<td>@vladfrangu/async_event_emitter</td>
+<td>2.4.6</td>
+<td>MIT</td>
+<td>https://github.com/vladfrangu/async_event_emitter#readme</td>
+<td>An event emitter implementation with async support in mind</td>
+</tr>
+<tr>
+<td>accepts</td>
+<td>1.3.8</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/accepts#readme</td>
+<td>Higher-level content negotiation</td>
+</tr>
+<tr>
+<td>align-text</td>
+<td>1.0.2</td>
+<td>MIT</td>
+<td>https://github.com/jonschlinkert/align-text</td>
+<td>Align the text in a string.</td>
+</tr>
+<tr>
+<td>ansi-styles</td>
+<td>4.3.0</td>
+<td>MIT</td>
+<td>https://github.com/chalk/ansi-styles#readme</td>
+<td>ANSI escape codes for styling strings in the terminal</td>
+</tr>
+<tr>
+<td>array-flatten</td>
+<td>1.1.1</td>
+<td>MIT</td>
+<td>https://github.com/blakeembrey/array-flatten</td>
+<td>Flatten an array of nested arrays into a single flat array</td>
+</tr>
+<tr>
+<td>async</td>
+<td>3.2.6</td>
+<td>MIT</td>
+<td>https://caolan.github.io/async/</td>
+<td>Higher-order functions and common patterns for asynchronous code</td>
+</tr>
+<tr>
+<td>aws-ssl-profiles</td>
+<td>1.1.2</td>
+<td>MIT</td>
+<td>https://github.com/mysqljs/aws-ssl-profiles#readme</td>
+<td>AWS RDS SSL certificates bundles.</td>
+</tr>
+<tr>
+<td>balanced-match</td>
+<td>1.0.2</td>
+<td>MIT</td>
+<td>https://github.com/juliangruber/balanced-match</td>
+<td>Match balanced character pairs, like "{" and "}"</td>
+</tr>
+<tr>
+<td>base64url</td>
+<td>3.0.1</td>
+<td>MIT</td>
+<td>https://github.com/brianloveswords/base64url#readme</td>
+<td>For encoding to/from base64urls</td>
+</tr>
+<tr>
+<td>basic-auth</td>
+<td>2.0.1</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/basic-auth#readme</td>
+<td>node.js basic auth parser</td>
+</tr>
+<tr>
+<td>body-parser</td>
+<td>1.20.3</td>
+<td>MIT</td>
+<td>https://github.com/expressjs/body-parser#readme</td>
+<td>Node.js body parsing middleware</td>
+</tr>
+<tr>
+<td>brace-expansion</td>
+<td>1.1.11
+2.0.1</td>
+<td>MIT</td>
+<td>https://github.com/juliangruber/brace-expansion</td>
+<td>Brace expansion as known from sh/bash</td>
+</tr>
+<tr>
+<td>bufferutil</td>
+<td>4.0.8</td>
+<td>MIT</td>
+<td>https://github.com/websockets/bufferutil</td>
+<td>WebSocket buffer utils</td>
+</tr>
+<tr>
+<td>bytes</td>
+<td>3.1.2</td>
+<td>MIT</td>
+<td>https://github.com/visionmedia/bytes.js#readme</td>
+<td>Utility to parse a string bytes to bytes and vice-versa</td>
+</tr>
+<tr>
+<td>call-bind</td>
+<td>1.0.7</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/call-bind#readme</td>
+<td>Robustly `.call.bind()` a function</td>
+</tr>
+<tr>
+<td>center-align</td>
+<td>1.0.1</td>
+<td>MIT</td>
+<td>https://github.com/jonschlinkert/center-align</td>
+<td>Center-align the text in a string.</td>
+</tr>
+<tr>
+<td>chalk</td>
+<td>4.1.2
+5.3.0</td>
+<td>MIT</td>
+<td>https://github.com/chalk/chalk#readme</td>
+<td>Terminal string styling done right</td>
+</tr>
+<tr>
+<td>color-convert</td>
+<td>2.0.1</td>
+<td>MIT</td>
+<td>https://github.com/Qix-/color-convert#readme</td>
+<td>Plain color conversion functions</td>
+</tr>
+<tr>
+<td>color-name</td>
+<td>1.1.4</td>
+<td>MIT</td>
+<td>https://github.com/colorjs/color-name</td>
+<td>A list of color names and its values</td>
+</tr>
+<tr>
+<td>concat-map</td>
+<td>0.0.1</td>
+<td>MIT</td>
+<td>https://github.com/substack/node-concat-map#readme</td>
+<td>concatenative mapdashery</td>
+</tr>
+<tr>
+<td>content-disposition</td>
+<td>0.5.4</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/content-disposition#readme</td>
+<td>Create and parse Content-Disposition header</td>
+</tr>
+<tr>
+<td>content-type</td>
+<td>1.0.5</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/content-type#readme</td>
+<td>Create and parse HTTP Content-Type header</td>
+</tr>
+<tr>
+<td>cookie</td>
+<td>0.4.1
+0.6.0</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/cookie#readme</td>
+<td>HTTP server cookie parsing and serialization</td>
+</tr>
+<tr>
+<td>cookie-parser</td>
+<td>1.4.6</td>
+<td>MIT</td>
+<td>https://github.com/expressjs/cookie-parser#readme</td>
+<td>Parse HTTP request cookies</td>
+</tr>
+<tr>
+<td>cookie-signature</td>
+<td>1.0.6
+1.0.7</td>
+<td>MIT</td>
+<td>https://github.com/visionmedia/node-cookie-signature#readme</td>
+<td>Sign and unsign cookies</td>
+</tr>
+<tr>
+<td>cors</td>
+<td>2.8.5</td>
+<td>MIT</td>
+<td>https://github.com/expressjs/cors#readme</td>
+<td>Node.js CORS middleware</td>
+</tr>
+<tr>
+<td>cron</td>
+<td>3.1.7</td>
+<td>MIT</td>
+<td>https://github.com/kelektiv/node-cron#readme</td>
+<td>Cron jobs for your node</td>
+</tr>
+<tr>
+<td>debug</td>
+<td>2.6.9
+4.3.7</td>
+<td>MIT</td>
+<td>https://github.com/debug-js/debug#readme</td>
+<td>Lightweight debugging utility for Node.js and the browser</td>
+</tr>
+<tr>
+<td>define-data-property</td>
+<td>1.1.4</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/define-data-property#readme</td>
+<td>Define a data property on an object. Will fall back to assignment in an engine without descriptors.</td>
+</tr>
+<tr>
+<td>define-property</td>
+<td>1.0.0</td>
+<td>MIT</td>
+<td>https://github.com/jonschlinkert/define-property</td>
+<td>Define a non-enumerable property on an object.</td>
+</tr>
+<tr>
+<td>depd</td>
+<td>2.0.0</td>
+<td>MIT</td>
+<td>https://github.com/dougwilson/nodejs-depd#readme</td>
+<td>Deprecate all the things</td>
+</tr>
+<tr>
+<td>destroy</td>
+<td>1.2.0</td>
+<td>MIT</td>
+<td>https://github.com/stream-utils/destroy#readme</td>
+<td>destroy a stream if possible</td>
+</tr>
+<tr>
+<td>discord-api-types</td>
+<td>0.37.83
+0.37.97</td>
+<td>MIT</td>
+<td>https://discord-api-types.dev</td>
+<td>Discord API typings that are kept up to date for use in bot library creation.</td>
+</tr>
+<tr>
+<td>ee-first</td>
+<td>1.1.1</td>
+<td>MIT</td>
+<td>https://github.com/jonathanong/ee-first#readme</td>
+<td>return the first event in a set of ee/event pairs</td>
+</tr>
+<tr>
+<td>encodeurl</td>
+<td>1.0.2
+2.0.0</td>
+<td>MIT</td>
+<td>https://github.com/pillarjs/encodeurl#readme</td>
+<td>Encode a URL to a percent-encoded form, excluding already-encoded sequences</td>
+</tr>
+<tr>
+<td>es-define-property</td>
+<td>1.0.0</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/es-define-property#readme</td>
+<td>`Object.defineProperty`, but not IE 8's broken one.</td>
+</tr>
+<tr>
+<td>es-errors</td>
+<td>1.3.0</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/es-errors#readme</td>
+<td>A simple cache for a few of the JS Error constructors.</td>
+</tr>
+<tr>
+<td>escape-html</td>
+<td>1.0.3</td>
+<td>MIT</td>
+<td>https://github.com/component/escape-html#readme</td>
+<td>Escape string for use in HTML</td>
+</tr>
+<tr>
+<td>etag</td>
+<td>1.8.1</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/etag#readme</td>
+<td>Create simple HTTP ETags</td>
+</tr>
+<tr>
+<td>express</td>
+<td>4.21.0</td>
+<td>MIT</td>
+<td>http://expressjs.com/</td>
+<td>Fast, unopinionated, minimalist web framework</td>
+</tr>
+<tr>
+<td>express-rate-limit</td>
+<td>7.4.0</td>
+<td>MIT</td>
+<td>https://github.com/express-rate-limit/express-rate-limit</td>
+<td>Basic IP rate-limiting middleware for Express. Use to limit repeated requests to public APIs and/or endpoints such as password reset.</td>
+</tr>
+<tr>
+<td>express-session</td>
+<td>1.18.0</td>
+<td>MIT</td>
+<td>https://github.com/expressjs/session#readme</td>
+<td>Simple session middleware for Express</td>
+</tr>
+<tr>
+<td>fast-deep-equal</td>
+<td>3.1.3</td>
+<td>MIT</td>
+<td>https://github.com/epoberezkin/fast-deep-equal#readme</td>
+<td>Fast deep equal</td>
+</tr>
+<tr>
+<td>fdir</td>
+<td>6.3.0</td>
+<td>MIT</td>
+<td>https://github.com/thecodrr/fdir#readme</td>
+<td>The fastest directory crawler & globbing alternative to glob, fast-glob, & tiny-glob. Crawls 1m files in < 1s</td>
+</tr>
+<tr>
+<td>finalhandler</td>
+<td>1.3.1</td>
+<td>MIT</td>
+<td>https://github.com/pillarjs/finalhandler#readme</td>
+<td>Node.js final http responder</td>
+</tr>
+<tr>
+<td>forwarded</td>
+<td>0.2.0</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/forwarded#readme</td>
+<td>Parse HTTP X-Forwarded-For header</td>
+</tr>
+<tr>
+<td>fresh</td>
+<td>0.5.2</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/fresh#readme</td>
+<td>HTTP response freshness testing</td>
+</tr>
+<tr>
+<td>function-bind</td>
+<td>1.1.2</td>
+<td>MIT</td>
+<td>https://github.com/Raynos/function-bind</td>
+<td>Implementation of Function.prototype.bind</td>
+</tr>
+<tr>
+<td>fuzzysort</td>
+<td>3.0.2</td>
+<td>MIT</td>
+<td>https://github.com/farzher/fuzzysort#readme</td>
+<td>Fast SublimeText-like fuzzy search for JavaScript</td>
+</tr>
+<tr>
+<td>generate-function</td>
+<td>2.3.1</td>
+<td>MIT</td>
+<td>https://github.com/mafintosh/generate-function</td>
+<td>Module that helps you write generated functions in Node</td>
+</tr>
+<tr>
+<td>get-intrinsic</td>
+<td>1.2.4</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/get-intrinsic#readme</td>
+<td>Get and robustly cache all JS language-level intrinsics at first require time</td>
+</tr>
+<tr>
+<td>gopd</td>
+<td>1.0.1</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/gopd#readme</td>
+<td>`Object.getOwnPropertyDescriptor`, but accounts for IE's broken implementation.</td>
+</tr>
+<tr>
+<td>has-flag</td>
+<td>4.0.0</td>
+<td>MIT</td>
+<td>https://github.com/sindresorhus/has-flag#readme</td>
+<td>Check if argv has a specific flag</td>
+</tr>
+<tr>
+<td>has-property-descriptors</td>
+<td>1.0.2</td>
+<td>MIT</td>
+<td>https://github.com/inspect-js/has-property-descriptors#readme</td>
+<td>Does the environment have full property descriptor support? Handles IE 8's broken defineProperty/gOPD.</td>
+</tr>
+<tr>
+<td>has-proto</td>
+<td>1.0.3</td>
+<td>MIT</td>
+<td>https://github.com/inspect-js/has-proto#readme</td>
+<td>Does this environment have the ability to get the [[Prototype]] of an object on creation with `__proto__`?</td>
+</tr>
+<tr>
+<td>has-symbols</td>
+<td>1.0.3</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/has-symbols#readme</td>
+<td>Determine if the JS environment has Symbol support. Supports spec, or shams.</td>
+</tr>
+<tr>
+<td>hasown</td>
+<td>2.0.2</td>
+<td>MIT</td>
+<td>https://github.com/inspect-js/hasOwn#readme</td>
+<td>A robust, ES3 compatible, "has own property" predicate.</td>
+</tr>
+<tr>
+<td>helmet</td>
+<td>7.1.0</td>
+<td>MIT</td>
+<td>https://helmetjs.github.io/</td>
+<td>help secure Express/Connect apps with various HTTP headers</td>
+</tr>
+<tr>
+<td>http-errors</td>
+<td>2.0.0</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/http-errors#readme</td>
+<td>Create HTTP error objects</td>
+</tr>
+<tr>
+<td>iconv-lite</td>
+<td>0.4.24
+0.6.3</td>
+<td>MIT</td>
+<td>https://github.com/ashtuchkin/iconv-lite</td>
+<td>Convert character encodings in pure javascript.</td>
+</tr>
+<tr>
+<td>ipaddr.js</td>
+<td>1.9.1</td>
+<td>MIT</td>
+<td>https://github.com/whitequark/ipaddr.js#readme</td>
+<td>A library for manipulating IPv4 and IPv6 addresses in JavaScript.</td>
+</tr>
+<tr>
+<td>is-accessor-descriptor</td>
+<td>1.0.1</td>
+<td>MIT</td>
+<td>https://github.com/inspect-js/is-accessor-descriptor</td>
+<td>Returns true if a value has the characteristics of a valid JavaScript accessor descriptor.</td>
+</tr>
+<tr>
+<td>is-buffer</td>
+<td>1.1.6</td>
+<td>MIT</td>
+<td>https://github.com/feross/is-buffer#readme</td>
+<td>Determine if an object is a Buffer</td>
+</tr>
+<tr>
+<td>is-data-descriptor</td>
+<td>1.0.1</td>
+<td>MIT</td>
+<td>https://github.com/inspect-js/is-data-descriptor</td>
+<td>Returns true if a value has the characteristics of a valid JavaScript data descriptor.</td>
+</tr>
+<tr>
+<td>is-descriptor</td>
+<td>1.0.3</td>
+<td>MIT</td>
+<td>https://github.com/inspect-js/is-descriptor</td>
+<td>Returns true if a value has the characteristics of a valid JavaScript descriptor. Works for data descriptors and accessor descriptors.</td>
+</tr>
+<tr>
+<td>is-number</td>
+<td>3.0.0</td>
+<td>MIT</td>
+<td>https://github.com/jonschlinkert/is-number</td>
+<td>Returns true if the value is a number. comprehensive tests.</td>
+</tr>
+<tr>
+<td>is-property</td>
+<td>1.0.2</td>
+<td>MIT</td>
+<td>https://github.com/mikolalysenko/is-property#readme</td>
+<td>Tests if a JSON property can be accessed using . syntax</td>
+</tr>
+<tr>
+<td>kind-of</td>
+<td>3.2.2
+5.1.0</td>
+<td>MIT</td>
+<td>https://github.com/jonschlinkert/kind-of</td>
+<td>Get the native type of a value.</td>
+</tr>
+<tr>
+<td>lodash</td>
+<td>4.17.21</td>
+<td>MIT</td>
+<td>https://lodash.com/</td>
+<td>Lodash modular utilities.</td>
+</tr>
+<tr>
+<td>lodash.snakecase</td>
+<td>4.1.1</td>
+<td>MIT</td>
+<td>https://lodash.com/</td>
+<td>The lodash method `_.snakeCase` exported as a module.</td>
+</tr>
+<tr>
+<td>longest</td>
+<td>2.0.1</td>
+<td>MIT</td>
+<td>https://github.com/jonschlinkert/longest</td>
+<td>Get the longest item in an array.</td>
+</tr>
+<tr>
+<td>lru.min</td>
+<td>1.1.0</td>
+<td>MIT</td>
+<td>https://github.com/wellwelwel/lru.min#readme</td>
+<td>🔥 An extremely fast and efficient LRU cache for JavaScript (Browser compatible) — 6.7KB.</td>
+</tr>
+<tr>
+<td>luxon</td>
+<td>3.4.4</td>
+<td>MIT</td>
+<td>https://github.com/moment/luxon#readme</td>
+<td>Immutable date wrapper</td>
+</tr>
+<tr>
+<td>magic-bytes.js</td>
+<td>1.10.0</td>
+<td>MIT</td>
+<td>https://github.com/LarsKoelpin/magic-bytes#readme</td>
+<td>Detect Filetype by bytes</td>
+</tr>
+<tr>
+<td>media-typer</td>
+<td>0.3.0</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/media-typer#readme</td>
+<td>Simple RFC 6838 media type parser and formatter</td>
+</tr>
+<tr>
+<td>memorystore</td>
+<td>1.6.7</td>
+<td>MIT</td>
+<td>https://github.com/roccomuso/memorystore#readme</td>
+<td>express-session full featured MemoryStore layer without leaks!</td>
+</tr>
+<tr>
+<td>merge-descriptors</td>
+<td>1.0.3</td>
+<td>MIT</td>
+<td>https://github.com/sindresorhus/merge-descriptors#readme</td>
+<td>Merge objects using descriptors</td>
+</tr>
+<tr>
+<td>methods</td>
+<td>1.1.2</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/methods#readme</td>
+<td>HTTP methods that node supports</td>
+</tr>
+<tr>
+<td>mime</td>
+<td>1.6.0</td>
+<td>MIT</td>
+<td>https://github.com/broofa/node-mime#readme</td>
+<td>A comprehensive library for mime-type mapping</td>
+</tr>
+<tr>
+<td>mime-db</td>
+<td>1.52.0</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/mime-db#readme</td>
+<td>Media Type Database</td>
+</tr>
+<tr>
+<td>mime-types</td>
+<td>2.1.35</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/mime-types#readme</td>
+<td>The ultimate javascript content-type utility.</td>
+</tr>
+<tr>
+<td>morgan</td>
+<td>1.10.0</td>
+<td>MIT</td>
+<td>https://github.com/expressjs/morgan#readme</td>
+<td>HTTP request logger middleware for node.js</td>
+</tr>
+<tr>
+<td>ms</td>
+<td>2.0.0
+2.1.3</td>
+<td>MIT</td>
+<td>https://github.com/vercel/ms#readme</td>
+<td>Tiny millisecond conversion utility</td>
+</tr>
+<tr>
+<td>mysql2</td>
+<td>3.11.3</td>
+<td>MIT</td>
+<td>https://sidorares.github.io/node-mysql2/docs</td>
+<td>fast mysql driver. Implements core protocol, prepared statements, ssl and compression in native JS</td>
+</tr>
+<tr>
+<td>named-placeholders</td>
+<td>1.1.3</td>
+<td>MIT</td>
+<td>https://github.com/sidorares/named-placeholders#readme</td>
+<td>sql named placeholders to unnamed compiler</td>
+</tr>
+<tr>
+<td>negotiator</td>
+<td>0.6.3</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/negotiator#readme</td>
+<td>HTTP content negotiation</td>
+</tr>
+<tr>
+<td>node-gyp-build</td>
+<td>4.8.2</td>
+<td>MIT</td>
+<td>https://github.com/prebuild/node-gyp-build</td>
+<td>Build tool and bindings loader for node-gyp that supports prebuilds</td>
+</tr>
+<tr>
+<td>oauth</td>
+<td>0.10.0</td>
+<td>MIT</td>
+<td>https://github.com/ciaranj/node-oauth#readme</td>
+<td>Library for interacting with OAuth 1.0, 1.0A, 2 and Echo.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.</td>
+</tr>
+<tr>
+<td>object-assign</td>
+<td>4.1.1</td>
+<td>MIT</td>
+<td>https://github.com/sindresorhus/object-assign#readme</td>
+<td>ES2015 `Object.assign()` ponyfill</td>
+</tr>
+<tr>
+<td>object-inspect</td>
+<td>1.13.2</td>
+<td>MIT</td>
+<td>https://github.com/inspect-js/object-inspect</td>
+<td>string representations of objects in node and the browser</td>
+</tr>
+<tr>
+<td>on-finished</td>
+<td>2.3.0
+2.4.1</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/on-finished#readme</td>
+<td>Execute a callback when a request closes, finishes, or errors</td>
+</tr>
+<tr>
+<td>on-headers</td>
+<td>1.0.2</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/on-headers#readme</td>
+<td>Execute a listener when a response is about to write headers</td>
+</tr>
+<tr>
+<td>parseurl</td>
+<td>1.3.3</td>
+<td>MIT</td>
+<td>https://github.com/pillarjs/parseurl#readme</td>
+<td>parse a url with memoization</td>
+</tr>
+<tr>
+<td>passport</td>
+<td>0.7.0</td>
+<td>MIT</td>
+<td>https://www.passportjs.org/</td>
+<td>Simple, unobtrusive authentication for Node.js.</td>
+</tr>
+<tr>
+<td>passport-local</td>
+<td>1.0.0</td>
+<td>MIT</td>
+<td>https://github.com/jaredhanson/passport-local#readme</td>
+<td>Local username and password authentication strategy for Passport.</td>
+</tr>
+<tr>
+<td>passport-oauth2</td>
+<td>1.8.0</td>
+<td>MIT</td>
+<td>https://github.com/jaredhanson/passport-oauth2#readme</td>
+<td>OAuth 2.0 authentication strategy for Passport.</td>
+</tr>
+<tr>
+<td>passport-strategy</td>
+<td>1.0.0</td>
+<td>MIT</td>
+<td>https://github.com/jaredhanson/passport-strategy#readme</td>
+<td>An abstract class implementing Passport's strategy API.</td>
+</tr>
+<tr>
+<td>path-to-regexp</td>
+<td>0.1.10</td>
+<td>MIT</td>
+<td>https://github.com/pillarjs/path-to-regexp#readme</td>
+<td>Express style path to RegExp utility</td>
+</tr>
+<tr>
+<td>proxy-addr</td>
+<td>2.0.7</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/proxy-addr#readme</td>
+<td>Determine address of proxied request</td>
+</tr>
+<tr>
+<td>random-bytes</td>
+<td>1.0.0</td>
+<td>MIT</td>
+<td>https://github.com/crypto-utils/random-bytes#readme</td>
+<td>URL and cookie safe UIDs</td>
+</tr>
+<tr>
+<td>range-parser</td>
+<td>1.2.1</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/range-parser#readme</td>
+<td>Range header field string parser</td>
+</tr>
+<tr>
+<td>raw-body</td>
+<td>2.5.2</td>
+<td>MIT</td>
+<td>https://github.com/stream-utils/raw-body#readme</td>
+<td>Get and validate the raw body of a readable stream.</td>
+</tr>
+<tr>
+<td>repeat-string</td>
+<td>1.6.1</td>
+<td>MIT</td>
+<td>https://github.com/jonschlinkert/repeat-string</td>
+<td>Repeat the given string n times. Fastest implementation for repeating a string.</td>
+</tr>
+<tr>
+<td>safe-buffer</td>
+<td>5.1.2
+5.2.1</td>
+<td>MIT</td>
+<td>https://github.com/feross/safe-buffer</td>
+<td>Safer Node.js Buffer API</td>
+</tr>
+<tr>
+<td>safer-buffer</td>
+<td>2.1.2</td>
+<td>MIT</td>
+<td>https://github.com/ChALkeR/safer-buffer#readme</td>
+<td>Modern Buffer API polyfill without footguns</td>
+</tr>
+<tr>
+<td>send</td>
+<td>0.19.0</td>
+<td>MIT</td>
+<td>https://github.com/pillarjs/send#readme</td>
+<td>Better streaming static file server with Range and conditional-GET support</td>
+</tr>
+<tr>
+<td>seq-queue</td>
+<td>0.0.5</td>
+<td>MIT</td>
+<td>https://github.com/changchang/seq-queue</td>
+<td>A simple tool to keep requests to be executed in order.</td>
+</tr>
+<tr>
+<td>serve-static</td>
+<td>1.16.2</td>
+<td>MIT</td>
+<td>https://github.com/expressjs/serve-static#readme</td>
+<td>Serve static files</td>
+</tr>
+<tr>
+<td>set-function-length</td>
+<td>1.2.2</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/set-function-length#readme</td>
+<td>Set a function's length property</td>
+</tr>
+<tr>
+<td>side-channel</td>
+<td>1.0.6</td>
+<td>MIT</td>
+<td>https://github.com/ljharb/side-channel#readme</td>
+<td>Store information about any JS value in a side channel. Uses WeakMap if available.</td>
+</tr>
+<tr>
+<td>sqlstring</td>
+<td>2.3.3</td>
+<td>MIT</td>
+<td>https://github.com/mysqljs/sqlstring#readme</td>
+<td>Simple SQL escape and format for MySQL</td>
+</tr>
+<tr>
+<td>statuses</td>
+<td>2.0.1</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/statuses#readme</td>
+<td>HTTP status utility</td>
+</tr>
+<tr>
+<td>supports-color</td>
+<td>7.2.0</td>
+<td>MIT</td>
+<td>https://github.com/chalk/supports-color#readme</td>
+<td>Detect whether a terminal supports color</td>
+</tr>
+<tr>
+<td>tiny-csrf</td>
+<td>1.1.4</td>
+<td>MIT</td>
+<td>https://github.com/valexandersaulys/tiny-csrf#readme</td>
+<td>Tiny CSRF library for use with ExpressJS</td>
+</tr>
+<tr>
+<td>toidentifier</td>
+<td>1.0.1</td>
+<td>MIT</td>
+<td>https://github.com/component/toidentifier#readme</td>
+<td>Convert a string of words to a JavaScript identifier</td>
+</tr>
+<tr>
+<td>ts-mixer</td>
+<td>6.0.4</td>
+<td>MIT</td>
+<td>https://github.com/tannerntannern/ts-mixer#readme</td>
+<td>A very small TypeScript library that provides tolerable Mixin functionality.</td>
+</tr>
+<tr>
+<td>type-is</td>
+<td>1.6.18</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/type-is#readme</td>
+<td>Infer the content-type of a request.</td>
+</tr>
+<tr>
+<td>uid-safe</td>
+<td>2.1.5</td>
+<td>MIT</td>
+<td>https://github.com/crypto-utils/uid-safe#readme</td>
+<td>URL and cookie safe UIDs</td>
+</tr>
+<tr>
+<td>uid2</td>
+<td>0.0.4</td>
+<td>MIT</td>
+<td>https://github.com/coreh/uid2#readme</td>
+<td>strong uid</td>
+</tr>
+<tr>
+<td>undici</td>
+<td>6.19.8</td>
+<td>MIT</td>
+<td>https://undici.nodejs.org</td>
+<td>An HTTP/1.1 client, written from scratch for Node.js</td>
+</tr>
+<tr>
+<td>undici-types</td>
+<td>6.19.8</td>
+<td>MIT</td>
+<td>https://undici.nodejs.org</td>
+<td>A stand-alone types package for Undici</td>
+</tr>
+<tr>
+<td>unpipe</td>
+<td>1.0.0</td>
+<td>MIT</td>
+<td>https://github.com/stream-utils/unpipe#readme</td>
+<td>Unpipe a stream from all destinations</td>
+</tr>
+<tr>
+<td>utf-8-validate</td>
+<td>6.0.4</td>
+<td>MIT</td>
+<td>https://github.com/websockets/utf-8-validate</td>
+<td>Check if a buffer contains valid UTF-8</td>
+</tr>
+<tr>
+<td>utils-merge</td>
+<td>1.0.1</td>
+<td>MIT</td>
+<td>https://github.com/jaredhanson/utils-merge#readme</td>
+<td>merge() utility function</td>
+</tr>
+<tr>
+<td>vary</td>
+<td>1.1.2</td>
+<td>MIT</td>
+<td>https://github.com/jshttp/vary#readme</td>
+<td>Manipulate the HTTP Vary header</td>
+</tr>
+<tr>
+<td>window-size</td>
+<td>1.1.1</td>
+<td>MIT</td>
+<td>https://github.com/jonschlinkert/window-size</td>
+<td>Reliable way to get the height and width of terminal/console, since it's not calculated or updated the same way on all platforms, environments and node.js versions.</td>
+</tr>
+<tr>
+<td>ws</td>
+<td>8.18.0</td>
+<td>MIT</td>
+<td>https://github.com/websockets/ws</td>
+<td>Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js</td>
+</tr>
+<tr>
+<td>dotenv</td>
+<td>16.4.5</td>
+<td>BSD-2-Clause</td>
+<td>https://github.com/motdotla/dotenv#readme</td>
+<td>Loads environment variables from .env file</td>
+</tr>
+<tr>
+<td>inherits</td>
+<td>2.0.4</td>
+<td>ISC</td>
+<td>https://github.com/isaacs/inherits#readme</td>
+<td>Browser-friendly inheritance fully compatible with standard node.js inherits()</td>
+</tr>
+<tr>
+<td>lru-cache</td>
+<td>4.1.5
+7.18.3</td>
+<td>ISC</td>
+<td>https://github.com/isaacs/node-lru-cache#readme</td>
+<td>A cache object that deletes the least-recently-used items.</td>
+</tr>
+<tr>
+<td>minimatch</td>
+<td>3.1.2
+5.1.6</td>
+<td>ISC</td>
+<td>https://github.com/isaacs/minimatch#readme</td>
+<td>a glob matcher in javascript</td>
+</tr>
+<tr>
+<td>passport-discord</td>
+<td>0.1.4</td>
+<td>ISC</td>
+<td>https://github.com/nicholastay/passport-discord#readme</td>
+<td>Passport strategy for authentication with Discord (discordapp.com)</td>
+</tr>
+<tr>
+<td>pseudomap</td>
+<td>1.0.2</td>
+<td>ISC</td>
+<td>https://github.com/isaacs/pseudomap#readme</td>
+<td>A thing that is a lot like ES6 `Map`, but without iterators, for use in environments where `for..of` syntax and `Map` are not available.</td>
+</tr>
+<tr>
+<td>setprototypeof</td>
+<td>1.2.0</td>
+<td>ISC</td>
+<td>https://github.com/wesleytodd/setprototypeof</td>
+<td>A small polyfill for Object.setprototypeof</td>
+</tr>
+<tr>
+<td>yallist</td>
+<td>2.1.2</td>
+<td>ISC</td>
+<td>https://github.com/isaacs/yallist#readme</td>
+<td>Yet Another Linked List</td>
+</tr>
+<tr>
+<td>pause</td>
+<td>0.0.1</td>
+<td>Unknown</td>
+<td>Unknown</td>
+<td>Pause streams...</td>
+</tr>
+<tr>
+<td>tslib</td>
+<td>2.7.0</td>
+<td>0BSD</td>
+<td>https://www.typescriptlang.org/</td>
+<td>Runtime library for TypeScript helper functions</td>
+</tr>
+</table>
