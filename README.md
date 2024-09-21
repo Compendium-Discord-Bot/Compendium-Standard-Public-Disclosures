@@ -1,1 +1,1 @@
-# Leagal-Stuff-We-Are-Required-To-Share
+# Leagal Stuff We Are Required To Share
