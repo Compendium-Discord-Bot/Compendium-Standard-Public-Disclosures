@@ -13,7 +13,7 @@ While using our service, you're expected to follow a few simple rules:
 - **Don’t Misuse the Service**: You must not use our service for illegal or harmful activities, such as posting NSFW content in non-NSFW channels, spamming, or distributing harmful content (e.g., viruses, malware).
 
 ## 3. Your Data
-When using our service, some data is stored to ensure everything runs smoothly. For more detailed info, check out our [Privacy Policy](https://github.com/Compendium-Discord-Bot/Leagal-Stuff-We-Are-Required-To-Share/blob/main/PRIVACY-POLICY.md).
+When using our service, some data is stored to ensure everything runs smoothly. For more detailed info, check out our [Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/PRIVACY-POLICY.md).
 
 ### Here’s a quick summary of what we store:
 - Your Discord ID

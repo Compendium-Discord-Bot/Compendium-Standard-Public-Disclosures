@@ -4,7 +4,7 @@
 - Your Discord ID
 - Data from documents created by you
 - Timestamps and history of document editions that were made by you
-- Infraction history for violating [rules](https://github.com/Compendium-Discord-Bot/Leagal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or [terms of service](https://github.com/Compendium-Discord-Bot/Leagal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md)
+- Infraction history for violating [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md)
 - Data provided during support requests
 - Translation data provided by those who applied to provide it
 
@@ -19,7 +19,7 @@
       - Service enrichment — providing additional features for end-users of our service.
       - Validate that documents stored by us are not used in a malicious way.
       - Verify if a document should be tagged as NSFW.
-      - Verify if a document violates any [rules](https://github.com/Compendium-Discord-Bot/Leagal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or our [terms of service](https://github.com/Compendium-Discord-Bot/Leagal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md).
+      - Verify if a document violates any [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or our [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md).
 
 ## Data Retention:
 We retain data for as long as necessary to provide our services effectively. Specifically:
