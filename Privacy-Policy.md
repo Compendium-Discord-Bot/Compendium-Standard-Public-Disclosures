@@ -5,7 +5,7 @@ Any references hereafter to "WE" or "US" describes Compendium and its body of se
 ## What we store:
 
 - Your Discord ID
-- Data from documents created by you
+- Data from documents created or modified by you
 - Timestamps and history of document editions that were made by you
 - History of infractions from violating [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md)
 - Data provided during support requests
@@ -46,8 +46,7 @@ To exercise any of these rights, please open a request via `<#ticket-channel>` o
 
 ### Limitations
 
-#### 
-    Infraction Data
+#### Infraction Data
 
 1. Infraction data is classified as priviliged and confidential.
 2. Infraction data is retained indefinitely, and will not be deleted except in compliance to applicable laws.
