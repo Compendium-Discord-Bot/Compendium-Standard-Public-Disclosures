@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Any references hereafter to "WE" or "US" describes Compendium and its body of services offered to "YOU", the user of Compendium.
+Any references hereafter to "WE" or "US" describes Compendium and its offering of services offered to "YOU", the user of Compendium.
 
 ## What we store:
 
@@ -31,7 +31,7 @@ We retain data for as long as necessary to provide our services effectively. Spe
 
 - **Document data**: Stored until the document owner requests deletion or no longer owns the server.
 - **Infraction history**: Stored indefinitely for accountability and service integrity purposes.
-- **Support request data**: Retained for 6 months after the resolution of the request, unless required for longer to serve legal obligations.
+- **Support request data**: Retained for 6 months after the resolution of the request, unless required for longer to fulfil legal obligations.
 
 ## Your Data Rights:
 
@@ -48,8 +48,9 @@ To exercise any of these rights, please open a request via `<#ticket-channel>` o
 
 #### Infraction Data
 
-1. Infraction data is classified as priviliged and confidential.
+1. Infraction data is categorized as priviliged and confidential by Compendium and will not be shared upon standard request.
 2. Infraction data is retained indefinitely, and will not be deleted except in compliance to applicable laws.
+3. Any documents, matierials or information which is deemed relevant to any review of infractions and will not be shared upon standard request.
 
 ## Third-Party Services:
 
@@ -75,13 +76,12 @@ However, no system is completely secure. In the unlikely event of a data breach,
 Please do not even attempt to approach us with any kind of proposition to sell user data; you would just be wasting your time, and ours.
 Instead of trying to approach us with the intention to share or sell user data, go back to the naughty corner and reflect on your actions.
 
-Since we may be required to share some data by applicable law to comply with requests from law enforcement, such as subpoenas or court orders:
+We may be required under applicable law to share some data in compliance with requests from law enforcement, such as subpoenas or court orders. This includes:
 
-- **What do we share in case of court orders or subpoenas?**
-  - Data from documents.
-  - Timestamps and history of document editions.
-  - User infraction history.
-  - Any other information or data stored in reference to the named parties on the request(s).
+- Data from documents.
+- Timestamps and history of document editions.
+- User infraction history.
+- Any other information or data stored in reference to the named parties on the request(s).
 
 Any requests should be sent over to `[WIP]` from a government domain in a PDF file that has been digitally signed. Since we do not store users' legal names or other personal data, in order to comply with the request, we will need:
 
@@ -97,6 +97,7 @@ To do so, go to `<#ticket-channel>` and select `Data Deletion` from the select m
 
 - **User infraction history** — We require it to record any misuse of our service or violation of rules.
 - **Document edition history** — We require this data to enable operation of our services and for legal purposes.
+- **Data held for any ongoing investigation** — In the event of any ongoing investigation involving any pertinent data, deletion will be delayed until the investigation is concluded.
 
 ## AI Usage:
 
@@ -107,10 +108,11 @@ We may use data from documents created by you to train our internal AI for servi
 
 ## Contact Us:
 
-If you have any questions about this privacy policy or wish to exercise any of your data rights, please contact us at `[WIP Contact Email]` or through our support channels.
+If you have any questions about this Privacy Policy or wish to exercise any of your data rights, please contact us at `[WIP Contact Email]` or through our support channels.
 
 # Commitments:
 
 * We believe that a privacy policy shouldn't be something that is used to justify stealing and/or selling user data in any way, shape, or form.
 
 - We believe that clarity and trust are important and necessary, and that you deserve to know what happens with the data you entrust to us.
+- Our commitment to keep your data within Compendium is not abridged by the development or deployment of any AI model now or in the future.
