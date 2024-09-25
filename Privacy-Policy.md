@@ -83,9 +83,10 @@ We may be required under applicable law to share some data in compliance with re
 - User infraction history.
 - Any other information or data stored in reference to the named parties on the request(s).
 
-Any requests should be sent over to `[WIP]` from a government domain in a PDF file that has been digitally signed. Since we do not store users' legal names or other personal data, in order to comply with the request, we will need:
+Any requests should be sent over to `[WIP]` in a PDF file that has been digitally signed. Since we do not store users' legal names or other personal data, in order to comply with the request, we will need:
 
-* The Discord user ID, *OR*
+* The Discord user ID
+*OR*
 * The ID or IDs of the documents your request concerns.
 
 ## Data Deletion:
@@ -101,10 +102,10 @@ To do so, go to `<#ticket-channel>` and select `Data Deletion` from the select m
 
 ## AI Usage:
 
-We may use data from documents created by you to train our internal AI for service improvement. Only documents explicitly made public or shared within servers will be considered for AI training.
+Inthe far future we may use data from documents created by you to train our internal AI for service improvement. Only documents explicitly made public or shared within servers will be considered for AI training.
 
-- Users will be notified at least 30 calendar days before testing or training of any AI model begins.
-- Users who wish to exclude their documents or servers from AI training can opt out by submitting a request via `<#ticket-channel>`.
+- All users will be notified at least 30 calendar days before testing or training of any AI models begins.
+- Users who wish to exclude their documents or servers from AI training can opt out by submitting a request via in our support channel [compendium-support](https://discord.com/channels/1232458290563387392/1232586070764552232) - server invite: https://discord.gg/dgKP4yuJCn.
 
 ## Contact Us:
 
