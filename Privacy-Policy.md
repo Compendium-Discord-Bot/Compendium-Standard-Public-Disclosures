@@ -2,7 +2,7 @@
 
 Any references hereafter to "WE" or "US" describes Compendium and its offering of services offered to "YOU", the user of Compendium.
 
-## What we store:
+## What we store
 
 - Your Discord ID
 - Data from documents created or modified by you
@@ -11,7 +11,7 @@ Any references hereafter to "WE" or "US" describes Compendium and its offering o
 - Data provided during support requests
 - Translation data provided by those who applied to provide it
 
-## What do we use said data for:
+## What do we use said data for
 
 - To provide the service of knowledge and writing management within servers.
 - We may use data from documents to train our internal AI in the future.
@@ -25,7 +25,7 @@ Any references hereafter to "WE" or "US" describes Compendium and its offering o
     - Verify if a document should be tagged as NSFW.
     - Verify if a document violates any [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or our [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md).
 
-## Data Retention:
+## Data Retention
 
 We retain data for as long as necessary to provide our services effectively. Specifically:
 
@@ -33,7 +33,7 @@ We retain data for as long as necessary to provide our services effectively. Spe
 - **Infraction history**: Stored indefinitely for accountability and service integrity purposes.
 - **Support request data**: Retained for 6 months after the resolution of the request, unless required for longer to fulfil legal obligations.
 
-## Your Data Rights:
+## Your Data Rights
 
 Depending on your location, you may have the following rights regarding your data, with some limitations:
 
@@ -48,18 +48,18 @@ To exercise any of these rights, please open a request via `<#ticket-channel>` o
 
 #### Infraction Data
 
-1. Infraction data is categorized as priviliged and confidential by Compendium and will not be shared upon standard request.
+1. Infraction data is categorized as privileged and confidential by Compendium and will not be shared upon standard request.
 2. Infraction data is retained indefinitely, and will not be deleted except in compliance to applicable laws.
-3. Any documents, matierials or information which is deemed relevant to any review of infractions and will not be shared upon standard request.
+3. Any documents, materials or information which is deemed relevant to any review of infractions and will not be shared upon standard request.
 
-## Third-Party Services:
+## Third-Party Services
 
 We use third-party services to help operate our platform (e.g., cloud storage, hosting). These services may process or store data on our behalf but are contractually bound to follow our data protection policies and cannot use your data for their own purposes.
 
 - Data, network and computing hosting providers
 - Discord
 
-## Data Security:
+## Data Security
 
 We take data security seriously and implement the following measures to protect your information:
 
@@ -69,9 +69,9 @@ We take data security seriously and implement the following measures to protect 
 
 However, no system is completely secure. In the unlikely event of a data breach, we will notify affected users promptly.
 
-## What kind of data we share or sell:
+## What kind of data we share or sell
 
-### We will NEVER sell or share your data to a third party.
+### We will NEVER sell or share your data to a third party
 
 Please do not even attempt to approach us with any kind of proposition to sell user data; you would just be wasting your time, and ours.
 Instead of trying to approach us with the intention to share or sell user data, go back to the naughty corner and reflect on your actions.
@@ -85,35 +85,34 @@ We may be required under applicable law to share some data in compliance with re
 
 Any requests should be sent over to `[WIP]` in a PDF file that has been digitally signed. Since we do not store users' legal names or other personal data, in order to comply with the request, we will need:
 
-* The Discord user ID
+- The Discord user ID
 *OR*
-* The ID or IDs of the documents your request concerns.
+- The ID or IDs of the documents your request concerns.
 
-## Data Deletion:
+## Data Deletion
 
 If you wish, you can request us to delete all documents that are currently owned by you or by a Discord server that you own.
 To do so, go to `<#ticket-channel>` and select `Data Deletion` from the select menu available there.
 
-### What we will not be deleting:
+### What we will not be deleting
 
 - **User infraction history** — We require it to record any misuse of our service or violation of rules.
 - **Document edition history** — We require this data to enable operation of our services and for legal purposes.
-- **Data held for any ongoing investigation** — In the event of any ongoing investigation involving any pertinent data, deletion will be delayed until the investigation is concluded.
+- **Data held for any ongoing investigation** — In the event of any ongoing investigation, any pertinent data deletion will be delayed until after the investigation is concluded.
 
-## AI Usage:
+## AI Usage
 
 Inthe far future we may use data from documents created by you to train our internal AI for service improvement. Only documents explicitly made public or shared within servers will be considered for AI training.
 
 - All users will be notified at least 30 calendar days before testing or training of any AI models begins.
-- Users who wish to exclude their documents or servers from AI training can opt out by submitting a request via in our support channel [compendium-support](https://discord.com/channels/1232458290563387392/1232586070764552232) - server invite: https://discord.gg/dgKP4yuJCn.
+- Users who wish to exclude their documents or servers from AI training can opt out by submitting a request via in our support channel [compendium-support](https://discord.com/channels/1232458290563387392/1232586070764552232) - server invite [https://discord.gg/dgKP4yuJCn](https://discord.gg/dgKP4yuJCn).
 
-## Contact Us:
+## Contact Us
 
 If you have any questions about this Privacy Policy or wish to exercise any of your data rights, please contact us at `[WIP Contact Email]` or through our support channels.
 
-# Commitments:
+## Commitments
 
-* We believe that a privacy policy shouldn't be something that is used to justify stealing and/or selling user data in any way, shape, or form.
-
+- We believe that a privacy policy shouldn't be something that is used to justify stealing and/or selling user data in any way, shape, or form.
 - We believe that clarity and trust are important and necessary, and that you deserve to know what happens with the data you entrust to us.
 - Our commitment to keep your data within Compendium is not abridged by the development or deployment of any AI model now or in the future.
