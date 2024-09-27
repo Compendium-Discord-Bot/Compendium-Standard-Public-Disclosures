@@ -102,7 +102,7 @@ To do so, go to `<#ticket-channel>` and select `Data Deletion` from the select m
 
 ## AI Usage
 
-Inthe far future we may use data from documents created by you to train our internal AI for service improvement. Only documents explicitly made public or shared within servers will be considered for AI training.
+In the far future we may use data from documents created by you to train our internal AI for service improvement. Only documents explicitly made public or shared within servers will be considered for AI training.
 
 - All users will be notified at least 30 calendar days before testing or training of any AI models begins.
 - Users who wish to exclude their documents or servers from AI training can opt out by submitting a request via in our support channel [compendium-support](https://discord.com/channels/1232458290563387392/1232586070764552232) - server invite [https://discord.gg/dgKP4yuJCn](https://discord.gg/dgKP4yuJCn).
