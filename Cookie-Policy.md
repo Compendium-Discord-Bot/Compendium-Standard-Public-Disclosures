@@ -17,6 +17,5 @@ Yes, just 2 cookies, and nothing more
 ## What about trackers, selling data, advertising, user privacy, etc. ?
 
 We will never sell or share user (your) data with 3rd party, no matter what benefits we may be offered!
-This, is our stricktiest rule, and foundation of our principles
-We will share data only if we are required to by law enforcement via court order or subpoena
-which you may notice in our [Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Privacy-Policy.md)
+This is one of our most foundational commitments to you.
+We will share data only by legal obligation. Read more in our [Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Privacy-Policy.md).
