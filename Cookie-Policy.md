@@ -4,7 +4,7 @@
 
 Only two!
 
-Yes, just 2 cookies, and nothing more. If there are more, we will notify you via the official Compendium Support Discord server, or in the /acknowledgements command in the Compendium bot.
+Yes, just 2 cookies, and nothing more. If there are more, we will notify you via the official Compendium Support Discord server, as well as in the /cookies-used command in the Compendium bot.
 
 ## What are these two cookies used for?
 
