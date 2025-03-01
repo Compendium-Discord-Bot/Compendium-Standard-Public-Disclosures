@@ -29,6 +29,7 @@ When using our service, some data is stored to ensure everything runs smoothly. 
 
 - Your Discord ID
 - Data from documents created or modified by you
+- Files attached to documents during whole lifetime of the document
 - Timestamps of your actions (such as document edits)
 - Your infraction history (if you break the rules)
 - Data provided during support requests
@@ -41,15 +42,15 @@ We use this data to provide the service, improve it, and maintain community safe
 Our bot has specific commands and features. By using these commands, you agree:
 
 1. **Service Provided As-Is**: Compendium and its features are provided to you in the form which is presented to you. We may add, modify, or remove features from time to time and will give reasonable notification in advance of major changes, especially when it might affect your stored data.
-2. **Prohibited Uses**: You will not use any of Compendium's features for any of the prohibited uses belos in the following section:
+2. **Prohibited Uses**: You will not use any of Compendium's features for any of the prohibited uses lised out in the following section:
 
 ## 5. Prohibited Activities
 
 Do not use Compendium for the purposes of any of the following:
 
-1. Storage or distribution of copyrighted materials or any information protected by intellectual or any other property right or patent protected by law.
+1. Storage or distribution of copyrighted materials or any information protected by intellectual or any other property right or patent protected by law that you have no right to sublicense to us in order for us to be allowed process it.
 2. Storage or distribution of classified or confidential materials or information, or any materials or information obtained through illegal means.
-3. Storage or distribution of any information or materials which facilitates, enables or encourages criminal activity, including fraud, or theft of real property (e.g. real estate).
+3. Storage or distribution of any information or materials which facilitates, enables or encourages criminal activity, including fraud, or theft of real or digital property (e.g. real estate).
 4. Storage or distribution of any harmful materials such as malware, spyware, viruses, etc.
 5. Storage or distribution of materials promoting terrorism and self-harm, or any communication to these effects.
 6. Any information about a private person who has not provided their express written consent to have their information posted on Compendium.
@@ -71,11 +72,15 @@ Infractions are logged, and repeated offenses will lead to stricter penalties.
 
 ## 7. AI Features (Future Use)
 
-If AI features are to be introduced in the future (like document analysis or smart tools), you will be notified ahead of time. You will have the chance to opt out if you don't want your documents used for AI purposes. More details are contained in the Privacy Policy.
+If AI features are to be introduced in the future (like document analysis or smart tools), you will be notified ahead of time. </br>
+You will have the chance to opt in, if you want your documents to be used for AI training purposes. </br>
+More details regarding possible usage of data is contained in the [Privacy Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Privacy-Policy.md).
 
 ## 8. Updates to These Terms
 
-We may update these terms from time to time. Notification of significant changes will be delivered through our public Support Discord server or via the bot. You can always check the latest version in our public repository on GitHub.
+We may update these terms from time to time.</br>
+Notification of significant changes will be delivered through our public Support Discord server or via the bot.</br>
+You can always check the latest version in our [public repository on GitHub](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/).
 
 ## 9. Liability
 
