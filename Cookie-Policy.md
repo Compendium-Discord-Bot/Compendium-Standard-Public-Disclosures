@@ -10,12 +10,12 @@ They will added here as well with description of what they are for.
 
 ## What are these two cookies used for?
 
-### 1. Notification Dismissal Cookie
+1. Notification Dismissal Cookie
     
     When you see our cookie notification for the first time and decide to dismiss it, we save a cookie on your device.</br>
     This cookie’s job is to remind Compendium that you’ve already seen and closed the notification, so we don’t keep bugging you every time you visit.
 
-### 2. Session Cookie
+2. Session Cookie
     
     When you log in on our website, we use a session cookie to remember that you're still here.</br>
     It helps us know who you are while you’re navigating between pages.</br>
