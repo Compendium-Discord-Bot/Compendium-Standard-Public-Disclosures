@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Any references hereafter to "WE" or "US" describes Compendium and its offering of services offered to "YOU", the user of Compendium.
+Any references hereafter to "WE" or "US" describes Compendium and its offering of services offered to "YOU", the user of Compendium Discord bot.
 
 ## What we store
 
@@ -16,22 +16,30 @@ Any references hereafter to "WE" or "US" describes Compendium and its offering o
 - To provide the service of knowledge and writing management within servers.
 - We may use data from documents to train our internal AI in the future.
   - **When will we be adding AI features?**
-    All users that own or modified any document that is stored within our service will be notified 30 calendar days before we begin any testing or training AI services.
+    - All users that own or modified any document that is stored within our service will be notified 30 calendar days before we begin any testing or training of AI models.
+    - All documents will have the option to opt-in disabled by default, and we will under no circumstances use the data, unless the user explicitly allows us.
+
   - **What data will we be using in the future to train/operate said AI:**
-    - Data from documents created by you.
-  - **What would we use our internal AI for:**
+    - Data from documents created by you
+    - Files attached to documents, like images, or text files.
+
+  - **What would we use our AI for:**
     - Service enrichment — providing additional features for end-users of our service.
     - Validate that documents stored by us are not used in a malicious way.
     - Verify if a document should be tagged as NSFW.
     - Verify if a document violates any [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or our [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md).
 
+  - **What AI service will you be using?**
+    - Ideally, it would be a self-hosted one, since most services, if not all, would require us to grant them a license, to do whatever they like with the provided data.
+       And we will never agree to such a deal, as user data belongs only to the user and we will not be asking for permission, to sublicense it to anyone.
+
 ## Data Retention
 
 We retain data for as long as necessary to provide our services effectively. Specifically:
 
-- **Document data**: Stored until the document owner requests deletion or no longer owns the server.
+- **Document data**: Stored until the document owner requests deletion, in case of bot getting kicked out of the server or server deletion, all documents will be transferred to server owner - documents and edit history may be stored for indefinite period of time only if they are linked to an infraction.
 - **Infraction history**: Stored indefinitely for accountability and service integrity purposes.
-- **Support request data**: Retained for 6 months after the resolution of the request, unless required for longer to fulfil legal obligations.
+- **Support request data**: Retained for 6 months after the resolution of the request, unless required for longer to fulfil legal obligations, or when is a part of infraction.
 
 ## Your Data Rights
 
@@ -42,7 +50,7 @@ Depending on your location, you may have the following rights regarding your dat
 - **Deletion**: You can request deletion of your data, with the exception of infraction history.
 - **Data Portability**: You can request a copy of your data in a machine-readable format.
 
-To exercise any of these rights, please open a request via `<#ticket-channel>` or contact us at `[WIP Contact Email]`.
+To exercise any of these rights, please open a request via `<#ticket-channel>` or contact us at `[Contact Email is WIP]`.
 
 ### Limitations
 
@@ -50,7 +58,7 @@ To exercise any of these rights, please open a request via `<#ticket-channel>` o
 
 1. Infraction data is categorized as privileged and confidential by Compendium and will not be shared upon standard request.
 2. Infraction data is retained indefinitely, and will not be deleted except in compliance to applicable laws.
-3. Any documents, materials or information which is deemed relevant to any review of infractions and will not be shared upon standard request.
+3. Any documents, materials or information which is deemed relevant to a review of infractions will not be deleted upon standard request.
 
 ## Third-Party Services
 
@@ -64,27 +72,28 @@ We use third-party services to help operate our platform (e.g., cloud storage, h
 We take data security seriously and implement the following measures to protect your information:
 
 - Data is stored securely using encryption.
-- Access to sensitive data is limited to authorized personnel only.
+- Access to sensitive user data is limited to authorized personnel only.
 - Regular security audits and updates to maintain the integrity of our systems.
 
 However, no system is completely secure. In the unlikely event of a data breach, we will notify affected users promptly.
 
 ## What kind of data we share or sell
 
-### We will NEVER sell or share your data to a third party
+### NONE!!! We will NEVER sell or share your data to a third party
 
 Please do not even attempt to approach us with any kind of proposition to sell user data; you would just be wasting your time, and ours.
 Instead of trying to approach us with the intention to share or sell user data, go back to the naughty corner and reflect on your actions.
 
-We may be required under applicable law to share some data in compliance with requests from law enforcement, such as subpoenas or court orders. This includes:
+Though we may be required under applicable law to share some data in compliance with requests from law enforcement, such as subpoenas or court orders. This includes:
 
 - Data from documents.
 - Timestamps and history of document editions.
 - User infraction history.
 - Any other information or data stored in reference to the named parties on the request(s).
 
-Any requests should be sent over to `[WIP]` in a PDF file that has been digitally signed. Since we do not store users' legal names or other personal data, in order to comply with the request, we will need:
-
+Any requests should be sent over to `[Contact Email is WIP]` in a PDF file that has been digitally signed.
+Since we do not store users' legal names or other personal data, besides email address, in order to comply with the request, we will need one of the follwing for identification purposes:
+- Email address of the user
 - The Discord user ID
 *OR*
 - The ID or IDs of the documents your request concerns.
@@ -102,14 +111,15 @@ To do so, go to `<#ticket-channel>` and select `Data Deletion` from the select m
 
 ## AI Usage
 
-In the far future we may use data from documents created by you to train our internal AI for service improvement. Only documents explicitly made public or shared within servers will be considered for AI training.
+In the far future we may use data from documents created by you, and files attached to them, to train our AI for service improvement.
+Only documents explicitly made public or shared within servers will be considered for AI training. AFTER user explicitly allowed us to use their data for this specific purpose.
 
 - All users will be notified at least 30 calendar days before testing or training of any AI models begins.
-- Users who wish to exclude their documents or servers from AI training can opt out by submitting a request via in our support channel [compendium-support](https://discord.com/channels/1232458290563387392/1232586070764552232) - server invite [https://discord.gg/dgKP4yuJCn](https://discord.gg/dgKP4yuJCn).
+- Users who wish to include their documents or servers in AI training can opt in by submitting a request via in our support channel [compendium-support](https://discord.com/channels/1232458290563387392/1232586070764552232) - server invite [https://discord.gg/dgKP4yuJCn](https://discord.gg/dgKP4yuJCn) or by using a command and selecting documents they wish to allow us to use.
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or wish to exercise any of your data rights, please contact us at `[WIP Contact Email]` or through our support channels.
+If you have any questions about this Privacy Policy or wish to exercise any of your data rights, please contact us at `[WIP Contact Email]` or through our support channel on discord.
 
 ## Commitments
 
