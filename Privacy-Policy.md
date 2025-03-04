@@ -1,43 +1,26 @@
 # Privacy Policy
 
-Any references hereafter to "WE" or "US" describes Compendium and its offering of services offered to "YOU", the user of Compendium Discord bot.
+Any references hereafter to "WE" or "US" describes Compendium and its offering of services offered to "YOU", the end user of Compendium Discord bot.
 
-## What we store
+## What do we store?
 
 - Your Discord ID
 - Data from documents created or modified by you
 - Timestamps and history of document editions that were made by you
-- History of infractions from violating [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md)
+- History of infractions from violations of [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md)
 - Data provided during support requests
 - Translation data provided by those who applied to provide it
 
-## What do we use said data for
+## What do we use this data for?
 
-- To provide the service of knowledge and writing management within servers.
-- We may use data from documents to train our internal AI in the future.
-  - **When will we be adding AI features?**
-    - All users that own or modified any document that is stored within our service will be notified 30 calendar days before we begin any testing or training of AI models.
-    - All documents will have the option to opt-in disabled by default, and we will under no circumstances use the data, unless the user explicitly allows us.
-
-  - **What data will we be using in the future to train/operate said AI:**
-    - Data from documents created by you
-    - Files attached to documents, like images, or text files.
-
-  - **What would we use our AI for:**
-    - Service enrichment — providing additional features for end-users of our service.
-    - Validate that documents stored by us are not used in a malicious way.
-    - Verify if a document should be tagged as NSFW.
-    - Verify if a document violates any [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or our [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md).
-
-  - **What AI service will you be using?**
-    - Ideally, it would be a self-hosted one, since most services, if not all, would require us to grant them a license, to do whatever they like with the provided data.
-       And we will never agree to such a deal, as user data belongs only to the user and we will not be asking for permission, to sublicense it to anyone.
+- To deliver Compendium's service of writing management for yourself and for servers, and knowledge manegement, within servers.
+- We may use data from documents to train our internal AI in the future. See the section on AI Usage below.
 
 ## Data Retention
 
 We retain data for as long as necessary to provide our services effectively. Specifically:
 
-- **Document data**: Stored until the document owner requests deletion, in case of bot getting kicked out of the server or server deletion, all documents will be transferred to server owner - documents and edit history may be stored for indefinite period of time only if they are linked to an infraction.
+- **Document data**: Stored until the document owner requests deletion, in case of bot getting kicked out of the server or server deletion, all documents will be transferred to server owner - Documents and edit history may be stored for an indefinite period of time only if they are linked to an infraction.
 - **Infraction history**: Stored indefinitely for accountability and service integrity purposes.
 - **Support request data**: Retained for 6 months after the resolution of the request, unless required for longer to fulfil legal obligations, or when is a part of infraction.
 
@@ -56,7 +39,7 @@ To exercise any of these rights, please open a request via `<#ticket-channel>` o
 
 #### Infraction Data
 
-1. Infraction data is categorized as privileged and confidential by Compendium and will not be shared upon standard request.
+1. Reporter and infraction data is categorized as privileged and confidential by Compendium and will not be shared.
 2. Infraction data is retained indefinitely, and will not be deleted except in compliance to applicable laws.
 3. Any documents, materials or information which is deemed relevant to a review of infractions will not be deleted upon standard request.
 
@@ -64,7 +47,7 @@ To exercise any of these rights, please open a request via `<#ticket-channel>` o
 
 We use third-party services to help operate our platform (e.g., cloud storage, hosting). These services may process or store data on our behalf but are contractually bound to follow our data protection policies and cannot use your data for their own purposes.
 
-- Data, network and computing hosting providers
+- Data, network and computing hosting providers.
 - Discord
 
 ## Data Security
@@ -79,24 +62,24 @@ However, no system is completely secure. In the unlikely event of a data breach,
 
 ## What kind of data we share or sell
 
-### NONE!!! We will NEVER sell or share your data to a third party
+### *NONE!!!* We will *NEVER* sell or share your data to a third party
 
-Please do not even attempt to approach us with any kind of proposition to sell user data; you would just be wasting your time, and ours.
-Instead of trying to approach us with the intention to share or sell user data, go back to the naughty corner and reflect on your actions.
+Our user's data is not for sale. Do not even attempt to approach us with any kind of proposition to sell user data; you will be wasting your time, and ours.
 
-Though we may be required under applicable law to share some data in compliance with requests from law enforcement, such as subpoenas or court orders. This includes:
+We may be required under applicable law to share some data in compliance with requests from law enforcement or courts. This includes:
 
 - Data from documents.
 - Timestamps and history of document editions.
 - User infraction history.
 - Any other information or data stored in reference to the named parties on the request(s).
 
-Any requests should be sent over to `[Contact Email is WIP]` in a PDF file that has been digitally signed.
-Since we do not store users' legal names or other personal data, besides email address, in order to comply with the request, we will need one of the follwing for identification purposes:
-- Email address of the user
-- The Discord user ID
-*OR*
-- The ID or IDs of the documents your request concerns.
+Any requests should be sent over to `[Contact Email is WIP]` in a PDF file that has been digitally signed by the authoritative person making the request.
+Since we do not store users' legal names or other personal data, besides email address, in order to comply with the request, we will need one of the follwing for identification purposes, depending on the nature of the demand:
+
+- Email address of the user, OR
+- The User's Discord ID, OR
+- The ID or IDs of Documents, OR
+- The ID or IDs of Guilds (Discord Servers) AND the User's Discord ID
 
 ## Data Deletion
 
@@ -112,10 +95,7 @@ To do so, go to `<#ticket-channel>` and select `Data Deletion` from the select m
 ## AI Usage
 
 In the far future we may use data from documents created by you, and files attached to them, to train our AI for service improvement.
-Only documents explicitly made public or shared within servers will be considered for AI training. AFTER user explicitly allowed us to use their data for this specific purpose.
-
-- All users will be notified at least 30 calendar days before testing or training of any AI models begins.
-- Users who wish to include their documents or servers in AI training can opt in by submitting a request via in our support channel [compendium-support](https://discord.com/channels/1232458290563387392/1232586070764552232) - server invite [https://discord.gg/dgKP4yuJCn](https://discord.gg/dgKP4yuJCn) or by using a command and selecting documents they wish to allow us to use.
+Only documents explicitly made public or shared within servers will be considered for AI training. AFTER user explicitly allowed us to use their data for this specific purpose. See the applicable [Smart Technologies Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Smart-Technologies.md).
 
 ## Contact Us
 

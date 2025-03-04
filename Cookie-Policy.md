@@ -9,7 +9,7 @@ If additional cookies are required, it will be announced whenever they are effec
 
 ### 1. Notification Dismissal Cookie
 
-When you dismiss our cookie notification, we save a cookie on your device that reminds the web page that you've already seen and closed the notification,`</br>` therefore preventing additional notifications during future visits.`</br>`
+When you dismiss our cookie notification, we save a cookie on your device that reminds the web page that you've already seen and closed this notification,`</br>` therefore preventing additional notifications during future visits.`</br>`
 Whenever we make updates to the cookies, however, the notification will reappear and notify you of the changes.`</br>`
 
 ### 2. Session Cookie
