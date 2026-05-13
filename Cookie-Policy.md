@@ -1,23 +1,27 @@
 # Cookie Policy
 
-## How Many Cookies Do We Need?
+## I. Introduction
 
-We use the minimal number of cookies to maintain basic usability of our services
-If additional cookies are required, it will be announced whenever they are effective in the #policy-transparency announcement channel in the Compendium Support Discord server, or at any time through the /policies cookies command using the Compendium bot.
+### 1. What Cookies Do We Need?
 
-## What are the purpose of these cookies?
+We use the minimal number of cookies to maintain basic functioning of our services. If additional cookies are required, it will be announced whenever they are effective in the [#policy-transparency](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Policy Transparency") announcement channel in the Compendium Support Discord server, or at any time through the **/policies cookies** command within the Compendium bot.
 
-### 1. Notification Dismissal Cookie
+## II. What are the purpose of these cookies?
 
-When you dismiss our cookie notification, we save a cookie on your device that reminds the web page that you've already seen and closed this notification,
-therefore preventing additional notifications during future visits.
-Whenever we make updates to the cookies, however, the notification will reappear and notify you of the changes.
+### 1. Essential Cookies
 
-### 2. Session Cookie
+#### 1.1. Notification Dismissal Cookie
 
-Upon logging in to our website, we use a session cookie so the site can remember you as you navigate between different pages, much like a temporary name tag.
+When you dismiss our cookie notification, we save a cookie on your device that reminds the web page that you've already seen and that you closed this notification, therefore preventing additional notifications during future visits. Whenever we make updates to the cookies, however, the notification will reappear and notify you of any changes.
 
-## Data Privacy and User Trust
+#### 1.2. Session Cookie
 
-We are committed to protecting your data and maintaining user privacy.
-For more information, please refer to our **[Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Privacy-Policy.md)**.
+Upon logging in to our website, we use a session cookie so the site can remember you as you navigate between different pages, much like a temporary name tag. Working in tandem with the Notification Dismissal Cookie, this ensures that you don't receive the cookie notice on every page you visit.
+
+### 2. Elective Cookies
+
+We have no plans to add “elective”, or non-essential cookies. But this is the section where they would go if we had any.
+
+## III. Data Privacy and User Trust
+
+We are committed to protecting your data and maintaining user privacy. For more information, please refer to our **[Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Privacy-Policy.md)**.
