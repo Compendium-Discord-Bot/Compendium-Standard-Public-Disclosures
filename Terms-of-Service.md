@@ -85,14 +85,14 @@ Infractions history is maintained, and repeated offenses will lead to stricter p
 
 ## 7. AI Features (Future Use)
 
-If AI features are to be introduced in the future (like document analysis or smart tools), you will be provided advanced notice of their deployment. `</br>`
-You will have the chance to opt in, if you want your documents to be used for AI training purposes. `</br>`
+If AI features are to be introduced in the future (like document analysis or smart tools), you will be provided advanced notice of their deployment.
+You will have the chance to opt in, if you want your documents to be used for AI training purposes.
 More details regarding possible usage of data is contained in the [Privacy Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Privacy-Policy.md) and the [Smart Technologies Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Smart-Technologies.md).
 
 ## 8. Updates to These Terms
 
-We may update these terms from time to time.`</br>`
-Notification of significant changes will be delivered through our public Support Discord server or via the bot.`</br>`
+We may update these terms from time to time.
+Notification of significant changes will be delivered through our public Support Discord server or via the bot.
 You can always check the latest version in our [public repository on GitHub](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/).
 
 ## 9. Liability
