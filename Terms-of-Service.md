@@ -25,7 +25,7 @@ While using our service, you're expected to follow a few simple rules:
 
 ## 3. Your Data
 
-When using our service, some data is stored to ensure everything runs smoothly. Below is a brief summary of what we store, however, for more details, please see our [Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/PRIVACY-POLICY.md).
+When using our service, some data is stored to ensure everything runs smoothly. Below is a brief summary of what we store, however, for more details, please see our [Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Privacy-Policy.md).
 
 - Your Discord User ID
 - Data from documents created, modified, reviewed, or deleted by you
