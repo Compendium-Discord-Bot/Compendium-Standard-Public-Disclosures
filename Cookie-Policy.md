@@ -6,7 +6,7 @@
 
 We use the minimal number of cookies to maintain basic functioning of our services. If additional cookies are required, it will be announced whenever they are effective in the [#policy-transparency](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Policy Transparency") announcement channel in the Compendium Support Discord server, or at any time through the **/policies cookies** command within the Compendium bot.
 
-## II. What are the purpose of these cookies?
+## II. What are the purposes of these cookies?
 
 ### 1. Essential Cookies
 
