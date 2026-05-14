@@ -27,7 +27,7 @@ While using our service, you're expected to follow a few simple rules:
 
 When using our service, some data is stored to ensure everything runs smoothly. Below is a brief summary of what we store, however, for more details, please see our [Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Privacy-Policy.md).
 
-- Your Discord User ID
+- Discord IDs (Snowflakes IDs) for users, guilds, roles, threads, and messages
 - Data from documents created, modified, reviewed, or deleted by you
 - Files attached to documents during whole lifetime of the document's modification history
 - Discord IDs of Guilds in which documents are attributed, or settings are associated
@@ -73,20 +73,19 @@ Do not perform any of the below actions in reference to Compendium without expre
 
 We strive to keep this service safe for everyone. If you break the rules, we reserve the right to impose penalties on you at our discretion, and may take any one or combination of the following actions, including but not limited to:
 
-- **Warnings**: If your behavior violates these terms or our rules, a formal warning may be issued.
-- **Sanctioned Modification**: If certain rules are broken, certain details about your document will be changed to reflect proper audiences and attribution requirements. For example, a document containing NSFW content in a non-age restricted channel may have an NSFW label applied to it.
-- **Deletion** or **Suppression of Content**: If your contributions to content stored and distributed through Compendium are found in violation, this content may be deleted or revoked from public view.
-- **Temporary Suspension**: If violations continue, or are severe enough, we may temporarily prevent your access to the bot's features.
-- **Permanent Ban**: In severe cases (e.g., malicious or illegal use, harassment), you may be permanently banned from using the service.
+- **Warnings**: In the event of a minor infraction, we may deliver a formal warning.
+- **Sanctioned Modification**: If content stored and distributed through Compendium violate our policy, we may modify the content in your document for attribution requirements, or to limit exposure to age-appropriate groups.
+- **Deletion** or **Suppression of Content**: If your contributions to content stored and distributed through Compendium violate our policy, this content may be deleted or suppressed from public view and transmissibility features (applications and submissions).
+- **Temporary Suspension** or **Permanent Ban**: In severe or extreme cases (e.g., repetitive violations, malicious or illegal use, harassment) we may temporarily prevent your access to the bot's features, or entirely ban you from interacting with the service.
 
-You acknowledge that any misuse of the service resulting in termination of your account with Compendium (Permanent Ban) does not obligate Compendium to preserve, export, convey or distribute your content to you or any third party.
+You acknowledge that any misuse of the service resulting in suspension or termination of your account with Compendium does not obligate Compendium to preserve, export, convey or distribute your content to you or any third party.
 
-Infractions history is maintained, and repeated offenses will lead to stricter penalties.
+Infractions history is maintained, and repeated offenses will generally lead to greater penalties.
 
 ## 7. AI Features (Future Use)
 
 If AI features are to be introduced in the future (like document analysis or smart tools), you will be provided advanced notice of their deployment.
-You will have the chance to opt in, if you want your documents to be used for AI training purposes.
+You will have the opportunity to opt in, if you want your documents to be used for AI training purposes.
 More details regarding possible usage of data is contained in the [Privacy Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Privacy-Policy.md) and the [Smart Technologies Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Smart-Technologies.md).
 
 ## 8. Updates to These Terms
@@ -100,7 +99,8 @@ You can always check the latest version in our [public repository on GitHub](htt
 We work hard to make sure everything runs smoothly, but:
 
 - **Compendium is offered "AS-IS"**: Technology is not without faults. We cannot promise that the service will be completely free from interruptions to services and features or bugs.
-- **Use at Your Own Risk**: You use this service at your own risk. We are not responsible or liable for any damages or losses caused by using our service or bot (e.g., lost data or server issues).
+- **Use at Your Own Risk**: You use this service at your own risk. We are not responsible or liable for any damages or losses caused as a result of using our service or bot (e.g., lost data or server issues).
+- **Authenticity**: As a gesture of goodwill and in effort to mitigate potential harm to you, we maintain a document as a source of truth, identifying us, our services, our means of communication, our payment portal(s), and our companies and legal entities. This gesture neither generates nor implies any promise that third parties will either attempt or succeed in deceiving you, nor does it generate or imply any responsibility of Compendium to rectify damages caused by any attempt or success of any fraudulent party.
 
 ## 10. Contact Us
 
