@@ -17,7 +17,7 @@ Compendium is a service which is designed to enable storage, management and orga
 While using our service, you're expected to follow a few simple rules:
 
 1. **Follow Discord's Terms of Service**: By using our service, you are still bound by Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
-2. **Age**: You must be old enough to use Discord where you live. If your country sets a higher minimum age for online services, that applies too.
+2. **Age**: You must be old enough to use Discord where you live. If your country, locality, or other governing authority sets a higher minimum age for online services, that that applies instead.
 3. **Respect Others**: Do not use the service to harass, abuse, stalk, track, or otherwise act maliciously towards other users.
 4. **Do Not Misuse the Service**: You must not use our service for illegal or harmful activities, such as posting NSFW content in non-NSFW channels, spamming, distributing harmful content (e.g., viruses, malware), or distributing content which violates property or copyright laws, or contributes to the knowledge or distribution of any illegal activities.
    1. By storing content through our service, you implicitly attest that you own the rights to the content, are granted a license to use the content, OR
