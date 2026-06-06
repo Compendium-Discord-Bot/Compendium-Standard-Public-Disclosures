@@ -17,8 +17,9 @@ Compendium is a service which is designed to enable storage, management and orga
 While using our service, you're expected to follow a few simple rules:
 
 1. **Follow Discord's Terms of Service**: By using our service, you are still bound by Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
-2. **Respect Others**: Do not use the service to harass, abuse, stalk, track, or otherwise act maliciously towards other users.
-3. **Do Not Misuse the Service**: You must not use our service for illegal or harmful activities, such as posting NSFW content in non-NSFW channels, spamming, distributing harmful content (e.g., viruses, malware), or distributing content which violates property or copyright laws, or contributes to the knowledge or distribution of any illegal activities.
+2. **Age**: You must be old enough to use Discord where you live. If your country sets a higher minimum age for online services, that applies too.
+3. **Respect Others**: Do not use the service to harass, abuse, stalk, track, or otherwise act maliciously towards other users.
+4. **Do Not Misuse the Service**: You must not use our service for illegal or harmful activities, such as posting NSFW content in non-NSFW channels, spamming, distributing harmful content (e.g., viruses, malware), or distributing content which violates property or copyright laws, or contributes to the knowledge or distribution of any illegal activities.
    1. By storing content through our service, you implicitly attest that you own the rights to the content, are granted a license to use the content, OR
    2. To the extent permitted by applicable law, you agree to defend, indemnify, and hold harmless Compendium, officers, directors and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt and expenses arising from your usage of Compendium, your violation of this Agreement, your violation of any other policy of Compendium, your violation of any third party right, including that of privacy and property, or any claim that your content caused damage to a third party.
    3. Some features may have usage limits imposed to prevent abuse or burden upon our servers, and therefore affect other users's experience. Efforts to intentionally or maliciously bypass these limitations will be punishable by suspension or termination of your account with Compendium.
@@ -96,12 +97,23 @@ You can always check the latest version in our [public repository on GitHub](htt
 
 ## 9. Liability
 
-We work hard to make sure everything runs smoothly, but:
+We'll be honest with you:
 
-- **Compendium is offered "AS-IS"**: Technology is not without faults. We cannot promise that the service will be completely free from interruptions to services and features or bugs.
-- **Use at Your Own Risk**: You use this service at your own risk. We are not responsible or liable for any damages or losses caused as a result of using our service or bot (e.g., lost data or server issues).
+- **We try hard, but can't guarantee perfection.** Technology breaks. If Compendium goes down, loses data, or has a bug, we're sorry — but we're not legally liable for losses that result from using a free service.
+- **You use this at your own risk.** We're not responsible for damages caused by using Compendium, including lost data or server issues.
+- **We're not a professional service.** Compendium is not a backup solution, a legal record-keeping service, or anything with a professional liability standard. Treat it accordingly.
+- **What this doesn't cover**: Nothing here limits our responsibility for fraud, gross negligence, or intentional harm on our part. We're saying we can't guarantee uptime — not that we can do whatever we want.
 - **Authenticity**: As a gesture of goodwill and in effort to mitigate potential harm to you, we maintain a document as a source of truth, identifying us, our services, our means of communication, our payment portal(s), and our companies and legal entities. This gesture neither generates nor implies any promise that third parties will either attempt or succeed in deceiving you, nor does it generate or imply any responsibility of Compendium to rectify damages caused by any attempt or success of any fraudulent party.
 
 ## 10. Contact Us
 
-If you have any questions, issues, or just want to say hello, feel free to reach out via our support channels on Discord.
+If you have any questions, issues, or just want to say hello, feel free to reach out via `[WIP - support channel]` on Discord or by email at `[WIP - contact email]`.
+
+## 11. Legal Framework
+
+We don't have a formally registered company yet — we're working on that. When we do, we'll update this section with the full legal details.
+
+In the meantime:
+- Our servers are in Europe, so EU law (including GDPR) applies to data processing.
+- If you're in California, CCPA/CPRA rights described in the Privacy Policy apply to you too.
+- We operate in good faith and will always try to resolve any dispute directly before anything escalates.
