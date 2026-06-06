@@ -60,10 +60,10 @@ We identify our staff as the following:
 
 Compendium is currently free to use. We do not have a payment portal at this time.
 
-When paid features are introduced, the official payment portal will be listed here. Until then, if anyone asks you to pay for Compendium through any channel, it is not us.
+When paid features are introduced, the official payment portal will be listed here. Until then, if anyone asks you to pay for Compendium, it is not us.
 
 ## VII. Our Companies & Legal Entities
 
-Compendium is currently operated by individuals - we do not yet have a formally registered legal entity. We are in the process of establishing one, and this section will be updated when that is complete.
+Compendium is currently operated by individuals—we do not yet have a formally registered legal entity. We are in the process of establishing one, and this section will be updated when that is complete.
 
-Until then, Compendium has no registered company, no subsidiaries, and no affiliated legal entities. Anyone claiming to represent a "Compendium Inc.", "Compendium Ltd.", or any similar entity is not us.
+Until then, Compendium has no registered company, no subsidiaries, and no affiliated legal entities. Anyone claiming to represent a Compendium in any official capacity is not us.
