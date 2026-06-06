@@ -18,12 +18,12 @@ Updates are announced in the [#policy-transparency](https://discord.com/channels
 
 ## Transparency Log
 
-When we are legally permitted to disclose a received request, we record it here. Entries are added after the relevant investigation concludes or a gag order is lifted. We will never name the specific users affected.
+When we are legally permitted to disclose a received request, we record it in the section below titled **Past Data Requests**. Entries are added after the relevant investigation concludes or a gag order is lifted. We will never name the specific users affected.
 
 ### Entry Format
 
 > **[Quarter Year]** - We received a legally binding data request from a [law enforcement / judicial] authority in [country]. We [verified its legitimacy and complied in full / contested its scope and complied with a narrowed version / contested it and did not comply]. [N] user(s) were affected. Affected users were [notified / prohibited from being notified at the time - now disclosed].
 
-## Past Data Requestes
+## Past Data Requests
 
 *No disclosures to date.*
