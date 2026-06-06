@@ -4,7 +4,7 @@ Any references hereafter to "WE" or "US" describe Compendium and its services, o
 
 ## I. What do we store?
 
-> **Age requirement**: Compendium runs on Discord, which requires you to be at least 13 years old. By using Compendium, you confirm you meet that requirement. Depending on where you live, a higher minimum age for online services may apply — if it does, that rule takes precedence.
+> **Age requirement**: Compendium runs on Discord, which requires you to be at least 13 years old. By using Compendium, you confirm you meet that requirement. Depending on where you live, a higher minimum age for online services may apply — if it does, the more restrictive regulation takes precedence.
 
 - Discord IDs (Snowflakes IDs) for users, guilds, roles, threads, and messages
 - Data from content created or modified by you
@@ -26,7 +26,7 @@ Everything we store, we store because we need it to run the service — not beca
 - **Infraction history**: We keep this to protect other users from repeated bad behaviour. *(GDPR: legitimate interests, Art. 6(1)(f))*
 - **Support data**: We keep this to resolve your issue and learn from it. *(GDPR: legitimate interests, Art. 6(1)(f))*
 - **Translation contributions**: You chose to provide this. *(GDPR: consent, Art. 6(1)(a))*
-- **AI training data (future, opt-in only)**: Only if you explicitly say yes. Full details in our [Smart Technologies Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Smart-Technologies.md). *(GDPR: consent, Art. 6(1)(a))*
+- **AI training data (future, opt-in only)**: Only if you explicitly consent. Full details in our [Smart Technologies Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Smart-Technologies.md). *(GDPR: consent, Art. 6(1)(a))*
 
 ## III. Data Retention
 
@@ -37,7 +37,7 @@ We retain data for as long as necessary to provide our services effectively. Spe
   - **User-owned documents** linked to a server: these remain yours regardless of what happens to the server.
   - Documents and edit history tied to an infraction are subject to the infraction retention rules below.
 - **Infraction evidence**:
-  - While you are within the appeal window: full evidence is kept so you can dispute the decision.
+  - While you are within the appeal window: full evidence is kept so that you can dispute the decision.
   - After the appeal is resolved, or the window closes without an appeal: detailed evidence is deleted. We keep only a summary — what happened, when, whether you appealed, and the outcome.
   - For permanent bans: evidence is kept for as long as the ban stands.
   - If the infraction involves illegal material (e.g. CSAM): we report it to the appropriate authorities and retain only a written description. The original material is not kept beyond what is needed to make the report. We await authority guidance before taking further action.
