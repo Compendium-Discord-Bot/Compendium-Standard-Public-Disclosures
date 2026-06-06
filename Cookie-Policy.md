@@ -30,7 +30,7 @@ After you log in, we set a session cookie so the web panel can keep you logged i
 
 ### 2. Elective Cookies
 
-We have no plans to add non-essential cookies. But this is the section where they would go if we did.
+We have no plans to add non-essential cookies, but this is the section where they would be explained if we did.
 
 ## III. Data Privacy
 
