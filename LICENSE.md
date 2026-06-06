@@ -1,6 +1,6 @@
 # Share-Only License (SOL)
 
-Copyright © 2024 Compendium
+Copyright © 2024-2026 Compendium
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of these documents and associated documentation files (the "Documents"), to share the Documents, subject to the following conditions:
 
@@ -11,13 +11,13 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 2. **Modification Notice**:
      Any modifications, alterations, or derivations of the Documents must be clearly and explicitly identified.
      The modified version must clearly list what changes have been made, including a summary of the alterations, additions, or removals.
-     A version history or changelog is recommended.
+     A version history or changelog is required.
    
 3. **Source Information**:
-     The source from which the original Documents was obtained must be provided with any redistribution or sharing of the Documents, whether modified or unmodified.
+     The source from which the original Documents were obtained must be provided with any redistribution or sharing of the Documents, whether modified or unmodified.
    
 4. **No Restrictions on Sharing**:
-     The Documents can be shared freely, with no restrictions, but it may not be used for any other purposes beyond sharing.
+     The Documents may only be shared — they may not be modified without notice, sublicensed, sold, or incorporated into other works.
      Use for activities such as, but not limited to, sublicensing, commercial exploitation, or compilation into proprietary works is prohibited without express written and signed permission from the original authors of the Documents.
    
 5. **Disclaimer**:
