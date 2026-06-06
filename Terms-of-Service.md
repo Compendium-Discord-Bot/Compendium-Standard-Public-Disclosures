@@ -4,7 +4,7 @@ Welcome!
 
 By using our Discord-based service and interacting with our bot, you agree to follow these terms. We aim to keep things clear and straightforward, but if you have any questions, feel free to reach out via our support channels.
 
-### Definitions
+## Definitions
 
 1. Any references hereafter to "WE", "US", "OUR" describes Compendium and its offering of services, hereafter the "SERVICE" or "PRODUCT", offered to "YOU", the user of Compendium, a "BOT" "APPLICATION" developed for Discord as its primary platform. "CONTENT" refers to any data, consisting of text, images, audio, video, or others. "MEDIA" hereafter refers to any content that is not stored in a text format.
 
@@ -99,11 +99,11 @@ You can always check the latest version in our [public repository on GitHub](htt
 
 We'll be honest with you:
 
-- **We try hard, but can't guarantee perfection.** Technology breaks. If Compendium goes down, loses data, or has a bug, we're sorry — but we're not legally liable for losses that result from using a free service.
+- **We try hard, but can't guarantee perfection.** Technology breaks. If Compendium goes down, loses data, or has a bug, we're sorry - but we're not legally liable for losses that result from using a free service.
 - **You use this at your own risk.** We're not responsible for damages caused by using Compendium, including lost data or server issues.
 - **We're not a professional service.** Compendium is not a backup solution, a legal record-keeping service, or anything with a professional liability standard. Treat it accordingly.
-- **What this doesn't cover**: Nothing here limits our responsibility for fraud, gross negligence, or intentional harm on our part. We're saying we can't guarantee uptime — not that we can do whatever we want.
-- **Authenticity**: As a gesture of goodwill and in effort to mitigate potential harm to you, we maintain a document as a source of truth, identifying us, our services, our means of communication, our payment portal(s), and our companies and legal entities. This gesture neither generates nor implies any promise that third parties will either attempt or succeed in deceiving you, nor does it generate or imply any responsibility of Compendium to rectify damages caused by any attempt or success of any fraudulent party.
+- **What this doesn't cover**: Nothing here limits our responsibility for fraud, gross negligence, or intentional harm on our part. We're saying we can't guarantee uptime - not that we can do whatever we want.
+- **Authenticity**: As a gesture of goodwill and in effort to mitigate potential harm to you, we maintain an [Authenticity document](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Authenticity.md) as a source of truth, identifying us, our services, our means of communication, our payment portal(s), and our companies and legal entities. This gesture neither generates nor implies any promise that third parties will either attempt or succeed in deceiving you, nor does it generate or imply any responsibility of Compendium to rectify damages caused by any attempt or success of any fraudulent party.
 
 ## 10. Contact Us
 
@@ -111,9 +111,10 @@ If you have any questions, issues, or just want to say hello, feel free to reach
 
 ## 11. Legal Framework
 
-We don't have a formally registered company yet — we're working on that. When we do, we'll update this section with the full legal details.
+We don't have a formally registered company yet - we're working on that. When we do, we'll update this section with the full legal details.
 
 In the meantime:
+
 - Our servers are in Europe, so EU law (including GDPR) applies to data processing.
 - If you're in California, CCPA/CPRA rights described in the Privacy Policy apply to you too.
-- We operate in good faith and will always try to resolve any dispute directly before anything escalates.
+- We operate in good faith and will always try to resolve any dispute directly.

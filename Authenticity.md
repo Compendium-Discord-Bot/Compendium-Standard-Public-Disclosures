@@ -4,7 +4,7 @@
 
 ### 1. Purpose
 
-This document is a source of truth for identifying real Compendium applications, web services, emails, and staff. Its purpose is to help you spot fakes — so that if someone or something claims to be Compendium, you can verify it here. If you encounter anything inauthentic, we strongly recommend against using it, as it may result in damages to you caused by fraudulent third parties.
+This document is a source of truth for identifying real Compendium applications, web services, emails, and staff. Its purpose is to help you spot fakes - so that if someone or something claims to be Compendium, you can verify it here. If you encounter anything inauthentic, we strongly recommend against using it, as it may result in damages to you caused by fraudulent third parties.
 
 In this document, beyond this section, we identify our staff, our Discord Bots, our web services, any emails we operate, our payment portal, and our companies and legal entities.
 
@@ -41,8 +41,8 @@ Our website's domain is `[WIP - website domain]`. This is the only domain under 
 
 We will only ever contact you from the email addresses listed below. Any email from an address not on this list is not from us.
 
-| Email | Purpose |
-| ----- | ------- |
+| Email                     | Purpose                 |
+| ------------------------- | ----------------------- |
 | `[WIP - official emails]` | `[WIP - email purpose]` |
 
 ## V. Staff
@@ -51,10 +51,10 @@ We identify our staff as the following:
 
 ### 1. Senior Staff
 
-| Discord Username | Discord User ID    | Role                                |
-| ---------------- | ------------------ | ----------------------------------- |
-| tuevon           | 280173319481851905 | Owner, Developer, Product Lead      |
-| the_waves        | 341086796614074368 | Lead Developer, Support Lead        |
+| Discord Username | Discord User ID    | Role                           |
+| ---------------- | ------------------ | ------------------------------ |
+| tuevon           | 280173319481851905 | Owner, Developer, Product Lead |
+| the_waves        | 341086796614074368 | Lead Developer, Support Lead   |
 
 ## VI. Payment Portal
 
@@ -64,6 +64,6 @@ When paid features are introduced, the official payment portal will be listed he
 
 ## VII. Our Companies & Legal Entities
 
-Compendium is currently operated by individuals — we do not yet have a formally registered legal entity. We are in the process of establishing one, and this section will be updated when that is complete.
+Compendium is currently operated by individuals - we do not yet have a formally registered legal entity. We are in the process of establishing one, and this section will be updated when that is complete.
 
 Until then, Compendium has no registered company, no subsidiaries, and no affiliated legal entities. Anyone claiming to represent a "Compendium Inc.", "Compendium Ltd.", or any similar entity is not us.

@@ -6,13 +6,13 @@
 
 We use the minimal number of cookies needed to run our web panel at `[WIP - website domain]`. If we ever add new cookies, we will announce them in the [#policy-transparency](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Policy Transparency") channel in the Compendium Support Discord server, and through the **/policies cookies** command in the bot. You will have the opportunity to consent or decline any non-essential cookies at that time.
 
-All cookies we set are first-party. During login, Discord may set its own cookies as part of the authentication process — those are governed by [Discord's Privacy Policy](https://discord.com/privacy), not ours.
+All cookies we set are first-party. During login, Discord may set its own cookies as part of the authentication process - those are governed by [Discord's Privacy Policy](https://discord.com/privacy), not ours.
 
 ## II. What are the purposes of these cookies?
 
 ### 1. Essential Cookies
 
-These cookies are strictly necessary for the web panel to function. No consent is required for them under the ePrivacy Directive, but we document them here for full transparency.
+These cookies are strictly necessary for the web panel to function. No consent is required for them under [Art. 5(3) of the ePrivacy Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02002L0058-20091219) (Directive 2002/58/EC, as amended by 2009/136/EC), which exempts cookies that are strictly necessary to provide a service explicitly requested by the user. We document them here for full transparency regardless.
 
 #### 1.1. Notification Dismissal Cookie
 
