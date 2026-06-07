@@ -17,7 +17,7 @@ The Smart Technologies policy governs any and all usage of algorithms, Artificia
 
 ### 3. What will the AI be used for?
 
-- Service enrichment—providing additional features for end-users of our service.
+- Service enrichment-providing additional features for end-users of our service.
 - Validate that documents stored by us are not used in a malicious way.
 - Verify if a document should be tagged as NSFW.
 - Verify if a document violates any [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or our [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md).

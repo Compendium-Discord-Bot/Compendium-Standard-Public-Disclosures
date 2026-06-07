@@ -4,19 +4,19 @@
 
 ### 1. Purpose
 
-To protect you against any fraudulent copies of our application, contact by persons claiming to be working with or for Compendium, we compiled this document to serve as a source of truth for identifying real applications, web services created by us, real emails, and us ourselves, so any fraudulent attempts to deceive you might at least be mitigated. If you encounter any inauthentic services, we strongly recommend against using them, as this may result in damages cause by fraudulent third parties, and you.
+This document is a source of truth for identifying real Compendium applications, web services, emails, and staff. Its purpose is to help you spot fakes - so that if someone or something claims to be Compendium, you can verify it here. If you encounter anything inauthentic, we strongly recommend against using it, as it may result in damages to you caused by fraudulent third parties.
 
 In this document, beyond this section, we identify our staff, our Discord Bots, our web services, any emails we operate, our payment portal, and our companies and legal entities.
 
 We at Compendium care about your privacy, and hereby release and maintain this document out of goodwill.
 
-### 2. How to report fraud:
+### 2. How to report fraud
 
-We appreciate any goodwill attempts to report fraud and abuse. Please email us at [ADD EMAIL LATER] with as detailed of an explanation as you can offer. Thank you in advance for helping to keep Compendium and our members safe!
+We appreciate any goodwill attempts to report fraud and abuse. Please email us at `[WIP - abuse report email]` with as detailed of an explanation as you can offer. Thank you in advance for helping to keep Compendium and our members safe!
 
 ### 3. Updates
 
-When there is any upcate to this information, we will post in the [#policy-transparency](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Policy Transparency") announcement channel in the Compendium Support Discord server.
+When there is any update to this information, we will post in the [#policy-transparency](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Policy Transparency") announcement channel in the Compendium Support Discord server.
 
 ## II. Discord Bots
 
@@ -35,11 +35,15 @@ When there is any upcate to this information, we will post in the [#policy-trans
 
 ## III. Web Services
 
-Our website's domain is [ADD LINK LATER].
+Our website's domain is `[WIP - website domain]`. This is the only domain under which we operate the web panel, publish policies, and communicate officially. Any other domain claiming to be Compendium is not us.
 
 ## IV. Emails
 
-Our official emails are [ADD EMAILS LATER].
+We will only ever contact you from the email addresses listed below. Any email from an address not on this list is not from us.
+
+| Email                     | Purpose                 |
+| ------------------------- | ----------------------- |
+| `[WIP - official emails]` | `[WIP - email purpose]` |
 
 ## V. Staff
 
@@ -47,15 +51,19 @@ We identify our staff as the following:
 
 ### 1. Senior Staff
 
-| Discord Username | Discord User ID    | Role                                         |
-| ---------------- | ------------------ | -------------------------------------------- |
-| tuevon           | 280173319481851905 | Owner, Developer, Product Lead, Support Lead |
-| the_waves        | 341086796614074368 | Lead Developer, Support, Product             |
+| Discord Username | Discord User ID    | Role                           |
+| ---------------- | ------------------ | ------------------------------ |
+| tuevon           | 280173319481851905 | Owner, Developer, Product Lead |
+| the_waves        | 341086796614074368 | Lead Developer, Support Lead   |
 
 ## VI. Payment Portal
 
-Our official payment portal is [ADD LATER].
+Compendium is currently free to use. We do not have a payment portal at this time.
+
+When paid features are introduced, the official payment portal will be listed here. Until then, if anyone asks you to pay for Compendium, it is not us.
 
 ## VII. Our Companies & Legal Entities
 
-Our company is [ADD COMPANY LATER].
+Compendium is currently operated by individuals—we do not yet have a formally registered legal entity. We are in the process of establishing one, and this section will be updated when that is complete.
+
+Until then, Compendium has no registered company, no subsidiaries, and no affiliated legal entities. Anyone claiming to represent a Compendium in any official capacity is not us.

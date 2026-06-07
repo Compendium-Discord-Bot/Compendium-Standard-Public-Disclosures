@@ -1,15 +1,30 @@
-# Legal Stuff We Are Required To Share
+# Compendium - Public Disclosures
 
-## Why is this repo seemingly unfinished?
+This repository contains Compendium's legal documents, policies, and public disclosures. Everything here is public by design - we believe you have the right to know exactly how we operate, what we do with your data, and how to hold us accountable.
 
-None of us are trained to interpret laws or craft legal documents, so while we hope to create a finely-crafted bot for your experience on Discord, we are not all-skillful, and will leave those things for a different person, for a different time, for when the bot takes a more defined shape.
+## Documents
 
-### Why didn't we hire someone who is well versed in legal stuff to make those files for us?
+| Document                                           | Purpose                                                                           |
+| -------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Terms of Service](Terms-of-Service.md)            | Rules for using Compendium                                                        |
+| [Privacy Policy](Privacy-Policy.md)                | What data we collect, how we use it, and your rights                              |
+| [Cookie Policy](Cookie-Policy.md)                  | What cookies we use on our web panel and why                                      |
+| [Smart Technologies Policy](Smart-Technologies.md) | Our approach to AI features                                                       |
+| [Authenticity](Authenticity.md)                    | How to verify that something or someone is genuinely associated with Compendium   |
+| [Warrant Canary](Transparency-Report.md)           | Public statement on secret government demands – Updated quarterly                 |
+| [Rules](Rules.md)                                  | Rules for the Compendium support community                                        |
+| [License](LICENSE.md)                              | Terms under which these documents may be shared                                   |
 
-We will, in due time.
+## Warrant Canary
 
-So why write anything at all now? We wanted our intents to be perfectly understandable to everyone in the mean time. As Compendium takes shape, these may be subject to change. For now, take what you see here as a guide to how things will look in the future.
+The [Warrant Canary](Transparency-Report.md) is updated every quarter. If the date in that file is more than 90 days old, or the file is removed entirely, treat that as a signal. We recommend watching this repository for changes.
 
-## When will the bot be available in *my* language?
+## Legal Disclaimer
 
-Well, at first we want to make the bot work perfectly fine with everything being clear in English, the most popular language. Further localization is a goal, admittedly a more distant one. If you are fluent in another language and understand English well, consider offering a hand when the time comes!
+These documents were written in good faith with GDPR and CCPA considerations in mind. They have not yet been reviewed by a qualified attorney. We intend to have them professionally reviewed before or shortly after the bot's public launch, and will update them accordingly.
+
+If you spot an issue or have a concern about any of these documents, contact us at `[WIP - contact email]` or through `[WIP - support channel]` on Discord.
+
+## Updates
+
+Significant changes to any document are announced in the [#policy-transparency](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Policy Transparency") channel in the Compendium Support Discord server.
