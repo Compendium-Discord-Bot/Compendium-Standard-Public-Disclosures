@@ -59,7 +59,7 @@ Depending on your location, you may have the following rights regarding your dat
 - **Restriction**: If you dispute whether our data about you is accurate, you can ask us to freeze processing until we correct it. *([GDPR Art. 18](https://gdpr-info.eu/art-18-gdpr/ "GDPR – Art. 18"))*
 - **Complaints**: If you believe we're handling your data improperly and are in the EU, while we'd always prefer you contact us first so we can remedy issues involving your data, you have the right to file a complaint with your country's data protection authority. *([GDPR Art. 77](https://gdpr-info.eu/art-77-gdpr/ "GDPR – Art. 77"))*
 
-To exercise any of these rights, please open a request via `[WIP - support channel]` on Discord or contact us by email at `[WIP - contact email]`.
+To exercise any of these rights, please open a request via `[WIP - support channel]` on Discord or contact us by email at **data_requests@`[WIP - website domain]`**.
 
 ### 1. Limitations
 
@@ -78,6 +78,7 @@ Every limitation listed here has a specific, documented reason. None abridge you
 We use third-party services to help operate our platform (e.g., cloud storage, hosting). These services may process or store data on our behalf but are contractually bound to follow our data protection policies and may not use your data for their own purposes.
 
 Our third-party partners are as follows:
+
 - `[WIP - cloud hosting provider]` – Hosts our servers and infrastructure.
 - `[WIP - database provider]` – Stores application data on our behalf.
 - `[WIP - email client]` – Used to transmit and store communications between us and you through support requests.
@@ -141,7 +142,7 @@ Unless a court order or applicable law explicitly prohibits us from doing so, we
 
 #### **How to submit a request**
 
-Send requests to `[WIP - contact email]` as a digitally signed PDF from an authorized law enforcement officer or court official. Since we do not store users' legal names or contact details, we will need one of the following for identification, depending on the nature of the order:
+Send requests to **data_requests@`[WIP - website domain]`** as a digitally signed PDF from an authorized law enforcement officer or court official. Since we do not store users' legal names or contact details, we will need one of the following for identification, depending on the nature of the order:
 
 - The user's Discord ID, OR
 - The ID or IDs of documents, OR
@@ -196,7 +197,7 @@ In the far future we may use data from documents created by you, and files attac
 
 ## XI. Contact Us
 
-If you have any questions about this Privacy Policy or wish to exercise any of your data rights, please contact us at `[WIP - contact email]` or through `[WIP - support channel]` on Discord.
+If you have any questions about this Privacy Policy or wish to exercise any of your data rights, please contact us at **policy@`[WIP - website domain]`** or **data_requests@`[WIP - website domain]`**, or through `[WIP - support channel]` on Discord.
 
 ## XII. Other Data Protection Juridictions
 
@@ -212,7 +213,7 @@ California law (CCPA/CPRA) gives you some specific rights on top of what we alre
 - **We don't sell your data**: We do not sell, share, or trade your personal information. You don't need to opt out of something we don't do.
 - **No retaliation**: Exercising any of these rights will never affect your access to Compendium.
 
-We will respond to requests within 45 days. Contact us at `[WIP - contact email]`.
+We will respond to requests within 45 days. Contact us at **data_requests@`[WIP - website domain]`**.
 
 ## XIII. Commitments
 

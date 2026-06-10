@@ -107,7 +107,7 @@ We'll be honest with you:
 
 ## 10. Contact Us
 
-If you have any questions, issues, or just want to say hello, feel free to reach out via `[WIP - support channel]` on Discord or by email at `[WIP - contact email]`.
+If you have any questions, issues, or just want to say hello, feel free to reach out via `[WIP - support channel]` on Discord or by email at **policy@`[WIP - website domain]`**.
 
 ## 11. Legal Framework
 

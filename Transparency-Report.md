@@ -12,7 +12,7 @@ As of **2026-06-06**, Compendium confirms the following:
 
 This statement is reviewed and updated **quarterly**. If it is not updated within 180 days of the date above, or is removed entirely, treat that as a signal that one or more of the above is no longer true.
 
-Updates are announced in the [#policy-transparency](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Policy Transparency") channel in the Compendium Support Discord server.
+Updates are announced in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") channel in the Compendium Support Discord server.
 
 ---
 
