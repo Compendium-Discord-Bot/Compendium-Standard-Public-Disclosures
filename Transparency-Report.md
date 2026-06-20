@@ -1,4 +1,4 @@
-# Warrant Canary
+# Transparency Report
 
 ## Canary Statement
 
