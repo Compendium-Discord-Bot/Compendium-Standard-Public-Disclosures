@@ -18,7 +18,7 @@ This document does not substitute or replace good security practices to keep you
 
 #### A. How to report fraudulent activity
 
-We appreciate any goodwill attempts to report fraud and abuse. Please email us at `[WIP - abuse report email]` with as detailed of an explanation as you can offer. Thank you in advance for helping to keep Compendium and our members safe!
+We appreciate any goodwill attempts to report fraud and abuse. Please email us at impropriety@`[WIP - website domain]` with as detailed of an explanation as you can offer. Thank you in advance for helping to keep Compendium and our members safe!
 
 #### B. Normal updates
 
