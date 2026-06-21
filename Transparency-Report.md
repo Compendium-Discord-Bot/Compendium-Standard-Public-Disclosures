@@ -1,4 +1,4 @@
-# Warrant Canary
+# Transparency Report
 
 ## Canary Statement
 
@@ -10,7 +10,7 @@ As of **2026-06-06**, Compendium confirms the following:
 - We have **never** been compelled to install backdoors, surveillance tools, or any monitoring mechanism into our systems.
 - We have **never** complied with any request we did not first verify as legally valid and binding.
 
-This statement is reviewed and updated **quarterly**. If it is not updated within 180 days of the date above, or is removed entirely, treat that as a signal that one or more of the above is no longer true.
+This statement is reviewed and updated **quarterly**. If it is not updated within 90 days of the date above, or is removed entirely, treat that as a signal that one or more of the above is no longer true.
 
 Updates are announced in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") channel in the Compendium Support Discord server.
 

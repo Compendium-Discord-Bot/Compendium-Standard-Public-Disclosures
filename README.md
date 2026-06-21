@@ -11,13 +11,13 @@ This repository contains Compendium's legal documents, policies, and public disc
 | [Cookie Policy](Cookie-Policy.md)                  | What cookies we use on our web panel and why                                    |
 | [Smart Technologies Policy](Smart-Technologies.md) | Our approach to AI features                                                     |
 | [Authenticity](Authenticity.md)                    | How to verify that something or someone is genuinely associated with Compendium |
-| [Warrant Canary](Transparency-Report.md)           | Public statement on secret government demands – Updated quarterly              |
+| [Transparency Report](Transparency-Report.md)      | Public statement on secret government demands – Updated quarterly               |
 | [Rules](Rules.md)                                  | Rules for the Compendium support community                                      |
 | [License](LICENSE.md)                              | Terms under which these documents may be shared                                 |
 
-## Warrant Canary
+## Transparency Report
 
-The [Warrant Canary](Transparency-Report.md) is updated every quarter. If the date in that file is more than 90 days old, or the file is removed entirely, treat that as a signal. We recommend watching this repository for changes.
+The [Transparency Report](Transparency-Report.md) is updated every quarter. If the date in that file is more than 90 days old, treat that as a signal. We recommend watching this repository for changes.
 
 ## Legal Disclaimer
 
