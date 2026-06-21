@@ -77,7 +77,8 @@ We strive to keep this service safe for everyone. If you break the rules, we res
 - **Warnings**: In the event of a minor infraction, we may deliver a formal warning.
 - **Sanctioned Modification**: If content stored and distributed through Compendium violate our policy, we may modify the content in your document for attribution requirements, or to limit exposure to age-appropriate groups.
 - **Deletion** or **Suppression of Content**: If your contributions to content stored and distributed through Compendium violate our policy, this content may be deleted or suppressed from public view and transmissibility features (applications and submissions).
-- **Temporary Suspension** or **Permanent Ban**: In severe or extreme cases (e.g., repetitive violations, malicious or illegal use, harassment) we may temporarily prevent your access to the bot's features, or entirely ban you from interacting with the service.
+- **Ineligibility for Subscriptions** or **Ineligibility for Refunds**: In cases where you are found to have been engaging in fraudulent activity using your account, and involving purchases from us, we may limit you to being a free-only user or refuse refunds entirely.
+- **Temporary Suspension** or **Permanent Ban**: In severe or extreme cases (e.g., repetitive violations, malicious or illegal use, harassment) we may temporarily prevent your access to the bot's features, or entirely ban you, or your IP address, from interacting with the service.
 
 You acknowledge that any misuse of the service resulting in suspension or termination of your account with Compendium does not obligate Compendium to preserve, export, convey or distribute your content to you or any third party.
 
