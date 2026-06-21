@@ -4,20 +4,21 @@ This repository contains Compendium's legal documents, policies, and public disc
 
 ## Documents
 
-| Document                                        | Purpose                                                                         |
-| ----------------------------------------------- | ------------------------------------------------------------------------------- |
-| [Terms of Service](Terms-of-Service.md)            | Rules for using Compendium                                                      |
-| [Privacy Policy](Privacy-Policy.md)                | What data we collect, how we use it, and your rights                            |
-| [Cookie Policy](Cookie-Policy.md)                  | What cookies we use on our web panel and why                                    |
-| [Smart Technologies Policy](Smart-Technologies.md) | Our approach to AI features                                                     |
-| [Authenticity](Authenticity.md)                    | How to verify that something or someone is genuinely associated with Compendium |
-| [Transparency Report](Transparency-Report.md)      | Public statement on secret government demands – Updated quarterly               |
-| [Rules](Rules.md)                                  | Rules for the Compendium support community                                      |
-| [License](LICENSE.md)                              | Terms under which these documents may be shared                                 |
+| Document                                                                                                                    | Purpose                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| [Terms of Service](Terms-of-Service.md)                                                                                        | Rules for using Compendium                                                                |
+| [Privacy Policy](Privacy-Policy.md)                                                                                            | What data we collect, how we use it, and your rights                                      |
+| [Cookie Policy](Cookie-Policy.md)                                                                                              | What cookies we use on our web panel and why                                              |
+| [Smart Technologies Policy](Smart-Technologies.md)                                                                             | Our approach to AI features                                                               |
+| [Authenticity](Authenticity.md)                                                                                                | How to verify that something or someone is genuinely associated with Compendium           |
+| [Warrant Canary](Transparency-Report.md)                                                                                       | Public statement on secret government demands – Updated quarterly                        |
+| [Rules](Rules.md)                                                                                                              | Rules for the Compendium support community                                                |
+| [License](LICENSE.md)                                                                                                          | Terms under which these documents may be shared                                           |
+| [Refund Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Refund%20Policy.md) | Our policy governing what is required for refunds to be tendered, and related limitations |
 
-## Transparency Report
+## Warrant Canary
 
-The [Transparency Report](Transparency-Report.md) is updated every quarter. If the date in that file is more than 90 days old, treat that as a signal. We recommend watching this repository for changes.
+The [Warrant Canary](Transparency-Report.md) is updated every quarter. If the date in that file is more than 90 days old, or the file is removed entirely, treat that as a signal. We recommend watching this repository for changes.
 
 ## Legal Disclaimer
 
