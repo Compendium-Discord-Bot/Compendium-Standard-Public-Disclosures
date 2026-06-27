@@ -18,7 +18,7 @@ This document does not substitute or replace good security practices to keep you
 
 #### A. How to report fraudulent activity
 
-We appreciate any goodwill attempts to report fraud and abuse. Please email us at impropriety@`[WIP - website domain]` with as detailed of an explanation as you can offer. Thank you in advance for helping to keep Compendium and our members safe!
+We appreciate any goodwill attempts to report fraud and abuse. Please email us at impropriety@`[WIP - Website domain]` with as detailed of an explanation as you can offer. Thank you in advance for helping to keep Compendium and our members safe!
 
 #### B. Normal updates
 
@@ -49,7 +49,7 @@ If there is ever an exceptional *(emergency)* update, e.g. some compromise of se
 
 ## III. Web Services
 
-Our website's domain is `[WIP - website domain]`. This is the only domain under which we operate the web panel, publish policies, and communicate officially. Any other domain claiming to be Compendium is not us.
+Our website's domain is `[WIP - Website domain]`. This is the only domain under which we operate the web panel, publish policies, and communicate officially. Any other domain claiming to be Compendium is not us.
 
 ## IV. Staff
 
@@ -72,23 +72,24 @@ WIP Note: All emails below are dependant upon our website domain, which is not f
 
 Email inboxes that are monitored and can send replies. These will not proactively contact you under any circumstance.
 
-| Email                                               | Purpose                                                                                           | Inbox Monitored | No-Reply |
-| :-------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------- | -------- |
-| `[WIP - legal entity]`@`[WIP - website domain]` | Primary point of contact for official business.                                                   | Yes             | No       |
-| support@`[WIP - website domain]`                  | Primary point of contact for general support when the user no longer has access to their account. | Yes             | No       |
-| policy@`[WIP - website domain]`                   | Primary point of contact for policy questions.                                                    | Yes             | No       |
-| data_requests@`[WIP - website domain]`            | Primary point of contact for official data requests.                                              | Yes             | No       |
-| privacy_reporting@`[WIP - website domain]`        | Special sensitive privacy incident reporting.                                                     | Yes             | No       |
+| Email                                               | Purpose                                                                                                        | Inbox Monitored | No-Reply |
+| :-------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------- | -------- |
+| `[WIP - legal entity]`@`[WIP - Website domain]` | Primary point of contact for official business.                                                                | Yes             | No       |
+| support@`[WIP - Website domain]`                  | Primary point of contact for general support, especially when the user no longer has access to their account. | Yes             | No       |
+| policy@`[WIP - Website domain]`                   | Primary point of contact for policy questions.                                                                 | Yes             | No       |
+| privacy@`[WIP - Website domain]`                  | Special sensitive privacy incident reporting.                                                                  | Yes             | No       |
+| compliance@`[WIP - Website domain]`               | Primary point of contact for official legal, data requests.                                                    | Yes             | No       |
 
 ### 2. Notification (No-Reply) Outboxes
 
-As the name suggests, the below emails' inboxes are not monitored. These may send emails but will ignore all emails sent to them.
+As the name suggests, the below emails' inboxes are not monitored. These may send emails but will automatically delete all emails sent to them. Please do not respond to these emails, as anything sent there will be ignored, and instead send to one of the above appropriate inboxes.
 
 | Email                                        | Purpose                                                                          | Inbox Monitored | No-Reply |
 | :------------------------------------------- | -------------------------------------------------------------------------------- | --------------- | -------- |
-| billing.no_reply@`[WIP - website domain]`  | Payment and transaction notifications.                                           | No              | Yes      |
-| updates.no_reply@`[WIP - website domain]`  | General update notifications for Compendium.                                     | No              | Yes      |
-| critical.no_reply@`[WIP - website domain]` | Critical update notifications in the event that any security incident may occur. | No              | Yes      |
+| billing.no_reply@`[WIP - Website domain]`  | Payment and transaction notifications.                                           | No              | Yes      |
+| updates.no_reply@`[WIP - Website domain]`  | General update notifications for Compendium, such as newsletters and promotions. | No              | Yes      |
+| notifs.no_reply@`[WIP - Website domain]`   | General system notifications for Compendium.                                     | No              | Yes      |
+| critical.no_reply@`[WIP - Website domain]` | Critical update notifications in the event that any security incident may occur. | No              | Yes      |
 
 ### 3. Individual's Mailboxes
 
@@ -96,8 +97,8 @@ While these inboxes are monitored and can reply to you, these are meant to be us
 
 | Email                             | Purpose                                                             | Inbox Monitored | No-Reply |
 | :-------------------------------- | ------------------------------------------------------------------- | --------------- | -------- |
-| tuevon@`[WIP - website domain]` | Tuevon's email – Secondary point of contact for official matters. | Yes             | No       |
-| waves@`[WIP - website domain]`  | Waves's email – Secondary point of contact for official matters.  | Yes             | No       |
+| tuevon@`[WIP - Website domain]` | Tuevon's email – Secondary point of contact for official matters. | Yes             | No       |
+| waves@`[WIP - Website domain]`  | Waves's email – Secondary point of contact for official matters.  | Yes             | No       |
 
 ## VI. Payment Portal
 
