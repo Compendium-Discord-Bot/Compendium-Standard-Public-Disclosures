@@ -4,7 +4,7 @@
 
 ### 1. Cookies We Use
 
-We use the minimal number of cookies needed to run our web panel at `[WIP - website domain]`. If we ever add new cookies, we will announce them in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") channel in the Compendium Support Discord server, and through the **/policies cookies** command in the bot. You will have the opportunity to consent or decline any non-essential cookies at that time.
+We use the minimal number of cookies needed to run our web panel at `[WIP - Website domain]`. If we ever add new cookies, we will announce them in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") channel in the Compendium Support Discord server, and through the **/policies cookies** command in the bot. You will have the opportunity to consent or decline any non-essential cookies at that time.
 
 All cookies we set are first-party. During login, Discord may set its own cookies as part of the authentication process - those are governed by [Discord&#39;s Privacy Policy](https://discord.com/privacy), not ours.
 
@@ -40,4 +40,4 @@ You can clear or block cookies at any time through your browser settings. Blocki
 
 ## IV. Contact Us
 
-If you have questions about this Cookie Policy, contact us at **policy@`[WIP - website domain]`** or through `[WIP - support channel]` on Discord.
+If you have questions about this Cookie Policy, contact us at **policy@`[WIP - Website domain]`** or through `[WIP - support channel]` on Discord.

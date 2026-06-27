@@ -50,7 +50,7 @@ Other documents that are important to maintain but do not fit into any of the ab
 
 These documents were written in good faith with GDPR and CCPA considerations in mind. They have not yet been reviewed by a qualified attorney. We intend to have them professionally reviewed before or shortly after the bot's public launch, and will update them accordingly.
 
-If you spot an issue or have a concern about any of these documents, contact us at policy@`[WIP - website domain]` or through `[WIP - support channel]` on Discord.
+If you spot an issue or have a concern about any of these documents, contact us at policy@`[WIP - Website domain]` or through `[WIP - support channel]` on Discord.
 
 ## Updates
 
