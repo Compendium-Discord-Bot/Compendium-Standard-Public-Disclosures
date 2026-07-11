@@ -1,4 +1,4 @@
-# Compendium – Public Disclosures
+# Compendium - Public Disclosures
 
 This repository contains Compendium's legal documents, policies, and public disclosures. Everything here is public by design. We believe you have the right to know exactly how we operate, what we do with your data, and how to hold us accountable.
 
@@ -8,14 +8,17 @@ This repository contains Compendium's legal documents, policies, and public disc
 
 Public rules we expect you to follow while using Compendium or interacting in any of our support environments, and what commitments and rights are owed from us to you as a user of Compendium.
 
-| Document                                                                                                                                   | Purpose                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| [Terms of Service](Policy-Documents/Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures")                            | Rules and agreements binding us and anyone who uses Compendium.                           |
-| [Privacy Policy](Policy-Documents/Privacy-Policy.md "Privacy Policy – Compendium Standard Public Disclosures")                                  | What data we collect, how we use it, and your rights.                                     |
-| [Cookie Policy](Policy-Documents/Cookie-Policy.md "Cookie Policy – Compendium Standard Public Disclosures")                                     | What cookies we use on our web panel and why.                                             |
-| [Smart Technologies Policy](Policy-Documents/Smart-Technologies-Policy.md "Smart Technologies Policy – Compendium Standard Public Disclosures") | Our approach to AI features and policies governing their use.                             |
-| [Refund Policy](Policy-Documents/Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures")                                     | Our policy governing what is required for refunds to be tendered, and related limitations |
-| [Support Environment Rules](Policy-Documents/Support-Environment-Rules.md "Support Environment Rules – Compendium Standard Public Disclosures") | Rules for interacting with Support, whether in the Compendium Support Hub or by email.    |
+| Document                                                                                                                                                              | Purpose                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------ |
+| [Terms of Service](Policy-Documents/Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures")                                                 | Rules and agreements binding us and anyone who uses Compendium.                            |
+| [Community Guidelines and Content Standards](Policy-Documents/Community-Guidelines-and-Content-Standards.md "Community Guidelines and Content Standards – Compendium Standard Public Disclosures") | What content and conduct are and are not permitted on Compendium.        |
+| [Safety, Enforcement and Appeals Policy](Policy-Documents/Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures") | How we investigate reports, enforce our rules, and review appeals.       |
+| [Privacy Policy](Policy-Documents/Privacy-Policy.md "Privacy Policy – Compendium Standard Public Disclosures")                                                       | What data we collect, how we use it, and your rights.                                      |
+| [Cookie Policy](Policy-Documents/Cookie-Policy.md "Cookie Policy – Compendium Standard Public Disclosures")                                                          | What cookies we use on our web panel and why.                                              |
+| [Smart Technologies Policy](Policy-Documents/Smart-Technologies-Policy.md "Smart Technologies Policy – Compendium Standard Public Disclosures")                      | Our approach to AI features and policies governing their use.                              |
+| [Subscriber Agreement](Policy-Documents/Subscriber-Agreement.md "Subscriber Agreement – Compendium Standard Public Disclosures")                          | How subscriptions, billing, and promotions work.                                           |
+| [Refund Policy](Policy-Documents/Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures")                                                          | Our policy governing what is required for refunds to be tendered, and related limitations. |
+| [Support Environment Rules](Policy-Documents/Support-Environment-Rules.md "Support Environment Rules – Compendium Standard Public Disclosures")                      | Rules for interacting with Support, whether in the Compendium Support Hub or by email.     |
 
 ### Transparency Documents
 
@@ -24,7 +27,7 @@ As we value transparency, documents that we publish and maintain out of goodwill
 | Document                                                                                                                  | Purpose                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | [Authenticity](Transparency/Authenticity.md "Authenticity – Compendium Standard Public Disclosures")                           | How to verify that something or someone is genuinely associated with Compendium. |
-| [Transparency Report](Transparency/Transparency-Report.md "Transparency Report – Compendium Standard Public Disclosures") [1] | Quarterly updated public statement on secret government demands.                 |
+| [Transparency Report](Transparency/Transparency-Report.md "Transparency Report – Compendium Standard Public Disclosures") [1] | Quarterly updated public statement on secret government demands.                 |
 
 #### [1] Transparency Report
 
@@ -37,6 +40,7 @@ Documents that we are required to publish such as attributions.
 | Document                                                                                                  | Purpose                                                                                                              |
 | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | [Acknowledgements](Compliance/Acknowledgements.md "Acknowledgements – Compendium Standard Public Disclosures") | Centralized attribution for all third party intellectual property we use, whether required for us to display or not. |
+| [Third-Party License Notices](Compliance/NOTICES.md "Third-Party License Notices – Compendium Standard Public Disclosures") | License obligations beyond attribution: our license elections, copyleft terms, and attribution-required assets. |
 
 ### Miscellaneous Documents
 
@@ -44,7 +48,7 @@ Other documents that are important to maintain but do not fit into any of the ab
 
 | Document                                                            | Purpose                                                             |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [License](LICENSE.md "License – Compemdium Standard Public Disclosures") | Rules under which any of these documents may be shared or modified. |
+| [Share-Only License](LICENSE.md "Share-Only License (SOL) – Compendium Standard Public Disclosures") | Rules under which any of these documents may be shared or modified. |
 
 ## Legal Disclaimer
 

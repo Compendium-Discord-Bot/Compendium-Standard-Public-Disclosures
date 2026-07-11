@@ -14,11 +14,11 @@ This Policy supplements our [Terms of Service](Terms-of-Service.md "Terms of Ser
 
 Our moderation practices are guided by the following principles:
 
-* **Safety** – Protect users and the integrity of the Service.
-* **Fairness** – Evaluate reports based upon evidence and context.
-* **Proportionality** – Take actions that are appropriate to the nature and severity of a violation.
-* **Consistency** – Apply standards uniformly regardless of a user's popularity, status, or opinions.
-* **Good Faith** – Recognize that mistakes, misunderstandings, and differences in creative expression may occur.
+* **Safety** - Protect users and the integrity of the Service.
+* **Fairness** - Evaluate reports based upon evidence and context.
+* **Proportionality** - Take actions that are appropriate to the nature and severity of a violation.
+* **Consistency** - Apply standards uniformly regardless of a user's popularity, status, or opinions.
+* **Good Faith** - Recognize that mistakes, misunderstandings, and differences in creative expression may occur.
 
 ---
 
@@ -43,7 +43,7 @@ Knowingly submitting false or malicious reports may itself constitute a violatio
 
 ---
 
-## III. Investigation Process
+## IV. Investigation Process
 
 Upon receiving a report, the Service may:
 
@@ -60,7 +60,7 @@ The Service is not obligated to act solely because content is controversial, unp
 
 ---
 
-## IV. Moderator Evaluation
+## V. Moderator Evaluation
 
 Moderators evaluate content in context.
 
@@ -77,7 +77,7 @@ No single factor is necessarily determinative.
 
 ---
 
-## V. Enforcement Actions
+## VI. Enforcement Actions
 
 Depending on severity and context, the Service may take one or more of the following actions.
 
@@ -144,7 +144,7 @@ As a mandatory reporter, if the Service finds that accounts use the Service in f
 
 ---
 
-## VI. Progressive Enforcement
+## VII. Progressive Enforcement
 
 Whenever practical, enforcement generally follows an escalating model:
 
@@ -159,7 +159,7 @@ However, severe violations may result in immediate suspension or termination.
 
 ---
 
-## VII. Repeat Violations
+## VIII. Repeat Violations
 
 The Service may examine or consider a user's prior conduct when determining enforcement actions.
 
@@ -169,7 +169,7 @@ For the purposes of appeals, we define one or more violations that arise from th
 
 ---
 
-## VIII. Content Preservation
+## IX. Content Preservation
 
 Removed content may be retained for a reasonable period for:
 
@@ -180,9 +180,11 @@ Removed content may be retained for a reasonable period for:
 
 The Service is not obligated to restore content that violates our policies.
 
+**Exception - Child Sexual Abuse Material (CSAM):** content reasonably believed to constitute CSAM is not governed by the retention period described above. It is disabled immediately upon identification, retained only to the extent necessary to prepare a report to the relevant authorities, and deleted thereafter. This content is never restored and is not eligible for the appeals process described in **§X** below.
+
 ---
 
-# IX. Appeals and Finality of Decisions
+## X. Appeals and Finality of Decisions
 
 Users may request reconsideration of moderation actions unless the action is expressly designated as final or ineligible for review.
 
@@ -214,7 +216,7 @@ The Service reserves the right to reopen a matter at its sole discretion if new 
 
 ---
 
-## X. Appeal Review
+## XI. Appeal Review
 
 Appeals are reviewed independently when reasonably practicable.
 
@@ -225,7 +227,7 @@ The reviewer may:
 * Reverse the action;
 * Request additional information.
 
-If more violations are discovered during the appeal review process relevant to the Related Enforcement Matter that were not previously known or where penalties were not applied, these violations will be associated with the same Related Enforcement Matter, and the same appeal. Pursuant to § IV. , reviewers may determine that the penalties imposed for the Related Enforcement Matter were insufficient, and may impose additional penalties.
+If more violations are discovered during the appeal review process relevant to the Related Enforcement Matter that were not previously known or where penalties were not applied, these violations will be associated with the same Related Enforcement Matter, and the same appeal. Pursuant to §V, reviewers may determine that the penalties imposed for the Related Enforcement Matter were insufficient, and may impose additional penalties.
 
 Appeal decisions are final unless the Service elects to conduct an additional review.
 
@@ -233,7 +235,7 @@ The Service reserves the right to maintain documentation concerning any findings
 
 ---
 
-## XI. Restoration Following Appeal
+## XII. Restoration Following Appeal
 
 If an appeal is successful, the Service may:
 
@@ -246,7 +248,7 @@ The Service may decline to restore content that creates legal, technical, or sec
 
 ---
 
-## XII. Transparency
+## XIII. Transparency
 
 The Service may provide information regarding:
 
@@ -263,7 +265,7 @@ To protect users and platform security, the Service may withhold:
 
 ---
 
-## XIII. Abuse of Moderation Systems
+## XIV. Abuse of Moderation Systems
 
 The following activities may themselves constitute violations:
 
@@ -275,7 +277,7 @@ The following activities may themselves constitute violations:
 
 ---
 
-## XIV. Creative Expression and Editorial Neutrality
+## XV. Creative Expression and Editorial Neutrality
 
 The Service hosts a wide range of fictional worlds and viewpoints.
 
@@ -285,7 +287,7 @@ The existence of mature, controversial, or morally complex subject matter in a f
 
 ---
 
-## XV. Final Principle
+## XVI. Final Principle
 
 Trust & Safety exists to preserve the ability of people to create and share stories responsibly.
 

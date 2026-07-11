@@ -1,4 +1,4 @@
-# Compendium Subscriber Agreement
+# Subscriber Agreement
 
 ## 0. Disclaimer
 
@@ -18,7 +18,7 @@ This Agreement explains:
 
 * How subscriptions work;
 * How billing and renewals occur;
-* How credits and promotions are handled; and
+* How promotions and gift/discount codes are handled; and
 * Your rights and obligations as a subscriber.
 
 ---
@@ -45,11 +45,11 @@ Subscription benefits begin once payment has been successfully processed and val
 
 The following examples are provided solely to illustrate the format of subscriptions offered by Compendium and do not constitute an offer or guarantee of future pricing.
 
-| Subscription | Price (Billed monthly) | Price (Billed annually) | Example Benefits                                                          |
-| ------------ | ---------------------- | :---------------------- | ------------------------------------------------------------------------- |
-| Explorer     | € 3.99                | € 39.99                | Additional storage, premium features, and one (1) Enhancement Credit      |
-| Chronicler   | € 8.99                | € 89.99                | More storage, premium features, and three (3) Enhancement Credits        |
-| Archivist    | € 14.99               | € 149.99               | Even more storage, all premium features and ten (10) Enhancement Credits |
+| Subscription        | Price (Billed monthly) | Price (Billed annually) | Example Benefits                           |
+| ------------------- | ---------------------- | :---------------------- | ------------------------------------------ |
+| `[WIP-Tier-Name-1]` | (Pricing TBD)          | (Pricing TBD)           | Additional storage and premium features    |
+| `[WIP-Tier-Name-2]` | (Pricing TBD)          | (Pricing TBD)           | More storage and premium features          |
+| `[WIP-Tier-Name-3]` | (Pricing TBD)          | (Pricing TBD)           | Even more storage and all premium features |
 
 Actual subscriptions, pricing, and benefits may differ and are displayed at the time of purchase.
 
@@ -82,7 +82,7 @@ Under certain conditions not related to any promotion or discount, we may charge
 
 Examples:
 
-* Non-renewable subscriptions *(See §V. below)*
+* Non-renewable subscriptions *(See §V below)*
 
 #### B. Formulas for determining pro-rated amount
 
@@ -92,15 +92,15 @@ The formulas for how we charge a pro-rated amount is as follows, and depending o
 
 All numbers explicitly written represent that number of days and imply that unit.
 
-* ***a*** – The normal, full payment amount that you pay, before any taxes and fees are applied.
-* ***p*** – Pro-rated subscription amount you pay upon renewal for the pro-rated period, before any taxes and fees are applied.
-* ***n*** – Date of renewal.
-* ***f*** – The full subscription duration, in days.
-* ***e*** – Effective date that the subscription you are currently using is discontinued.
-* ***t*** – Final termination date, calculated as follows:
+* ***a*** - The normal, full payment amount that you pay, before any taxes and fees are applied.
+* ***p*** - Pro-rated subscription amount you pay upon renewal for the pro-rated period, before any taxes and fees are applied.
+* ***n*** - Date of renewal.
+* ***f*** - The full subscription duration, in days.
+* ***e*** - Effective date that the subscription you are currently using is discontinued.
+* ***t*** - Final termination date, calculated as follows:
   > ***e** + 90*
   >
-* ***d*** – Duration, of maximum benefit, in days, calculated as follows:
+* ***d*** - Duration, of maximum benefit, in days, calculated as follows:
   > ***d** = **t** - **n***
   >
 
@@ -144,20 +144,32 @@ Some examples for their offering are as follows:
 * Partnerships with a creator;
 * Testing environment subscriptions;
 * A prize for completing a promotional competition offered by Compendium or a partner;
+* A dedicated agreement with a guild or organization for elevated features, such as self-hosted media storage.
 
 These subscriptions may have benefits whose total benefit term, suite of benefits, billing cycle, and cost are likely to be non-standard. These tiers are not guaranteed to be offered to the general public, and in addition to being governed by the applicable provisions of this Policy, are also governed by additional terms as specified in an agreement that accompanies the special subscription.
 
+Where a special tier grants elevated capabilities beyond those offered generally (such as self-hosted media storage), the accompanying agreement will specify, at minimum:
+
+* The term and duration of the arrangement;
+* The scope of service and benefits provided;
+* Compliance and cooperation obligations, including cooperation with content moderation and legal reporting requirements, and Compendium's right to immediately disable content or terminate the arrangement for violations;
+* Pricing;
+* Termination terms, both for cause and for convenience;
+* How data and content are handled upon termination of the arrangement;
+* Liability and indemnification terms specific to the arrangement; and
+* A designated point of contact for the relationship.
+
 ### 2. Discontinued Subscription Tiers
 
-From time to time, we may choose to update our subscription offerings, which may include discontinuing a subscription tier as an offering. In such cases where your current subscription tier is being no longer offered, we will make multiple reasonable attempts to notify you for a minimum of 90 days to prompt you to update your subscription preferences for when your subscription expires.
+From time to time, we may choose to update our subscription offerings, which may include discontinuing a subscription tier as an offering. In such cases where your current subscription tier is being no longer offered, we will make multiple reasonable attempts to notify you for a minimum of 90 days in advance of the change.
 
-If no update is received to reflect your wishes in this matter when the subscription is scheduled to expire, your subscription will automatically be cancelled.
+Unless you tell us otherwise, your subscription will automatically migrate, at the point your current tier is discontinued, to the nearest available tier priced at or below what you currently pay - we will not move you to a more expensive tier without your consent. If you would prefer not to be migrated, you may instead cancel your subscription and receive a pro-rated refund for the unused portion of your current billing period, calculated under **§IV(2)** above.
 
-If your subscription tier is downgraded to more restrictive benefits or you are no longer a premium subscriber, while we can offer no guarantees, out of gratitude for your support up until that point, we may, as operationally feasible, temporarily permit you to access enhanced features beyond degraded subscription tier to ensure the maximum portability of your data.
+If your subscription tier is downgraded to more restrictive benefits or you are no longer a premium subscriber, while we can offer no guarantees, out of gratitude for your support up until that point, we may, as operationally feasible, temporarily permit you to access enhanced features beyond your degraded subscription tier to ensure the maximum portability of your data.
 
 ---
 
-## V. Subscription Cancellation
+## VI. Subscription Cancellation
 
 You may cancel your subscription at any time through our `[WIP - Payment Portal]`, through a `[WIP - Support server process]`, or by email at support@`[WIP - Website domain]`.
 
@@ -167,15 +179,14 @@ Unless otherwise required by law or expressly stated in our policies, subscripti
 
 ---
 
-## VI. Refunds
+## VII. Refunds
 
-Refunds are governed by our [Refund Policy](Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures").
+Refunds are governed by our [Refund Policy](Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures").
 
 The Refund Policy is incorporated into this Agreement by reference and describes:
 
 * Refund eligibility;
 * Refund limitations;
-* Credits issued in lieu of refunds;
 * Refund procedures; and
 * Any additional terms applicable to subscription purchases.
 
@@ -183,31 +194,18 @@ Nothing in the Refund Policy limits any rights that may apply under applicable c
 
 ---
 
-## VII. Compendium Credit
-
-Compendium may offer account credit, promotional credit, or other forms of virtual store credit.
-
-The issuance, redemption, expiration, transferability, and refund treatment of such credit are governed by our [Credit Policy](Credit-Policy.md "Credit Policy – Compendium Standard Public Disclosures"), which is incorporated into this Agreement by reference.
-
-Unless otherwise stated by applicable law or by the terms under which the credit was issued, Compendium credit:
-
-* Has no cash value;
-* Is non-transferable; and
-* May only be redeemed through the Compendium platform.
-
----
-
 ## VIII. Promotions and Promotional Offers
 
 From time to time, Compendium may offer:
 
-* Discounts;
+* Discount codes;
 * Promotional pricing;
 * Trial periods;
-* Bonus credit;
-* Introductory offers;
-* Bundles; or
+* Gift codes;
+* Introductory offers; or
 * Other promotional incentives.
+
+Compendium does not offer bundled promotions that combine a personal subscription with guild-wide benefits, or vice versa - personal and guild-wide subscriptions are independent and are not packaged together.
 
 Promotions may be subject to additional terms and conditions.
 
@@ -217,18 +215,18 @@ Compendium reserves the right to modify, suspend, or discontinue promotions at a
 
 ---
 
-## IX. Subscription Benefits and Enhancements
+## IX. Guild-Tier Subscriptions
 
-Certain subscriptions may include one or more benefits that can be applied to a Discord server, guild, account, or other supported entity ("Enhancement Credits").
+Compendium offers two independent kinds of subscription: a personal ("User Tier") subscription that follows your account across every guild you use, and a guild-wide ("Guild Tier") subscription that applies its benefits to a specific Discord server, guild, or other supported entity for the benefit of everyone in it. Purchasing one does not grant any benefit of the other.
 
-Enhancement Credits:
+A Guild Tier subscription:
 
-* May provide additional features or capacity;
-* May be assigned or reassigned only through supported methods;
+* May be assigned to a specific guild only through supported methods, and may be reassigned to a different guild through the same methods;
+* Provides its benefits to every member of the guild it is assigned to, for as long as it remains active;
 * May be subject to technical limitations; and
-* May be removed if a subscription expires, is cancelled, or is terminated.
+* Is removed from the guild if the subscription expires, is cancelled, or is terminated.
 
-Additional rules governing Enhancements may be published separately and incorporated into this Agreement by reference.
+Additional rules governing Guild Tier subscriptions may be published separately and incorporated into this Agreement by reference.
 
 ---
 
@@ -245,7 +243,7 @@ Compendium may modify:
 
 Any such changes will be communicated in accordance with applicable law and our published policies.
 
-Where required by law, changes affecting existing subscriptions will take effect only after appropriate notice and, where applicable, upon the subscriber's acceptance *(See § V. (2) for more information)*.
+Where required by law, changes affecting existing subscriptions will take effect only after appropriate notice and, where applicable, upon the subscriber's acceptance *(See §V(2) for more information)*.
 
 ---
 
@@ -258,7 +256,21 @@ Compendium reserves the right to suspend, restrict, or terminate subscriptions a
 * Subscriptions are being used in violation of our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures"); or
 * The subscriber has otherwise violated this Agreement.
 
-Such actions may affect refund eligibility as described in our [Refund Policy](Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures") and other applicable policies.
+Being a paying subscriber does not reduce the severity of enforcement for violations unrelated to your subscription - such violations are addressed under the same standard applied to free users, per our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures").
+
+### 1. Restriction-Level Penalties
+
+Where a penalty temporarily restricts your access to some or all of the Service (such as a Feature Restriction or a Temporary Suspension not related to subscription or payment abuse - see Safety, Enforcement and Appeals Policy **§VI(3)-(4)**), your subscription is not cancelled. Billing is paused and the remaining time on your subscription, along with any active gift or discount code periods, is held for the duration of the restriction, and resumes automatically once it lifts. We do not charge for service we are not providing.
+
+### 2. Premium-Abuse and Severe-Violation Penalties
+
+Where a penalty arises from exploitative, fraudulent, or predatory use of a subscription specifically, or from a violation severe enough to warrant termination generally, your subscription is **cancelled**, not paused. In these cases:
+
+* No refund is issued for the cancelled period, consistent with our [Refund Policy](Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures")'s ineligibility provisions;
+* A Premium Subscription Ban may be applied (Safety, Enforcement and Appeals Policy **§VI(5)**), which may apply to your personal subscription, any guild-wide subscription you administer, or both, and which gates your eligibility to hold a paid subscription in the future. Depending on the severity and nature of the violation, this may be a temporary prohibition with the possibility of reinstatement, or a permanent ineligibility; and
+* We will provide an extended, elevated data-export window before your access to premium-tier data is fully removed, so that you are able to retrieve your data.
+
+Such actions may affect refund eligibility as described in our [Refund Policy](Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures") and other applicable policies.
 
 ---
 
@@ -269,9 +281,8 @@ In the event of a conflict between the following documents, the order of precede
 1. Applicable law;
 2. Specific promotional terms;
 3. This Subscriber Agreement;
-4. The [Refund Policy](Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures");
-5. The [Credit Policy](Credit-Policy.md "Credit Policy – Compendium Standard Public Disclosures");
-6. Other incorporated policies, unless expressly stated otherwise.
+4. The [Refund Policy](Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures");
+5. Other incorporated policies, unless expressly stated otherwise.
 
 ---
 
