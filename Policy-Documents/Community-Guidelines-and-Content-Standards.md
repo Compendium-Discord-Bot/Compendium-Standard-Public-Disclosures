@@ -45,29 +45,48 @@ Disagreements regarding fictional settings, themes, or creative choices are not,
 
 ### 1. How content ratings work
 
-Compendium tags every document with a content rating to prevent exposure of mature material to audiences who have not opted into it. Rather than a single guild-wide setting, the rating is carried by the **template** a document is built from, and in some cases by the **document** itself. The rating field has three values: **`SFW`**, **`Possible-NSFW`**, and **`NSFW`** ("Not Safe For Work"), defaulting to **`SFW`**. `NSFW`-eligible content is explained in more detail in **§IV(4)** below; content that is prohibited outright, regardless of tag, is explained in **§IV(4)(C)**.
+Compendium establishes three content rating levels for user-submitted content. These ratings are established so as to mitigate exposure of mature material to audiences who have not opted into it, or to audiences for which it is not suited. The ratings are **Safe**, **Mature**, and **Explicit**, and are explained in more detail below.
 
-### 2. Template Behavior
+* **Safe**-rated content is content suited for general audiences, and does not contain mature, adult, or mature themes. Is it strictly content which is **SFW**, or Safe For Work, and is explained in more detail in **§IV(4)(A)** below.
+* **Mature**-rated content is content suited for adults only. It contains any amount of content which is **NSFW**, or Not Safe For Work, and is explained in more detail in **§IV(4)(B)** and **§IV(5)** below.
+* **Explicit** content, aside from also calling under the category of NSFW, and which is explained in more detail in **§IV(4)(C)** below, is prohibited on Compendium outright, regardless of user-provided marking.
 
-* **`SFW` templates** lock every document created from them to `SFW`. No document under an `SFW` template may be marked otherwise.
-* **`NSFW` templates** automatically tag every document created from them as `NSFW`.
-* **`Possible-NSFW` templates** are discretionary: the author tags each document themselves at creation. When a document is submitted for acceptance into a guild, the reviewing guild staff may, at their discretion, override the author's tag before accepting it.
+For any guild that handles Mature-rated content, responsibility is placed on the owner of each guild (e.g. "server") and the managing staff of the guild who have the authority to manage content ratings to:
+* Determine whether managing staff, including the owner themself, are permitted to handle Mature-rated content and make staffing decisions accordingly;
+* Utilize Discord's age-rating systems to determine spaces appropriate and inappropriate for the audiences in your guild;
+* Utilize Compendium's content rating systems explained below in IV(2) to maintain the division of these ratings in their guild.
+
+### 2. How content ratings are applied
+
+Compendium marks every document with a content rating to prevent exposure of mature material to audiences who may view it but have not opted into viewing it, or to audiences for which it is not suited. Rather than a single guild-wide setting, the rating is carried by the **template** from which one or more documents are built, and in some cases by the **document** individually.
+
+For both templates and documents, the rating category field has the values **`Safe`** and **`Mature`**. The template rating category field has an additional value, **`Discretionary`**, where documents must be individually marked as either **Safe** or **Mature**, and will always post in separated channel contexts. The **Safe** rating is applied by default.
+
+### A. Template Behavior and Document Rating Inheritance
+
+* **`Safe`-rated templates** automatically restrict every document created from them to a `Safe` rating. No document under an `Safe`-rated template may be marked otherwise.
+* **`Mature`-rated templates** automatically mark every document created from them as `Mature`. No document under an `Mature`-rated template may be marked otherwise.
+* **`Discretionary Rated Templates`** are a special third category of template where the author tags each document individually upon creation. When a document is submitted for acceptance into a guild, the reviewing guild staff may, at their discretion, override the author's tag before accepting it.
+
+### B. Additional Rating Behaviors
+
+For content rating purposes, Compendium considers Documents as the smallest, indivisible unit to which a content rating can applied.
 
 ### 3. Display Restrictions
 
-Documents tagged `NSFW` may only be displayed:
+Documents tagged as `Mature` may only be displayed:
 
 * As an ephemeral message visible only to the document's own creator;
 * In a direct message; or
 * In a Discord channel that has been [marked as NSFW](https://support.discord.com/hc/en-us/articles/115000084051-Age-Restricted-Channels-and-Content "Age-Restricted Channels and Content – Discord").
 
-Compendium will not post `NSFW` content into any other channel or message context, regardless of guild settings.
+Compendium will not post `Mature`-rated content into any other channel or message context, regardless of guild settings.
 
-### 4. Content rating list
+### 4. Content Rating List
 
-The core test for what qualifies as `NSFW` versus what is prohibited outright: content that **references or implies** a mature theme (including fade-to-black treatment) remains eligible for `NSFW`. Content that **depicts or details** a mature theme graphically is prohibited outright, regardless of how it is tagged - see **§IV(4)(C)** below.
+The core standard for what qualifies as `Mature` versus what is prohibited outright: Content that **references or implies** a mature theme (including fade-to-black treatment) remains eligible for `NSFW`. Content that **depicts or details** a mature theme graphically is prohibited outright, regardless of how it is tagged - see **§IV(4)(C)** below.
 
-#### A. SFW
+#### A. Safe
 
 Suitable for general audiences.
 
@@ -79,7 +98,7 @@ Examples include:
 * Romance;
 * Political intrigue.
 
-#### B. NSFW (Mature, permitted when tagged and gated)
+#### B. Mature
 
 May include, when referenced or implied rather than graphically depicted:
 
@@ -104,11 +123,11 @@ As a storytelling platform, we choose not to host or deliver explicit content on
 * Content depicting or promoting child exploitation;
 * Non-consensual sexual content intended primarily for titillation;
 * Illegal content;
-* Content intended primarily to shock through gratuitous graphic depictions.
+* Content intended primarily to shock or evoke disgust through gratuitous graphic depictions.
 
 ### 5. Mistagging
 
-Tagging `NSFW`-appropriate content as `SFW` is a violation of these Guidelines, independent of whether the content itself was permitted. Mistagging is subject to enforcement under our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures"), scaled to severity and repetition.
+Tagging `Mature` content as `Safe` is a violation of these Guidelines, independent of whether the content itself was permitted. Mistagging is subject to enforcement under our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures"), and is scaled to severity and repetition.
 
 ---
 
