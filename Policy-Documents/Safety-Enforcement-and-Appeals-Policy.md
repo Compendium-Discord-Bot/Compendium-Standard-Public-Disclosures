@@ -180,7 +180,7 @@ Removed content may be retained for a reasonable period for:
 
 The Service is not obligated to restore content that violates our policies.
 
-**Exception - Child Sexual Abuse Material (CSAM):** content reasonably believed to constitute CSAM is not governed by the retention period described above. It is disabled immediately upon identification, retained only to the extent necessary to prepare a report to the relevant authorities, and deleted thereafter. This content is never restored and is not eligible for the appeals process described in **§X** below.
+**Exception - Child Sexual Abuse Material (CSAM):** Content reasonably believed to constitute CSAM is not governed by the retention period described above. It is disabled immediately upon identification, retained only to the extent necessary to prepare a report to the relevant authorities, and deleted thereafter. This content is never restored and is not eligible for the appeals process described in **§X** below.
 
 ---
 
