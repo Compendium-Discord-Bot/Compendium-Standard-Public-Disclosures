@@ -17,7 +17,7 @@ Public rules we expect you to follow while using Compendium or interacting in an
 | [Cookie Policy](Policy-Documents/Cookie-Policy.md "Cookie Policy – Compendium Standard Public Disclosures")                                                          | What cookies we use on our web panel and why.                                              |
 | [Smart Technologies Policy](Policy-Documents/Smart-Technologies-Policy.md "Smart Technologies Policy – Compendium Standard Public Disclosures")                      | Our approach to AI features and policies governing their use.                              |
 | [Subscriber Agreement](Policy-Documents/Subscriber-Agreement.md "Subscriber Agreement – Compendium Standard Public Disclosures")                          | How subscriptions, billing, and promotions work.                                           |
-| [Refund Policy](Policy-Documents/Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures")                                                          | Our policy governing what is required for refunds to be tendered, and related limitations. |
+| [Refund Policy](Policy-Documents/Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures")                                                          | Our policy governing what is required for refunds to be tendered, and related limitations. |
 | [Support Environment Rules](Policy-Documents/Support-Environment-Rules.md "Support Environment Rules – Compendium Standard Public Disclosures")                      | Rules for interacting with Support, whether in the Compendium Support Hub or by email.     |
 
 ### Transparency Documents
