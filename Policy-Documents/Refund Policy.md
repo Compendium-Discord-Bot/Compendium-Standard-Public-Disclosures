@@ -49,13 +49,13 @@ In order to receive the quickest and best support possible, we need to be able t
 ### 2. Unacceptable Processes
 
 1. We need to be able to prove that the claimed subscriber is the true subscriber. Inadequate proof may result in your request being rejected.
-2. We ask for reasonable notice to resolve your issue. As such, we request that you make the effort to follow one of the acceptable processes above before seeking a chargeback (AKA card dispute, bank dispute, charge dispute, etc.), which are not the same as refunds. Chargebacks incur fees against us from our financial institutions and cause reputational harm with them. We consider chargebacks initiated without first attempting to resolve the issue through our refund process to be abusive (subject to the exception in **§III(3) Chargeback Exceptions** below). Certain actions arising from abusive chargebacks, including account termination for fraudulent conduct, may be final and therefore not eligible for appeal - except where **both** of the following are true:
+2. We ask for reasonable notice to resolve your issue. As such, we request that you make the effort to follow one of the acceptable processes above before seeking a chargeback (AKA card dispute, bank dispute, charge dispute, etc.), which are not the same as refunds. Chargebacks incur fees against us from our financial institutions and cause reputational harm with them. With exception to **§III(3) Chargeback Exceptions** below, we consider chargebacks initiated without first attempting to resolve the issue through our refund process to be abusive. Penalties arising from abusive chargebacks, including account termination for abusive or fraudulent conduct, may be final and therefore not eligible for appeal, except where **both** of the following are true:
    1. You submitted only one chargeback for a Compendium transaction to your bank or payment processor, ever, AND;
    2. You have submitted a valid refund request by either of the above processes in **§III(1) Acceptable Processes** above, and have not received a statement from us within 30 days, attesting that your refund has been processed.
 
 ### 3. Chargeback Exceptions
 
-A chargeback is not treated as abusive under **§III(2)** above where you reasonably believed the transaction was unauthorized, fraudulent, or otherwise required immediate action through your financial institution - in that circumstance, first attempting to resolve the matter through our refund process is not a precondition.
+A chargeback is not treated as abusive under **§III(2)** above where you reasonably believed the transaction was unauthorized, fraudulent, or otherwise required immediate action through your financial institution. In such a circumstance, first attempting to resolve the matter through our refund process is not a precondition.
 
 The Service reserves the right, but not the obligation, to review requests for reinstatement arising from other exceptional circumstances not described above.
 
@@ -65,7 +65,8 @@ Under extreme circumstances, users may void their ability to receive a refund.
 
 Examples of cases where refunds will not be tendered:
 
-* A user has executed a chargeback.
-* A user has used all of their refunds.
-* A user's subscription was cancelled due to exploitative, fraudulent, or predatory use of a subscription, or due to a severe violation of our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures") or [Community Guidelines and Content Standards](Community-Guidelines-and-Content-Standards.md "Community Guidelines and Content Standards – Compendium Standard Public Disclosures") - see our [Subscriber Agreement](Subscriber-Agreement.md "Subscriber Agreement – Compendium Standard Public Disclosures") §XI(2).
+* A user has already executed a chargeback.
+* A user wishes to immediately continue using the Service.
+* A user has been issued all refunds permitted under **§II(3) Refund Limitations** within its established timeframes.
+* A user's subscription was cancelled due to exploitative, fraudulent, or predatory use of a subscription, or due to a severe violation of our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures") or [Community Guidelines and Content Standards](Community-Guidelines-and-Content-Standards.md "Community Guidelines and Content Standards – Compendium Standard Public Disclosures") - See our [Subscriber Agreement](Subscriber-Agreement.md "Subscriber Agreement – Compendium Standard Public Disclosures") §XI(2).
 * We may review account activity and service usage to detect refund abuse, fraud, or circumvention of our policies. Any users engaged in fraudulent activity may receive unique penalties, such as ineligibility for subscriptions, or ineligibility for refunds, and general penalties up to and including a permanent ban from Compendium.
