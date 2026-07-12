@@ -134,9 +134,19 @@ Your subscription will expire when it would otherwise be scheduled to renew. If 
 
 ## V. Non-Renewable Subscriptions
 
-### 1. Special Subscription Tiers
+### 1. Discontinued Subscription Tiers
 
-From time to time, and depending on unique circumstances, we may choose to offer unique subscription tiers.
+From time to time, we may choose to update our subscription offerings, which may include discontinuing a subscription tier as an offering. In such cases where your current subscription tier is being no longer offered, we will make multiple reasonable attempts to notify you for a minimum of 90 days in advance of the change.
+
+Unless you tell us otherwise, your subscription will automatically migrate, at the point your current tier is discontinued, to the nearest available tier priced at or below what you currently pay. We will not move you to a more expensive tier without your consent. If you would prefer not to be migrated, you may instead cancel your subscription and receive a pro-rated refund for the unused portion of your current billing period, calculated within **§IV(2)** above.
+
+Out of gratitude for your support up until any point when your subscription tier is downgraded to a more restrictive suite of benefits or you are no longer a premium subscriber, arising from a discontinued change in tier, we may, as operationally feasible and without guarantee, temporarily permit you to access enhanced features beyond your degraded subscription tier to ensure the maximum portability of your data.
+
+---
+
+## VI. Special Subscription Tiers
+
+Arising from unique circumstances, we may choose to offer curated subscription tiers not offered publicly.
 
 Some examples for their offering are as follows:
 
@@ -150,26 +160,19 @@ These subscriptions may have benefits whose total benefit term, suite of benefit
 
 Where a special tier grants elevated capabilities beyond those offered generally (such as self-hosted media storage), the accompanying agreement will specify, at minimum:
 
-* The term and duration of the arrangement;
+* The duration of the arrangement;
 * The scope of service and benefits provided;
 * Compliance and cooperation obligations, including cooperation with content moderation and legal reporting requirements, and Compendium's right to immediately disable content or terminate the arrangement for violations;
+* The conditions under which the arrangement may be renewed;
 * Pricing;
 * Termination terms, both for cause and for convenience;
 * How data and content are handled upon termination of the arrangement;
 * Liability and indemnification terms specific to the arrangement; and
 * A designated point of contact for the relationship.
 
-### 2. Discontinued Subscription Tiers
-
-From time to time, we may choose to update our subscription offerings, which may include discontinuing a subscription tier as an offering. In such cases where your current subscription tier is being no longer offered, we will make multiple reasonable attempts to notify you for a minimum of 90 days in advance of the change.
-
-Unless you tell us otherwise, your subscription will automatically migrate, at the point your current tier is discontinued, to the nearest available tier priced at or below what you currently pay - we will not move you to a more expensive tier without your consent. If you would prefer not to be migrated, you may instead cancel your subscription and receive a pro-rated refund for the unused portion of your current billing period, calculated under **§IV(2)** above.
-
-If your subscription tier is downgraded to more restrictive benefits or you are no longer a premium subscriber, while we can offer no guarantees, out of gratitude for your support up until that point, we may, as operationally feasible, temporarily permit you to access enhanced features beyond your degraded subscription tier to ensure the maximum portability of your data.
-
 ---
 
-## VI. Subscription Cancellation
+## VII. Subscription Cancellation
 
 You may cancel your subscription at any time through our `[WIP - Payment Portal]`, through a `[WIP - Support server process]`, or by email at support@`[WIP - Website domain]`.
 
@@ -179,9 +182,9 @@ Unless otherwise required by law or expressly stated in our policies, subscripti
 
 ---
 
-## VII. Refunds
+## VIII. Refunds
 
-Refunds are governed by our [Refund Policy](Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures").
+Refunds are governed by our [Refund Policy](Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures").
 
 The Refund Policy is incorporated into this Agreement by reference and describes:
 
@@ -194,7 +197,7 @@ Nothing in the Refund Policy limits any rights that may apply under applicable c
 
 ---
 
-## VIII. Promotions and Promotional Offers
+## IX. Promotions and Promotional Offers
 
 From time to time, Compendium may offer:
 
@@ -205,7 +208,7 @@ From time to time, Compendium may offer:
 * Introductory offers; or
 * Other promotional incentives.
 
-Compendium does not offer bundled promotions that combine a personal subscription with guild-wide benefits, or vice versa - personal and guild-wide subscriptions are independent and are not packaged together.
+Compendium does not offer bundled promotions that combine a personal subscription with guild-wide benefits, or vice versa. Personal and guild-wide subscriptions are independent and are not packaged together.
 
 Promotions may be subject to additional terms and conditions.
 
@@ -215,9 +218,9 @@ Compendium reserves the right to modify, suspend, or discontinue promotions at a
 
 ---
 
-## IX. Guild-Tier Subscriptions
+## X. Guild-Tier Subscriptions
 
-Compendium offers two independent kinds of subscription: a personal ("User Tier") subscription that follows your account across every guild you use, and a guild-wide ("Guild Tier") subscription that applies its benefits to a specific Discord server, guild, or other supported entity for the benefit of everyone in it. Purchasing one does not grant any benefit of the other.
+Compendium offers two independent kinds of subscription: A personal ("User Tier") subscription that follows your account across every guild you use, and a guild-wide ("Guild Tier") subscription that applies its benefits to a specific Discord server, guild, or other supported entity for the benefit of everyone in it. Purchasing one does not grant any benefit of the other.
 
 A Guild Tier subscription:
 
@@ -226,11 +229,11 @@ A Guild Tier subscription:
 * May be subject to technical limitations; and
 * Is removed from the guild if the subscription expires, is cancelled, or is terminated.
 
-Additional rules governing Guild Tier subscriptions may be published separately and incorporated into this Agreement by reference.
+Any additional rules governing Guild Tier subscriptions may be published separately and incorporated into this Agreement by reference.
 
 ---
 
-## X. Changes to Subscriptions
+## XI. Changes to Subscriptions
 
 Compendium may modify:
 
@@ -247,7 +250,7 @@ Where required by law, changes affecting existing subscriptions will take effect
 
 ---
 
-## XI. Fraud, Abuse, and Misuse
+## XII. Fraud, Abuse, and Misuse
 
 Compendium reserves the right to suspend, restrict, or terminate subscriptions and associated benefits where we reasonably believe that:
 
@@ -256,37 +259,37 @@ Compendium reserves the right to suspend, restrict, or terminate subscriptions a
 * Subscriptions are being used in violation of our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures"); or
 * The subscriber has otherwise violated this Agreement.
 
-Being a paying subscriber does not reduce the severity of enforcement for violations unrelated to your subscription - such violations are addressed under the same standard applied to free users, per our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures").
+Being a paying subscriber confers neither privilege of favorable interpretation of reports or infractions of which you are the subject, nor affects the duration of infraction history considered relevant, nor reduces the severity of any penalties imposed for violations not related to your subscription. Such violations are addressed under the same standard applied to free users, per our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures").
 
 ### 1. Restriction-Level Penalties
 
-Where a penalty temporarily restricts your access to some or all of the Service (such as a Feature Restriction or a Temporary Suspension not related to subscription or payment abuse - see Safety, Enforcement and Appeals Policy **§VI(3)-(4)**), your subscription is not cancelled. Billing is paused and the remaining time on your subscription, along with any active gift or discount code periods, is held for the duration of the restriction, and resumes automatically once it lifts. We do not charge for service we are not providing.
+Where a penalty temporarily restricts your access to some or all of the Service (such as a Feature Restriction or a Temporary Suspension not related to subscription or payment abuse - see Safety, Enforcement and Appeals Policy **§VI(3)-(4)**), your subscription is not cancelled. Billing is paused and the remaining time on your subscription, along with any active gift or discount code periods, is held for the duration of the restriction, and resumes automatically once the penalty expires. We do not charge for service we are not providing.
 
 ### 2. Premium-Abuse and Severe-Violation Penalties
 
 Where a penalty arises from exploitative, fraudulent, or predatory use of a subscription specifically, or from a violation severe enough to warrant termination generally, your subscription is **cancelled**, not paused. In these cases:
 
-* No refund is issued for the cancelled period, consistent with our [Refund Policy](Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures")'s ineligibility provisions;
-* A Premium Subscription Ban may be applied (Safety, Enforcement and Appeals Policy **§VI(5)**), which may apply to your personal subscription, any guild-wide subscription you administer, or both, and which gates your eligibility to hold a paid subscription in the future. Depending on the severity and nature of the violation, this may be a temporary prohibition with the possibility of reinstatement, or a permanent ineligibility; and
+* No refund is issued for the cancelled period, consistent with our [Refund Policy](Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures")'s ineligibility provisions;
+* A Premium Subscription Ban may be applied ([Refund Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures") **§VI(5)**), which may apply to your personal subscription, any guild-wide subscription you administer, or both. Depending on the nature or severity of the violation, this may limit or void your eligibility to hold a paid subscription in the future.
 * We will provide an extended, elevated data-export window before your access to premium-tier data is fully removed, so that you are able to retrieve your data.
 
-Such actions may affect refund eligibility as described in our [Refund Policy](Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures") and other applicable policies.
+Such actions may affect refund eligibility as described in our [Refund Policy](Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures") and other applicable policies.
 
 ---
 
-## XII. Order of Precedence
+## XIII. Order of Precedence
 
 In the event of a conflict between the following documents, the order of precedence shall be:
 
 1. Applicable law;
 2. Specific promotional terms;
 3. This Subscriber Agreement;
-4. The [Refund Policy](Refund Policy.md "Refund Policy – Compendium Standard Public Disclosures");
+4. The [Refund Policy](Refund-Policy.md "Refund Policy – Compendium Standard Public Disclosures");
 5. Other incorporated policies, unless expressly stated otherwise.
 
 ---
 
-## XIII. Final Principle
+## XIV. Final Principle
 
 Premium subscriptions exist to support the continued development and operation of Compendium.
 
