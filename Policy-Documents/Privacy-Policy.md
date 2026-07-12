@@ -1,6 +1,6 @@
 # Privacy Policy
 
-The terms "WE", "US", and "YOU" used throughout this Policy have the meanings given in our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures") §0.
+The terms "WE", "US", and "YOU" used throughout this Policy inherit the meanings provided in our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures") §0.
 
 ## I. What do we store?
 
@@ -33,11 +33,14 @@ Everything we store, we store because we need it to run the service - not just b
 We retain data for as long as necessary to provide our services effectively. Specifically:
 
 - **Document data**: Stored until the document owner requests deletion. Two types exist:
-  - **Server-owned documents** (guild-wide entries like locations, items, and lore): If the bot is removed from the server or the server is deleted, these are held for a grace period and then transferred based on document type: player characters go to the player who owns them, non-player characters go to their creator, and other guild-owned content (such as locations and items) goes to the user who is designated in Discord server settings as the owner. *(This is planned behaviour - it will be available when document management launches.)*
+  - **Server-owned documents** (Guild-wide entries such as locations, items, and lore): If the bot is removed from the server or the server is deleted, these are held for a grace period of `[WIP - Server-owned document grace period]` and then transferred based on document type:
+    - Guild-instanced player characters are transferred to the original owning user;
+    - Non-player characters are transferred to their original creator;
+    - Other guild-owned content (such as locations, items and lore) are transferred to the user  designated in Discord server settings as the owner. *(This is planned behaviour - it will be available when document management launches.)*
   - **User-owned documents** linked to a server: These remain yours regardless of what happens to the server.
   - Documents and edit history tied to an infraction are subject to the infraction retention rules below.
 - **Infraction evidence**: Evidence is handled in stages:
-  - **During the appeal period** (see `[WIP - link to appeal process]`): Full evidence is retained so you can dispute the decision.
+  - **During the appeal period** (see [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures") **§IX**): Full evidence is retained so you can dispute the decision.
   - **After the appeal period closes**: Detailed evidence is deleted. Where we have a documented legitimate interest such as establishing a pattern of behavior or defending against a legal claim, a staff-written description of content or interactions relevant to the infraction may be retained in its place. This description characterises what occurred without retaining the original personal data.
   - **Pattern-of-behavior retention**: If one or more subsequent, related infractions occur, the description from prior infraction(s) may be retained for `[WIP - base retention period]` from the date of the latest related infraction, resetting each time a related infraction is found. Staff must document the connection at the time of the later infraction - it cannot be determined retroactively.
   - **Permanent bans**: After the appeal period is exhausted, raw evidence is deleted and replaced with a staff-written description, which is retained indefinitely for as long as the ban stands.
@@ -163,14 +166,14 @@ If you wish, you can request deletion of all creative content, including documen
 
 If you are a contributor to content owned by another user or a guild you do not own, you may request removal of your attribution from that content. This is handled through **pseudonymization**, not full anonymization:
 
-- Your Discord ID and name are replaced with an anonymous marker in the public edit history. The edit records themselves remain - they are required for the integrity of the document record and cannot be deleted on request.
+- Your Discord ID and name are replaced with an anonymous marker in the public edit history. The edit records themselves remain because they are required for the integrity of the document record and cannot be deleted on request.
 - An internal confidential mapping between the anonymous marker and your Discord ID is retained. This mapping is treated with the same confidentiality as infraction reporter data and is accessible only in the context of a legal investigation or safety enforcement. It is not accessible to staff in routine operations.
 - Attribution deletion does not protect you from accountability for contributions that violate our policies or applicable law. If a legal or safety investigation requires it, the mapping will be used to identify you regardless of the attribution deletion.
 
 ### 2. What we will not be deleting as part of data requests
 
 - **User infraction history** - We require it to record any misuse of our service or violation of rules.
-- **Document edition history** - Edit records are required for the integrity of the document record and for legal purposes. For content you own, full edit history is retained. For content you contributed to but do not own, your identity is pseudonymized in the public record - but the edit records themselves remain.
+- **Document edition history** - Edit records are required for the integrity of the document record and for legal purposes. For content you own, full edit history is retained. For content you contributed to but do not own, your identity is pseudonymized in the public record, but the edit records themselves remain.
 - **Attribution pseudonymization mapping** - The internal confidential record linking an anonymized marker to your Discord ID is retained indefinitely. It is not accessible in routine operations and will not be deleted on request. See the contributor section above.
 - **Data subject to a legal hold** - If a legal obligation prevents us from processing a deletion request in full, we will delete everything we are legally permitted to delete and hold only what we are required to retain. In circumstances where legal restrictions prevent us from explaining why a request cannot be fully processed, we will fulfill as much as legally permitted and process the remainder as soon as we are able.
 
@@ -187,7 +190,7 @@ If a legal request arrives after a deletion has already been processed, we will 
 
 Test environments use anonymized or synthetic data, not real user data. Deletion requests apply to all environments, including test. If real user data is ever present in a test environment, it is subject to the same deletion obligations as production and will be deleted alongside it.
 
-Users may volunteer to participate in tests or offer their own content for use in a test environment. This is strictly opt-in - we will never place real user data in a test environment without your explicit consent. If you choose to participate, you may withdraw your consent at any time and your content will be removed from the test environment.
+Users may volunteer to participate in tests or offer their own content for use in a test environment. This is strictly opt-in. We will never place real user data in a test environment without your explicit consent. If you choose to participate, you may withdraw your consent at any time and your content will be removed from the test environment.
 
 Volunteer activities will be governed in separate agreements.
 
