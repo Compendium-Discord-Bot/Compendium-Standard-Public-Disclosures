@@ -4,7 +4,7 @@
 
 Compendium exists to help people create, organize, and share fictional worlds, campaigns, characters, and stories. These Guidelines are intended to preserve a welcoming environment for creators while maintaining clear boundaries regarding content and behavior.
 
-These Guidelines supplement our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures"). Violations of these Guidelines may result in one or more of the penalties listed in the Terms of Service.
+These Guidelines supplement our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures"). Violations of these Guidelines are enforced under our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures").
 
 ---
 
@@ -45,30 +45,46 @@ Disagreements regarding fictional settings, themes, or creative choices are not,
 
 ### 1. How content ratings work
 
-Compendium establishes three content rating levels for user-submitted content. These ratings are established so as to mitigate distribution of materials more appropriate to adults to minor children. Responsibility is placed on the owner of each guild (e.g. "server") and the managing staff of the server who have the authority to manage the boundaries between these ratings, to maintain the division of these ratings in their guild, and utilizes Discord's own age-rating systems to determine spaces appropriate and inappropriate for the audience in your guild. The ratings are **Safe**, **Mature**, and **Explicit**, and are explained in more detail in **§IV (3)** below. Explicit-rated content, explained in more detail below, is prohibited on Compendium.
+Compendium establishes three content rating levels for user-submitted content. These ratings are established so as to mitigate exposure of mature material to audiences who have not opted into it, or to audiences for which it is not suited. The ratings are **Safe**, **Mature**, and **Explicit**, and are explained in more detail below.
 
-### 2. Implementation
+* **Safe**-rated content is content suited for general audiences, and does not contain mature, adult, or mature themes. Is it strictly content which is **SFW**, or Safe For Work, and is explained in more detail in **§IV(4)(A)** below.
+* **Mature**-rated content is content suited for adults only. It contains any amount of content which is **NSFW**, or Not Safe For Work, and is explained in more detail in **§IV(4)(B)** and **§IV(5)** below.
+* **Explicit** content, aside from also calling under the category of NSFW, and which is explained in more detail in **§IV(4)(C)** below, is prohibited on Compendium outright, regardless of user-provided marking.
 
-This paragraph references some of Compendium's features, and so reading it may require familiarity of these concepts to get the best grasp of these concepts. To learn more, visit our guide at `[WIP – Guides]`.
+For any guild that handles Mature-rated content, responsibility is placed on the owner of each guild (e.g. "server") and the managing staff of the guild who have the authority to manage content ratings to:
+* Determine whether managing staff, including the owner themself, are permitted to handle Mature-rated content and make staffing decisions accordingly;
+* Utilize Discord's age-rating systems to determine spaces appropriate and inappropriate for the audiences in your guild;
+* Utilize Compendium's content rating systems explained below in IV(2) to maintain the division of these ratings in their guild.
 
-Compendium establishes multiple layers of content ratings within a guild to determine what is **Safe** versus **Mature**. These operate at the guild level, the template level, and depending on the template configuration, at the level of the original document.
+### 2. How content ratings are applied
 
-* Guild ratings are either **Safe** or **Mature**.
-  * **Safe**-rated guilds can only contain what are attested to be safe-rated templates and documents, without exception. As such, they require no further configuration beyond the guild level declaration, but must also maintain the safe-rated content standard, as explained in more detail, in IV(3)(A), and may not be [declared as age-restricted](https://support.discord.com/hc/en-us/articles/1500005389362-What-are-Age-Restricted-Servers-on-Discord "What are Age-Restricted Servers on Discord? – Discord") in their guild settings.
-  * **Mature**-rated guilds are expected to contain mature content, but is not ensured to exclusively contain mature-rated content. As such, further specification at the template, and sometimes the document level, are required. **Mature**-rated guilds must be declared as age-restricted in their guild settings if the below condition, as set by Discord, is met:
-    * > **[What is classified as an age-restricted server?](https://support.discord.com/hc/en-us/articles/1500005389362-What-are-Age-Restricted-Servers-on-Discord#h_01K728TD6X96J3KCNSSCM8DNDM "What are Age-Restricted Servers on Discord? – Discord")**
-      > Servers must be classified as age-restricted if the community is organized around age-restricted themes or if the majority of the server’s content is focused on 18+ content.
-      >
-    * More information can be found on how to configure this setting within Discord's [help article on the topic](https://support.discord.com/hc/en-us/articles/1500005389362-What-are-Age-Restricted-Servers-on-Discord#h_01K7299DYP72QN2QEQKQ01BZ4X "How Do I Mark My Server as Age-Restricted? – Discord").
-* Template ratings are either **Safe**, **Mature**, or have a special setting called **Discretionary**, which permits documents to have individualized content ratings.
-  * **Safe**-rated templates can only contain documents which are attested to be safe-rated, and occur in safe-rated guilds automatically, or can occur in mature-rated guilds by electing a template as safe. Compendium will only post documents from these templates in a channel that is configured as not age-restricted. [Learn more about how Discord manages channel-based age restriction from their guide](https://support.discord.com/hc/en-us/articles/115000084051-Age-Restricted-Channels-and-Content "Age-Restricted Channels and Content – Discord").
-  * **Mature**-rated templates contain documents that are automatically presumed to be mature-rated. As such, the channel must be marked as age-restricted for Compendium to post mature-rated content to it. Learn how to configure age-restricted channels from Discord's [help article on the topic](https://support.discord.com/hc/en-us/articles/115000084051-Age-Restricted-Channels-and-Content#h_01K0G0KP8ZDMVTXQV8FZ87PH08 "How to Set Up an Age-Restricted Channel – Discord").
-  * The **Discretionary** setting for a template allows for individual documents to be marked as either **Safe** or **Mature**, and will always post in separated contexts. See more on document ratings below.
-* Document ratings are either **Safe** or **Mature**.
-  * **Safe**-rated documents exist within safe-rated guilds and safe-rated templates, and when marked as safe by a content manager in the guild within an **Discretionary** template. Documents with these ratings may not be posted in a [channel marked as age-restricted](https://support.discord.com/hc/en-us/articles/115000084051-Age-Restricted-Channels-and-Content "Age-Restricted Channels and Content – Discord").
-  * **Mature**-rated documents may only exist within a guild rated as mature, in a template rated as mature, and automatically in a **Discretionary** template by default if the document is not explicitly marked as Safe.
+Compendium marks every document with a content rating to prevent exposure of mature material to audiences who may view it but have not opted into viewing it, or to audiences for which it is not suited. Rather than a single guild-wide setting, the rating is carried by the **template** from which one or more documents are built, and in some cases by the **document** individually.
 
-### 3. Content rating list
+For both templates and documents, the rating category field has the values **`Safe`** and **`Mature`**. The template rating category field has an additional value, **`Discretionary`**, where documents must be individually marked as either **Safe** or **Mature**, and will always post in separated channel contexts. The **Safe** rating is applied by default.
+
+### A. Template Behavior and Document Rating Inheritance
+
+* **`Safe`-rated templates** automatically restrict every document created from them to a `Safe` rating. No document under an `Safe`-rated template may be marked otherwise.
+* **`Mature`-rated templates** automatically mark every document created from them as `Mature`. No document under an `Mature`-rated template may be marked otherwise.
+* **`Discretionary Rated Templates`** are a special third category of template where the author tags each document individually upon creation. When a document is submitted for acceptance into a guild, the reviewing guild staff may, at their discretion, override the author's tag before accepting it.
+
+### B. Additional Rating Behaviors
+
+For content rating purposes, Compendium considers Documents as the smallest, indivisible unit to which a content rating can applied.
+
+### 3. Display Restrictions
+
+Documents tagged as `Mature` may only be displayed:
+
+* As an ephemeral message visible only to the document's own creator;
+* In a direct message; or
+* In a Discord channel that has been [marked as NSFW](https://support.discord.com/hc/en-us/articles/115000084051-Age-Restricted-Channels-and-Content "Age-Restricted Channels and Content – Discord").
+
+Compendium will not post `Mature`-rated content into any other channel or message context, regardless of guild settings.
+
+### 4. Content Rating List
+
+The core standard for what qualifies as `Mature` versus what is prohibited outright: Content that **references or implies** a mature theme (including fade-to-black treatment) remains eligible for `NSFW`. Content that **depicts or details** a mature theme graphically is prohibited outright, regardless of how it is tagged - see **§IV(4)(C)** below.
 
 #### A. Safe
 
@@ -84,7 +100,7 @@ Examples include:
 
 #### B. Mature
 
-Suitable for mature audiences, and may include:
+May include, when referenced or implied rather than graphically depicted:
 
 * Horror;
 * War;
@@ -96,9 +112,9 @@ Suitable for mature audiences, and may include:
 * References to torture or abuse;
 * Romantic relationships and implied intimacy.
 
-#### 3. Prohibited [Explicit] Content
+#### C. Prohibited [Explicit] Content
 
-As a storytelling platform, we choose not to host or deliver explicit content on our platform, as we believe that the mission of explicit content has separate goals beyond storytelling. While we value creative freedom, we do not permit the following content on Compendium in any form:
+As a storytelling platform, we choose not to host or deliver explicit content on our platform, as we believe that the mission of explicit content has separate goals beyond storytelling. While we value creative freedom, we do not permit the following content on Compendium in any form, regardless of tag, guild, or channel:
 
 * Explicit sexual content;
 * Pornographic content;
@@ -107,7 +123,11 @@ As a storytelling platform, we choose not to host or deliver explicit content on
 * Content depicting or promoting child exploitation;
 * Non-consensual sexual content intended primarily for titillation;
 * Illegal content;
-* Content intended primarily to shock through gratuitous graphic depictions.
+* Content intended primarily to shock or evoke disgust through gratuitous graphic depictions.
+
+### 5. Mistagging
+
+Tagging `Mature` content as `Safe` is a violation of these Guidelines, independent of whether the content itself was permitted. Mistagging is subject to enforcement under our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures"), and is scaled to severity and repetition.
 
 ---
 
@@ -194,28 +214,15 @@ Moderation decisions are guided by the principles expressed in these Guidelines 
 
 ## IX. Enforcement
 
-Violations may result in:
+Violations of these Guidelines are enforced under our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures"), which describes the full catalog of enforcement actions and how severity is assessed.
 
-* Content removal;
-* Warnings;
-* Temporary restrictions;
-* Suspension;
-* Permanent account termination.
-
-The severity of enforcement may depend upon:
-
-* The nature of the violation;
-* Prior conduct;
-* Repeated or intentional abuse;
-* Risks posed to users or the Service.
-
-In cases of illegality, reporting the misconduct to Discord relevant authorities.
+In cases of illegality, we report the misconduct to the relevant authorities.
 
 ---
 
 ## X. Appeals
 
-Users may appeal moderation actions through the procedures described in our Trust & Safety Policy.
+Users may appeal moderation actions through the procedures described in our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures").
 
 ---
 

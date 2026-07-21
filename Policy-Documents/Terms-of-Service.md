@@ -20,18 +20,18 @@ While using our service, you're expected to follow a few simple rules:
 ### 1. Adhere to Discord's Policies
 
 * By using our service, you are still bound by Discord's [Terms of Service](https://discord.com/terms "Terms of Service – Discord") and [Community Guidelines](https://discord.com/guidelines "Community Guidelines – Discord").
-* You must be old enough to use Discord where you live. If your country, locality, or other governing authority sets a higher minimum age for online services, that that applies instead.
+* You must be old enough to use Discord where you live. If your country, locality, or other governing authority sets a higher minimum age for online services, that applies instead.
 
 ### 2. Acceptable Content and Conduct
 
-* We expect that you will follow all policies outlined in our [Community Guidelines and Content Policy](Community-Guidelines-and-Content-Policy.md "Community Guidelines and Content Policy – Compendium Standard Public Disclosures").
+* We expect that you will follow all policies outlined in our [Community Guidelines and Content Standards](Community-Guidelines-and-Content-Standards.md "Community Guidelines and Content Standards – Compendium Standard Public Disclosures").
 * You must not use our service for illegal or harmful activities such as distributing harmful content (e.g., viruses, malware), or distributing content which violates property or copyright laws, or contributes to the knowledge or distribution of any illegal activities.
 
   1. By storing content through our service, you implicitly attest that you own the rights to the content, are granted a license to use the content, OR
   2. To the extent permitted by applicable law, you agree to defend, indemnify, and hold harmless Compendium, officers, directors and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt and expenses arising from your usage of Compendium, your violation of this Agreement, your violation of any other policy of Compendium, your violation of any third party right, including that of privacy and property, or any claim that your content caused damage to a third party.
   3. Some features may have usage limits imposed to prevent abuse or burden upon our servers, and therefore affect other users's experience. Efforts to intentionally or maliciously bypass these limitations will be punishable by suspension or termination of your account with Compendium.
 
-### 4. Account Security and Compromised Accounts
+### 3. Account Security and Compromised Accounts
 
 Users are responsible for maintaining the security of their accounts, credentials, devices, and any third-party accounts used to access the Service. Actions taken through an authenticated account are presumed to have been authorized by the account holder. The Service may, in its sole discretion, consider claims that an account was compromised where credible evidence suggests that unauthorized access occurred.
 
@@ -48,7 +48,7 @@ Repeated claims of account compromise, failure to take reasonable security measu
 
 ## III. Your Data
 
-When using our service, some data is stored to ensure everything runs smoothly. Below is a brief summary of what we store, however, for more details, please see our [Privacy Policy](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Privacy-Policy.md).
+When using our service, some data is stored to ensure everything runs smoothly. Below is a brief summary of what we store, however, for more details, please see our [Privacy Policy](Privacy-Policy.md "Privacy Policy – Compendium Standard Public Disclosures").
 
 - Discord IDs (Snowflakes IDs) for users, guilds, roles, threads, and messages
 - Data from documents created, modified, reviewed as part of applications, or deleted by you
@@ -94,13 +94,7 @@ Do not perform any of the below actions in reference to Compendium without expre
 
 ## VI. Enforcement and Infractions
 
-We strive to keep this service safe for everyone. If you violate our policies, we reserve the right to impose penalties on you at our discretion, and may take any one or combination of the following actions, including but not limited to:
-
-- **Warnings**: In the event of a minor infraction, we may deliver a formal warning.
-- **Sanctioned Modification**: If content stored and distributed through Compendium violate our policy, we may modify the content in your document for attribution requirements, or to limit exposure to age-appropriate groups.
-- **Deletion** or **Suppression of Content**: If your contributions to content stored and distributed through Compendium violate our policy, this content may be deleted or suppressed from public view and transmissibility features (applications and submissions).
-- **Ineligibility for Subscriptions** or **Ineligibility for Refunds**: In cases where you are found to have been engaging in fraudulent activity using your account, and involving purchases from us, we may limit you to being a free-only user or refuse refunds entirely.
-- **Temporary Suspension** or **Permanent Ban**: In severe or extreme cases (e.g., repetitive violations, malicious or illegal use, harassment) we may temporarily prevent your access to the bot's features, or entirely ban you, or your IP address, from interacting with the service.
+We strive to keep this service safe for everyone. If you violate our policies, we reserve the right to impose penalties on you at our discretion. The full catalog of enforcement actions we may take, the factors we weigh in choosing between them, and how repeat violations are handled, are described in our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures").
 
 You acknowledge that any misuse of the service resulting in suspension or termination of your account with Compendium does not obligate Compendium to preserve, export, convey or distribute your content to you or any third party.
 
@@ -108,15 +102,13 @@ A history of infractions is maintained, and repeated offenses will generally lea
 
 ## VII. Appeals to Penalties
 
-Appeals may be submitted through a `[WIP – Support server process]` or through email at support@`[WIP - Website domain]`.
-
-As the imposition of penalties is assessed by severity and pattern of violations, appeals are generally permitted to redress penalties that may be inappropriate for the violation or imposed in error, however, the Service makes no guarantee that an appeal will be entertained, nor does the service guarantee any outcome or relief through the receipt or review of an appeal.
+Appeals to enforcement actions are handled under our [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures"), which describes appeal eligibility, process, and the finality of decisions.
 
 ## VIII. AI Features (Future Use)
 
 If AI features are to be introduced in the future (like document analysis or smart tools), you will be provided advanced notice of their deployment.
 You will have the opportunity to opt in, if you want your documents to be used for AI training purposes.
-More details regarding possible usage of data is contained in the [Privacy Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Privacy-Policy.md) and the [Smart Technologies Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Smart-Technologies.md).
+More details regarding possible usage of data is contained in the [Privacy Policy](Privacy-Policy.md "Privacy Policy – Compendium Standard Public Disclosures") and the [Smart Technologies Policy](Smart-Technologies-Policy.md "Smart Technologies Policy – Compendium Standard Public Disclosures").
 
 ## IX. Updates to These Terms
 
@@ -132,7 +124,7 @@ We'll be honest with you:
 - **You use this at your own risk.** We're not responsible for damages caused by using Compendium, including lost data or server issues.
 - **We're not a professional service.** Compendium is not a backup solution, a legal record-keeping service, or anything with a professional liability standard. Treat it accordingly.
 - **What this doesn't cover**: Nothing here limits our responsibility for fraud, gross negligence, or intentional harm on our part. We're saying we can't guarantee uptime - not that we can do whatever we want.
-- **Authenticity**: As a gesture of goodwill and in effort to mitigate potential harm to you, we maintain an [Authenticity document](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Authenticity.md) as a source of truth, identifying us, our services, our means of communication, our payment portal(s), and our companies and legal entities. This gesture neither generates nor implies any promise that third parties will either attempt or succeed in deceiving you, nor does it generate or imply any responsibility of Compendium to rectify damages caused by any attempt or success of any fraudulent party.
+- **Authenticity**: As a gesture of goodwill and in effort to mitigate potential harm to you, we maintain an [Authenticity document](../Transparency/Authenticity.md "Authenticity – Compendium Standard Public Disclosures") as a source of truth, identifying us, our services, our means of communication, our payment portal(s), and our companies and legal entities. This gesture neither generates nor implies any promise that third parties will either attempt or succeed in deceiving you, nor does it generate or imply any responsibility of Compendium to rectify damages caused by any attempt or success of any fraudulent party.
 
 ## XI. Contact Us
 

@@ -6,7 +6,7 @@
 
 We use the minimal number of cookies needed to run our web panel at `[WIP - Website domain]`. If we ever add new cookies, we will announce them in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") channel in the Compendium Support Discord server, and through the **/policies cookies** command in the bot. You will have the opportunity to consent or decline any non-essential cookies at that time.
 
-All cookies we set are first-party. During login, Discord may set its own cookies as part of the authentication process - those are governed by [Discord&#39;s Privacy Policy](https://discord.com/privacy), not ours.
+All cookies we set are first-party. During login, Discord may set its own cookies as part of the authentication process - those are governed by [Discord's Privacy Policy](https://discord.com/privacy "Privacy Policy – Discord"), not ours.
 
 ## II. What are the purposes of these cookies?
 
@@ -34,7 +34,7 @@ We have no plans to add non-essential cookies, but this is the section where the
 
 ## III. Data Privacy
 
-These cookies do not contain personal data beyond what is necessary to maintain your session. For full details on how we handle your data, see our **[Privacy Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Privacy-Policy.md)**.
+These cookies do not contain personal data beyond what is necessary to maintain your session. For full details on how we handle your data, see our **[Privacy Policy](Privacy-Policy.md "Privacy Policy – Compendium Standard Public Disclosures")**.
 
 You can clear or block cookies at any time through your browser settings. Blocking essential cookies will prevent the web panel from functioning correctly.
 

@@ -1,4 +1,4 @@
-# Authenticity Document
+# Authenticity
 
 ## I. Introduction
 
@@ -26,7 +26,7 @@ When there is any normal *(non-emergency)* update to this information, we will p
 
 #### C. Exceptional updates
 
-If there is ever an exceptional *(emergency)* update, e.g. some compromise of security such that the information contained in this document is no longer reliable, this document will be updated in §4. **Security Failures** below, indicating the impacted resource or user, date, time, and to the extent reasonably available and assessable, the impact of this failure. A post will also be made in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") announcement channel in the Compendium Support Discord server as soon as possible.
+If there is ever an exceptional *(emergency)* update, e.g. some compromise of security such that the information contained in this document is no longer reliable, this document will be updated in §I(4) **Security Failures** below, indicating the impacted resource or staff member, date, time, and to the extent reasonably available and assessable, the impact of this failure. A post will also be made in the [#transparency-hub](https://discord.com/channels/1232458290563387392/1345476136867594250 "Compendium Support Hub – Transparency Hub") announcement channel in the Compendium Support Discord server as soon as possible.
 
 ### 4. Security Failures
 
@@ -75,10 +75,11 @@ Email inboxes that are monitored and can send replies. These will not proactivel
 | Email                                               | Purpose                                                                                                        | Inbox Monitored | No-Reply |
 | :-------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------- | -------- |
 | `[WIP - legal entity]`@`[WIP - Website domain]` | Primary point of contact for official business.                                                                | Yes             | No       |
-| support@`[WIP - Website domain]`                  | Primary point of contact for general support, especially when the user no longer has access to their account. | Yes             | No       |
+| support@`[WIP - Website domain]`                  | Primary point of contact for general support, especially when the user no longer has access to their account. | Yes             | No       |
 | policy@`[WIP - Website domain]`                   | Primary point of contact for policy questions.                                                                 | Yes             | No       |
 | privacy@`[WIP - Website domain]`                  | Special sensitive privacy incident reporting.                                                                  | Yes             | No       |
 | compliance@`[WIP - Website domain]`               | Primary point of contact for official legal, data requests.                                                    | Yes             | No       |
+| impropriety@`[WIP - Website domain]`              | Report fraud, abuse, or impersonation concerning Compendium (see §I(3)(A) above).                              | Yes             | No       |
 
 ### 2. Notification (No-Reply) Outboxes
 
@@ -93,12 +94,12 @@ As the name suggests, the below emails' inboxes are not monitored. These may sen
 
 ### 3. Individual's Mailboxes
 
-While these inboxes are monitored and can reply to you, these are meant to be used as an authoritative email, representing who is speaking to you via which §1. **General Communications** email, for example, “**Waves**, on behalf of **Support**.”
+While these inboxes are monitored and can reply to you, these are meant to be used as an authoritative email, representing who is speaking to you via which §V(1) **General Communications** email, for example, "**Waves**, on behalf of **Support**."
 
 | Email                             | Purpose                                                             | Inbox Monitored | No-Reply |
 | :-------------------------------- | ------------------------------------------------------------------- | --------------- | -------- |
-| tuevon@`[WIP - Website domain]` | Tuevon's email – Secondary point of contact for official matters. | Yes             | No       |
-| waves@`[WIP - Website domain]`  | Waves's email – Secondary point of contact for official matters.  | Yes             | No       |
+| tuevon@`[WIP - Website domain]` | Tuevon's email - Secondary point of contact for official matters. | Yes             | No       |
+| waves@`[WIP - Website domain]`  | Waves's email - Secondary point of contact for official matters.  | Yes             | No       |
 
 ## VI. Payment Portal
 
@@ -108,7 +109,7 @@ When paid features are introduced, the official payment portal will be listed he
 
 ## VII. Our Companies & Legal Entities
 
-Compendium is currently operated by individuals—we do not yet have a formally registered legal entity. We are in the process of establishing one, and this section will be updated and a transparency update will be posted when that is complete.
+Compendium is currently operated by individuals. We do not yet have a formally registered legal entity. We are in the process of establishing one, and this section will be updated and a transparency update will be posted when that is complete.
 
 Until then, Compendium has no registered company, no subsidiaries, and no affiliated legal entities. Anyone claiming to represent a Compendium in any official capacity is not us.
 
