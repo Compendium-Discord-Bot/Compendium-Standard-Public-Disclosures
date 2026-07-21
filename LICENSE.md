@@ -14,7 +14,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
      A version history or changelog is required.
 3. **Source Information**:
      The source from which the original Documents were obtained must be provided with any redistribution or sharing of the Documents, whether modified or unmodified.
-4. **No Restrictions on Sharing**:
+4. **Restrictions on Use**:
      The Documents may only be shared; they may not be modified without notice, sublicensed, sold, or incorporated into other works.
      Use for activities such as, but not limited to, sublicensing, commercial exploitation, or compilation into proprietary works is prohibited without express written and signed permission from the original authors of the Documents.
 

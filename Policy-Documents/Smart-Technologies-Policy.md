@@ -1,4 +1,4 @@
-# Smart Technologies
+# Smart Technologies Policy
 
 The Smart Technologies policy governs any and all usage of algorithms, Artificial Intelligence (AI), and more, that are not primary technologies provided in Compendium's core product offering.
 
@@ -19,5 +19,5 @@ The Smart Technologies policy governs any and all usage of algorithms, Artificia
 
 - Service enrichment-providing additional features for end-users of our service.
 - Validate that documents stored by us are not used in a malicious way.
-- Verify if a document should be tagged as NSFW.
-- Verify if a document violates any [rules](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Rules.md) and/or our [terms of service](https://github.com/Compendium-Discord-Bot/Legal-Stuff-We-Are-Required-To-Share/blob/main/Terms-of-Service.md).
+- Verify if a document's content rating tag should be `Mature` instead of `Safe`.
+- Verify if a document violates any [rules](Support-Environment-Rules.md "Support Environment Rules – Compendium Standard Public Disclosures") and/or our [terms of service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures").

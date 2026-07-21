@@ -1,6 +1,6 @@
 # Transparency Report
 
-## Canary Statement
+## I. Canary Statement
 
 As of **2026-06-06**, Compendium confirms the following:
 
@@ -16,14 +16,14 @@ Updates are announced in the [#transparency-hub](https://discord.com/channels/12
 
 ---
 
-## Transparency Log
+## II. Transparency Log
 
 When we are legally permitted to disclose a received request, we record it in the section below titled **Past Data Requests**. Entries are added after the relevant investigation concludes or a gag order is lifted. We will never name the specific users affected.
 
-### Entry Format
+### 1. Entry Format
 
 > **[Quarter Year]** - We received a legally binding data request from a [law enforcement / judicial] authority in [country]. We [verified its legitimacy and complied in full / contested its scope and complied with a narrowed version / contested it and did not comply]. [N] user(s) were affected. Affected users were [notified / prohibited from being notified at the time - now disclosed].
 
-## Past Data Requests
+## III. Past Data Requests
 
 *No disclosures to date.*

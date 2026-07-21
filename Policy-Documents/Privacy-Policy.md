@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Any references hereafter to "WE" or "US" describe Compendium and its services, offered to "YOU", the end user of Compendium Discord bot.
+The terms "WE", "US", and "YOU" used throughout this Policy inherit the meanings provided in our [Terms of Service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures") §0.
 
 ## I. What do we store?
 
@@ -9,7 +9,7 @@ Any references hereafter to "WE" or "US" describe Compendium and its services, o
 - Discord IDs (Snowflakes IDs) for users, guilds, roles, threads, and messages
 - Data from content created or modified by you
 - Timestamps and history of edits that were made by you
-- History of infractions from violations of [rules](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Rules.md) and/or [terms of service](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Terms-of-Service.md)
+- History of infractions from violations of [rules](Support-Environment-Rules.md "Support Environment Rules – Compendium Standard Public Disclosures") and/or [terms of service](Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures")
 - Data provided during support requests
 - Translation data provided by those who provide it
 
@@ -26,20 +26,23 @@ Everything we store, we store because we need it to run the service - not just b
 - **Infraction history**: We keep this to protect other users from repeated bad behaviour. *([GDPR: legitimate interests, Art. 6(1)(f)](https://gdpr-info.eu/art-6-gdpr/#:~:text=processing%20is%20necessary%20for%20the%20purposes%20of%20the%20legitimate%20interests%20pursued%20by%20the%20controller%20or%20by%20a%20third%20party%2C%20except%20where%20such%20interests%20are%20overridden%20by%20the%20interests%20or%20fundamental%20rights%20and%20freedoms%20of%20the%20data%20subject%20which%20require%20protection%20of%20personal%20data%2C%20in%20particular%20where%20the%20data%20subject%20is%20a%20child. "GDPR – Art. 6(1)(f)"))*
 - **Support data**: We keep this to resolve your issue and learn from it. *([GDPR: legitimate interests, Art. 6(1)(f)](https://gdpr-info.eu/art-6-gdpr/#:~:text=processing%20is%20necessary%20for%20the%20purposes%20of%20the%20legitimate%20interests%20pursued%20by%20the%20controller%20or%20by%20a%20third%20party%2C%20except%20where%20such%20interests%20are%20overridden%20by%20the%20interests%20or%20fundamental%20rights%20and%20freedoms%20of%20the%20data%20subject%20which%20require%20protection%20of%20personal%20data%2C%20in%20particular%20where%20the%20data%20subject%20is%20a%20child. "GDPR – Art. 6(1)(f)"))*
 - **Translation contributions**: You chose to provide this. *([GDPR: consent, Art. 6(1)(a)](https://gdpr-info.eu/art-6-gdpr/#:~:text=the%20data%20subject%20has%20given%20consent%20to%20the%20processing%20of%20his%20or%20her%20personal%20data%20for%20one%20or%20more%20specific%20purposes%3B "GDPR – Art. 6(1)(a)"))*
-- **AI training data (future, opt-in only)**: Only if you explicitly consent. Full details in our [Smart Technologies Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Smart-Technologies.md). *([GDPR: consent, Art. 6(1)(a)](https://gdpr-info.eu/art-6-gdpr/#:~:text=the%20data%20subject%20has%20given%20consent%20to%20the%20processing%20of%20his%20or%20her%20personal%20data%20for%20one%20or%20more%20specific%20purposes%3B "GDPR – Art. 6(1)(a)"))*
+- **AI training data (future, opt-in only)**: Only if you explicitly consent. Full details in our [Smart Technologies Policy](Smart-Technologies-Policy.md "Smart Technologies Policy – Compendium Standard Public Disclosures"). *([GDPR: consent, Art. 6(1)(a)](https://gdpr-info.eu/art-6-gdpr/#:~:text=the%20data%20subject%20has%20given%20consent%20to%20the%20processing%20of%20his%20or%20her%20personal%20data%20for%20one%20or%20more%20specific%20purposes%3B "GDPR – Art. 6(1)(a)"))*
 
 ## III. Data Retention
 
 We retain data for as long as necessary to provide our services effectively. Specifically:
 
 - **Document data**: Stored until the document owner requests deletion. Two types exist:
-  - **Server-owned documents** (guild-wide entries like locations, NPCs, and lore): If the bot is removed from the server or the server is deleted, these will be transferred to the user who is designated in Discord server settings as the owner. *(This is planned behaviour - it will be available when document management launches.)*
+  - **Server-owned documents** (Guild-wide entries such as locations, items, and lore): If the bot is removed from the server or the server is deleted, these are held for a grace period of `[WIP - Server-owned document grace period]` and then transferred based on document type:
+    - Guild-instanced player characters are transferred to the original owning user;
+    - Non-player characters are transferred to their original creator;
+    - Other guild-owned content (such as locations, items and lore) are transferred to the user  designated in Discord server settings as the owner. *(This is planned behaviour - it will be available when document management launches.)*
   - **User-owned documents** linked to a server: These remain yours regardless of what happens to the server.
   - Documents and edit history tied to an infraction are subject to the infraction retention rules below.
 - **Infraction evidence**: Evidence is handled in stages:
-  - **During the appeal period** (see `[WIP - link to appeal process]`): Full evidence is retained so you can dispute the decision.
+  - **During the appeal period** (see [Safety, Enforcement and Appeals Policy](Safety-Enforcement-and-Appeals-Policy.md "Safety, Enforcement and Appeals Policy – Compendium Standard Public Disclosures") **§IX**): Full evidence is retained so you can dispute the decision.
   - **After the appeal period closes**: Detailed evidence is deleted. Where we have a documented legitimate interest such as establishing a pattern of behavior or defending against a legal claim, a staff-written description of content or interactions relevant to the infraction may be retained in its place. This description characterises what occurred without retaining the original personal data.
-  - **Pattern-of-behavior retention**: If one or more subsequent, related infractions occur, the description from prior infraction(s) may be retained for `[WIP - base retention period]` from the date of the latest related infraction, resetting each time a related infraction is found. Staff must document the connection at the time of the later infraction—It cannot be determined retroactively.
+  - **Pattern-of-behavior retention**: If one or more subsequent, related infractions occur, the description from prior infraction(s) may be retained for `[WIP - base retention period]` from the date of the latest related infraction, resetting each time a related infraction is found. Staff must document the connection at the time of the later infraction - it cannot be determined retroactively.
   - **Permanent bans**: After the appeal period is exhausted, raw evidence is deleted and replaced with a staff-written description, which is retained indefinitely for as long as the ban stands.
   - **Illegal material** (e.g. CSAM): The user is banned immediately. We comply with all applicable mandatory reporting obligations and report the material to the appropriate authorities. The original material is not kept beyond what is needed to make internal reports for our records, and referrals to law enforcement. We await guidance from authorities on whether they wish to pursue further investigation. Beyond these reporting requirements, we retain only a written description.
 - **Infraction history** (summary record): Stored indefinitely for accountability and service integrity purposes, except where deletion is required by applicable law.
@@ -59,7 +62,7 @@ Depending on your location, you may have the following rights regarding your dat
 - **Restriction**: If you dispute whether our data about you is accurate, you can ask us to freeze processing until we correct it. *([GDPR Art. 18](https://gdpr-info.eu/art-18-gdpr/ "GDPR – Art. 18"))*
 - **Complaints**: If you believe we're handling your data improperly and are in the EU, while we'd always prefer you contact us first so we can remedy issues involving your data, you have the right to file a complaint with your country's data protection authority. *([GDPR Art. 77](https://gdpr-info.eu/art-77-gdpr/ "GDPR – Art. 77"))*
 
-To exercise any of these rights, please open a request via `[WIP - support channel]` on Discord or contact us by email at **data_requests@`[WIP - website domain]`**.
+To exercise any of these rights, please open a request via `[WIP - support channel]` on Discord or contact us by email at **compliance@`[WIP - Website domain]`**.
 
 ### 1. Limitations
 
@@ -79,10 +82,10 @@ We use third-party services to help operate our platform (e.g., cloud storage, h
 
 Our third-party partners are as follows:
 
-- `[WIP - cloud hosting provider]` – Hosts our servers and infrastructure.
-- `[WIP - database provider]` – Stores application data on our behalf.
-- `[WIP - email client]` – Used to transmit and store communications between us and you through support requests.
-- [Discord](https://discord.com/) – Handles authentication and is the platform through which you interact with the bot.
+- `[WIP - cloud hosting provider]` - Hosts our servers and infrastructure.
+- `[WIP - database provider]` - Stores application data on our behalf.
+- `[WIP - email client]` - Used to transmit and store communications between us and you through support requests.
+- [Discord](https://discord.com/) - Handles authentication and is the platform through which you interact with the bot.
 
 We only engage providers who offer data protection standards consistent with GDPR. Any provider that processes your data on our behalf is required to do so under a data processing agreement. They may not use your data for their own purposes.
 
@@ -92,7 +95,7 @@ We plan to host Compendium's servers in Europe. This means your data stays withi
 
 ### 2. Changes in data providers or protection regime
 
-If we change providers in a way that would affect the data protection regime applicable to your data—for example, switching to a provider outside the EU—we will treat that change with the same seriousness as moving our own infrastructure. We will give you advance notice, explain why the change is necessary, and ensure appropriate legal safeguards are in place (such as Standard Contractual Clauses). This is not something we would do for convenience to use your data in a different way, but rather out of operational necessity, or if the legal framework around which we are able to guarantee your rights changes such that your rights are suddenly, radically and negatively altered or annulled, not convenience or cost preference. A change of this kind would be a significant inconvenience to you as a user, and we acknowledge that directly.
+If we change providers in a way that would affect the data protection regime applicable to your data - for example, switching to a provider outside the EU - we will treat that change with the same seriousness as moving our own infrastructure. We will give you advance notice, explain why the change is necessary, and ensure appropriate legal safeguards are in place (such as Standard Contractual Clauses). This is not something we would do for convenience to use your data in a different way, but rather out of operational necessity, or if the legal framework around which we are able to guarantee your rights changes such that your rights are suddenly, radically and negatively altered or annulled, not convenience or cost preference. A change of this kind would be a significant inconvenience to you as a user, and we acknowledge that directly.
 
 ## VI. Data Security
 
@@ -102,7 +105,7 @@ We take data security seriously. The following measures are either already in pl
 - Access to sensitive user data is limited to authorized personnel only.
 - Regular security audits and updates to maintain the integrity of our systems.
 
-Despite our effors, no system is, or can be made to be completely secure. In the unlikely event of a data breach, we will notify affected users promptly.
+Despite our efforts, no system is, or can be made to be completely secure. In the unlikely event of a data breach, we will notify affected users promptly.
 
 ## VII. Sale of Data
 
@@ -117,64 +120,64 @@ We do not voluntarily share your data with any third party. The only circumstanc
 
 We may be required by law to share data in response to requests from law enforcement or courts. When that happens, we handle it as follows:
 
-#### **What triggers compliance**
+#### A. What triggers compliance
 
 Only legally binding orders - court orders, warrants, and formal subpoenas. Informal requests (letters, emails, phone calls with no legal force) will not result in any data disclosure, ever.
 
-#### **What we do before complying**
+#### B. What we do before complying
 
 We review every request for legal validity and proper jurisdiction before taking any action. We reserve the right to contest requests that are overbroad, lack proper legal basis, or exceed the authority of the requesting party. We will share only the minimum data necessary to satisfy the specific, stated scope of the order - nothing beyond what is explicitly required.
 
-#### **Non-EU authorities**
+#### C. Non-EU authorities
 
 Requests from authorities outside the EU must be routed through proper international legal channels (such as Mutual Legal Assistance Treaties). We will not comply with direct requests from non-EU authorities that bypass these mechanisms.
 
-#### **User notification**
+#### D. User notification
 
-Unless a court order or applicable law explicitly prohibits us from doing so, we will attempt to notify the affected user that a legal request was received. Depending on the timeframe imposed by the order, it may not always be possible to notify before we are required to comply — in those cases, we will notify as soon as we are legally permitted to do so. Notification will be made by whatever reasonable means we have available to reach the user. We will document all attempts to reach the user, whether successful or not. We cannot guarantee notification in all circumstances, but we will always try.
+Unless a court order or applicable law explicitly prohibits us from doing so, we will attempt to notify the affected user that a legal request was received. Depending on the timeframe imposed by the order, it may not always be possible to notify before we are required to comply - in those cases, we will notify as soon as we are legally permitted to do so. Notification will be made by whatever reasonable means we have available to reach the user. We will document all attempts to reach the user, whether successful or not. We cannot guarantee notification in all circumstances, but we will always try.
 
-#### **What data may be shared**
+#### E. What data may be shared
 
 - Data from documents.
 - Timestamps and history of document editions.
 - User infraction history.
 - Any other data stored in reference to the named parties on the order.
 
-#### **How to submit a request**
+#### F. How to submit a request
 
-Send requests to **data_requests@`[WIP - website domain]`** as a digitally signed PDF from an authorized law enforcement officer or court official. Since we do not store users' legal names or contact details, we will need one of the following for identification, depending on the nature of the order:
+Send requests to **compliance@`[WIP - Website domain]`** as a digitally signed PDF from an authorized law enforcement officer or court official. Since we do not store users' legal names or contact details, we will need one of the following for identification, depending on the nature of the order:
 
 - The user's Discord ID, OR
 - The ID or IDs of documents, OR
 - The ID or IDs of guilds (Discord servers) AND the user's Discord ID
 
-#### **Transparency**
+#### G. Transparency
 
-We maintain a [Transparency Report](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Transparency-Report.md) with two parts:
+We maintain a [Transparency Report](../Transparency/Transparency-Report.md "Transparency Report – Compendium Standard Public Disclosures") with two parts:
 
 - **Canary statement**: A quarterly-updated declaration summarizing whether we have ever received demands accompanied by gag orders - requests we are legally prohibited from even acknowledging. If the statement as a whole is removed or goes stale, that is the signal.
 - **Transparency log**: A record of requests we are legally permitted to disclose, published after the relevant investigation concludes or a gag order is lifted.
 
 ## IX. Data Deletion
 
-If you wish, you can request deletion of all creative content — including documents, templates, and any other content types — that you own, or that is owned by a Discord server you own. To do so, go to `[WIP - support channel]` and select `Data Deletion` from the select menu.
+If you wish, you can request deletion of all creative content, including documents, templates, and any other content types, that you own, or that is owned by a Discord server you own. To do so, go to `[WIP - support channel]` and select `Data Deletion` from the select menu.
 
 ### 1. Pseudonymization
 
 If you are a contributor to content owned by another user or a guild you do not own, you may request removal of your attribution from that content. This is handled through **pseudonymization**, not full anonymization:
 
-- Your Discord ID and name are replaced with an anonymous marker in the public edit history. The edit records themselves remain — they are required for the integrity of the document record and cannot be deleted on request.
+- Your Discord ID and name are replaced with an anonymous marker in the public edit history. The edit records themselves remain because they are required for the integrity of the document record and cannot be deleted on request.
 - An internal confidential mapping between the anonymous marker and your Discord ID is retained. This mapping is treated with the same confidentiality as infraction reporter data and is accessible only in the context of a legal investigation or safety enforcement. It is not accessible to staff in routine operations.
 - Attribution deletion does not protect you from accountability for contributions that violate our policies or applicable law. If a legal or safety investigation requires it, the mapping will be used to identify you regardless of the attribution deletion.
 
 ### 2. What we will not be deleting as part of data requests
 
 - **User infraction history** - We require it to record any misuse of our service or violation of rules.
-- **Document edition history** - Edit records are required for the integrity of the document record and for legal purposes. For content you own, full edit history is retained. For content you contributed to but do not own, your identity is pseudonymized in the public record — but the edit records themselves remain.
+- **Document edition history** - Edit records are required for the integrity of the document record and for legal purposes. For content you own, full edit history is retained. For content you contributed to but do not own, your identity is pseudonymized in the public record, but the edit records themselves remain.
 - **Attribution pseudonymization mapping** - The internal confidential record linking an anonymized marker to your Discord ID is retained indefinitely. It is not accessible in routine operations and will not be deleted on request. See the contributor section above.
 - **Data subject to a legal hold** - If a legal obligation prevents us from processing a deletion request in full, we will delete everything we are legally permitted to delete and hold only what we are required to retain. In circumstances where legal restrictions prevent us from explaining why a request cannot be fully processed, we will fulfill as much as legally permitted and process the remainder as soon as we are able.
 
-### 2. Backups
+### 3. Backups
 
 Deletion requests are applied to production immediately. We maintain an internal log of all deletion requests. Backups are retained for up to 1 year - we do not modify backup files to remove individual records. Instead:
 
@@ -183,23 +186,23 @@ Deletion requests are applied to production immediately. We maintain an internal
 
 If a legal request arrives after a deletion has already been processed, we will provide the requesting authority with documentation of when the deletion request was received and when it was carried out. We will not proactively restore backups to fulfill a subsequent legal request unless we are specifically ordered to do so by a court.
 
-### 3. Test Environments
+### 4. Test Environments
 
 Test environments use anonymized or synthetic data, not real user data. Deletion requests apply to all environments, including test. If real user data is ever present in a test environment, it is subject to the same deletion obligations as production and will be deleted alongside it.
 
-Users may volunteer to participate in tests or offer their own content for use in a test environment. This is strictly opt-in — we will never place real user data in a test environment without your explicit consent. If you choose to participate, you may withdraw your consent at any time and your content will be removed from the test environment.
+Users may volunteer to participate in tests or offer their own content for use in a test environment. This is strictly opt-in. We will never place real user data in a test environment without your explicit consent. If you choose to participate, you may withdraw your consent at any time and your content will be removed from the test environment.
 
 Volunteer activities will be governed in separate agreements.
 
 ## X. AI Usage
 
-In the far future we may use data from documents created by you, and files attached to them, to train our AI for service improvement. Only documents you have explicitly permitted us to use for this purpose, and which are public or shared within servers, will ever be considered for AI training. See the applicable [Smart Technologies Policy](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Smart-Technologies.md).
+In the far future we may use data from documents created by you, and files attached to them, to train our AI for service improvement. Only documents you have explicitly permitted us to use for this purpose, and which are public or shared within servers, will ever be considered for AI training. See the applicable [Smart Technologies Policy](Smart-Technologies-Policy.md "Smart Technologies Policy – Compendium Standard Public Disclosures").
 
 ## XI. Contact Us
 
-If you have any questions about this Privacy Policy or wish to exercise any of your data rights, please contact us at **policy@`[WIP - website domain]`** or **data_requests@`[WIP - website domain]`**, or through `[WIP - support channel]` on Discord.
+If you have any questions about this Privacy Policy or wish to exercise any of your data rights, please contact us at **policy@`[WIP - Website domain]`** or **compliance@`[WIP - Website domain]`**, or through `[WIP - support channel]` on Discord.
 
-## XII. Other Data Protection Juridictions
+## XII. Other Data Protection Jurisdictions
 
 If you are in any of the below jurisdictions, you may have rights in addition to the existing rights provided under GDPR.
 
@@ -209,11 +212,11 @@ California law (CCPA/CPRA) gives you some specific rights on top of what we alre
 
 - **Know what we have**: Ask us exactly what data we hold about you and what we do with it.
 - **Fix it**: If something is wrong, ask us to correct it.
-- **Delete it**: Ask us to delete it. The same limitations apply as in Section IX.
+- **Delete it**: Ask us to delete it. The same limitations apply as in §IX.
 - **We don't sell your data**: We do not sell, share, or trade your personal information. You don't need to opt out of something we don't do.
 - **No retaliation**: Exercising any of these rights will never affect your access to Compendium.
 
-We will respond to requests within 45 days. Contact us at **data_requests@`[WIP - website domain]`**.
+We will respond to requests within 45 days. Contact us at **compliance@`[WIP - Website domain]`**.
 
 ## XIII. Commitments
 

@@ -4,13 +4,13 @@ These rules govern both the support community, and all interactions conducted by
 
 ---
 
-**Support is a privilege, not a right** – Violation of these rules may diminish or eliminate your ability to seek or receive support.
+**Support is a privilege, not a right** - Violation of these rules may diminish or eliminate your ability to seek or receive support.
 
 ---
 
-## Community Rules
+## I. Community Rules
 
-1. The mission of our support environments is to provide support for [Compendium](https://discord.com/users/1153092754310692935 "Compendium – Main Bot"), to you to resolve errors, assist with setup, and answer any questions about Compendium This requires cooperation and intention to solve the problem at hand. All rules flow from the following: *Do not undermine the mission of this support environment.*
+1. The mission of our support environments is to provide support for [Compendium](https://discord.com/users/1153092754310692935 "Compendium – Main Bot"), to you to resolve errors, assist with setup, and answer any questions about Compendium. This requires cooperation and intention to solve the problem at hand. All rules flow from the following: *Do not undermine the mission of this support environment.*
 2. Follow the [TOS](https://discord.com/terms "Terms of Service – Discord") and [Community Guidelines](https://discord.com/guidelines "Community Guidelines – Discord") of Discord, the [TOS](https://github.com/Compendium-Discord-Bot/Compendium-Standard-Public-Disclosures/blob/main/Policy-Documents/Terms-of-Service.md "Terms of Service – Compendium Standard Public Disclosures") of Compendium, and all applicable laws governing your behavior while interacting on Discord.
 3. You are not required to treat everyone with any high honors, but grant everyone basic dignity.
 4. Do not harass or abuse any member of this server. Do not use discriminatory or foul language.
@@ -20,7 +20,7 @@ These rules govern both the support community, and all interactions conducted by
 8. Do not ping people for no reason. Do not ping support staff unless they've already engaged you in replies *(One ping is okay, more if it's been > 48 hours without a response)*.
 9. Do not send links unless requested by a member of staff.
 
-## Support Rules
+## II. Support Rules
 
 We aim to provide the best support in a reasonable amount of time, however, support is a partnership, therefore we require you to help us, to help you. Thanks in advance for respecting our boundaries and for being a good partner in support.
 
