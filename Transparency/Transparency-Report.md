@@ -22,7 +22,7 @@ When we are legally permitted to disclose a received request, we record it in th
 
 ### 1. Entry Format
 
-> **[Quarter Year]** - We received a legally binding data request from a [law enforcement / judicial] authority in [country]. We [verified its legitimacy and complied in full / contested its scope and complied with a narrowed version / contested it and did not comply]. [N] user(s) were affected. Affected users were [notified / prohibited from being notified at the time - now disclosed].
+> **[Year] [Quarter]** - We received a legally binding data request from a [law enforcement / judicial] authority in [country]. We [verified its legitimacy and complied in full / contested its scope and complied with a narrowed version / contested it and did not comply]. [N] user(s) were affected. Affected users were [notified / prohibited from being notified at the time - now disclosed].
 
 ## III. Past Data Requests
 
